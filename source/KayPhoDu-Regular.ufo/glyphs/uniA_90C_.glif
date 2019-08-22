@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA90C" format="2">
+	<advance width="922"/>
+	<unicode hex="A90C"/>
+	<note>
+		uniA90C
+  </note>
+	<outline>
+		<contour>
+			<point x="705" y="426" type="line"/>
+			<point x="289" y="424" type="line"/>
+			<point x="578" y="723" type="line"/>
+			<point x="606" y="723" type="line" smooth="yes"/>
+			<point x="705" y="723"/>
+			<point x="705" y="621" type="qcurve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="193" y="604" type="line"/>
+			<point x="193" y="819" type="line"/>
+			<point x="94" y="819" type="line"/>
+			<point x="94" y="0" type="line"/>
+			<point x="340" y="0" type="line"/>
+			<point x="340" y="92" type="line"/>
+			<point x="193" y="92" type="line"/>
+			<point x="193" y="332" type="line"/>
+			<point x="705" y="332" type="line"/>
+			<point x="705" y="92" type="line"/>
+			<point x="570" y="92" type="line"/>
+			<point x="570" y="0" type="line"/>
+			<point x="811" y="0" type="line"/>
+			<point x="811" y="615" type="line" smooth="yes"/>
+			<point x="811" y="813"/>
+			<point x="639" y="819" type="qcurve"/>
+			<point x="541" y="819" type="line"/>
+			<point x="193" y="455" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 57 values pushed */
+23 1 27 9 4 8 6 7 1 5 1 28 0 17 17 6 18 1 21 1 14 29 13 7 10 7 3 4 8 4 2 1 18 9 14 1 16 1 66 12 1 6 5 20 5 2 23 1 69 18 22 24 6 2 25 15 3 
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+IUP[1]	/* InterpolateUntPts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

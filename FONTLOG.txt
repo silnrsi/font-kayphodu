@@ -1,0 +1,41 @@
+FONTLOG 
+Kay Pho Du font
+===============
+
+This file provides detailed information on the Kay Pho Du font software. 
+This information should be distributed along with the Kay Pho Du fonts 
+and any derivative works.
+
+
+Basic Font Information
+----------------------
+
+Kay Pho Du is a font for the Kayah Li script, based initially on the
+design of Karenni (https://github.com/silnrsi/font-karenni). This is
+currently a work-in-progress, so these fonts and related files are
+preliminary and incomplete. They should not be used for creating
+derivatives until a later release. 
+
+
+ChangeLog
+---------
+(This should list both major and minor changes, most recent first.)
+
+2019-08-22 Kay Pho Du v0.1
+  - Initial files based on Karenni
+
+
+Acknowledgements
+----------------
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.)
+
+N: Victor Gaultney
+E: fonts@sil.org
+W: http://scripts.sil.org
+D: Design & engineering
+
+N: Khu Oo Reh
+E: mawlibu@gmail.com
+D: Original designer of the Karenni fonts

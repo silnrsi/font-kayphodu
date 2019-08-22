@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+	<advance width="287"/>
+	<unicode hex="0021"/>
+	<note>
+		exclam
+  </note>
+	<outline>
+		<contour>
+			<point x="127" y="241" type="qcurve"/>
+			<point x="147" y="241" type="line"/>
+			<point x="223" y="1152" type="line"/>
+			<point x="223" y="1187"/>
+			<point x="181" y="1229"/>
+			<point x="137" y="1229" type="qcurve" smooth="yes"/>
+			<point x="95" y="1229"/>
+			<point x="51" y="1190"/>
+			<point x="51" y="1150" type="qcurve" smooth="yes"/>
+			<point x="52" y="1143"/>
+			<point x="53" y="1126"/>
+			<point x="55" y="1094"/>
+			<point x="58" y="1040"/>
+			<point x="65" y="952"/>
+			<point x="75" y="823"/>
+			<point x="91" y="641"/>
+			<point x="113" y="399"/>
+		</contour>
+		<contour>
+			<point x="82" y="134" type="line"/>
+			<point x="82" y="4" type="line"/>
+			<point x="193" y="4" type="line"/>
+			<point x="193" y="134" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>PUSHW[ ]	/* 1 value pushed */
+22 
+CALL[ ]	/* CallFunction */
+PUSHW[ ]	/* 3 values pushed */
+18 17 25 
+CALL[ ]	/* CallFunction */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+12 
+MDAP[1]	/* MoveDirectAbsPt */
+PUSHW[ ]	/* 1 value pushed */
+19 
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

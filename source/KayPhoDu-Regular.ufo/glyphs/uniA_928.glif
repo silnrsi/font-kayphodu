@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA928" format="2">
+	<advance width="0"/>
+	<unicode hex="A928"/>
+	<note>
+		uniA928
+  </note>
+	<outline>
+		<contour>
+			<point x="-127" y="873" type="line"/>
+			<point x="-469" y="1229" type="line"/>
+			<point x="-807" y="873" type="line"/>
+			<point x="-680" y="873" type="line"/>
+			<point x="-469" y="1086" type="line"/>
+			<point x="-254" y="873" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 15 values pushed */
+5 4 2 1 4 19 46 0 4 0 5 1 7 15 3 
+CALL[ ]	/* CallFunction */
+IUP[1]	/* InterpolateUntPts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+LOOPCALL[ ]	/* LoopAndCallFunction */
+IUP[0]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>

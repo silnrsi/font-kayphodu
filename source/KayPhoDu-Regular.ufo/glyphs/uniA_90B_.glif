@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA90B" format="2">
+	<advance width="922"/>
+	<unicode hex="A90B"/>
+	<note>
+		uniA90B
+  </note>
+	<outline>
+		<contour>
+			<point x="705" y="479" type="line"/>
+			<point x="193" y="479" type="line"/>
+			<point x="193" y="604" type="line" smooth="yes"/>
+			<point x="193" y="721"/>
+			<point x="283" y="723" type="qcurve" smooth="yes"/>
+			<point x="606" y="723" type="line" smooth="yes"/>
+			<point x="705" y="723"/>
+			<point x="705" y="621" type="qcurve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="705" y="398" type="line"/>
+			<point x="705" y="195" type="line" smooth="yes"/>
+			<point x="705" y="92"/>
+			<point x="623" y="92" type="qcurve" smooth="yes"/>
+			<point x="295" y="94" type="line" smooth="yes"/>
+			<point x="193" y="94"/>
+			<point x="193" y="203" type="qcurve" smooth="yes"/>
+			<point x="193" y="209" type="line"/>
+			<point x="375" y="209" type="line"/>
+			<point x="375" y="283" type="line"/>
+			<point x="94" y="283" type="line"/>
+			<point x="94" y="205" type="line" smooth="yes"/>
+			<point x="94" y="110"/>
+			<point x="193" y="0"/>
+			<point x="266" y="0" type="qcurve" smooth="yes"/>
+			<point x="652" y="0" type="line" smooth="yes"/>
+			<point x="686" y="0"/>
+			<point x="759" y="37"/>
+			<point x="811" y="130"/>
+			<point x="811" y="205" type="qcurve" smooth="yes"/>
+			<point x="811" y="615" type="line" smooth="yes"/>
+			<point x="811" y="813"/>
+			<point x="639" y="819" type="qcurve"/>
+			<point x="258" y="819" type="line"/>
+			<point x="94" y="800"/>
+			<point x="94" y="615" type="qcurve" smooth="yes"/>
+			<point x="94" y="398" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 52 values pushed */
+27 13 4 0 6 34 0 8 0 6 37 26 27 0 6 32 1 31 28 21 7 1 7 4 4 12 1 8 7 9 1 1 66 16 8 2 5 27 1 29 1 25 1 69 7 10 26 6 2 36 15 3 
+CALL[ ]	/* CallFunction */
+CALL[ ]	/* CallFunction */
+IUP[1]	/* InterpolateUntPts */
+SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */</string>
+		</dict>
+	</lib>
+</glyph>
