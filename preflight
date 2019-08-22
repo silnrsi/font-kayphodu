@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# This normalization will also run check and fix routines
+psfnormalize -p checkfix=fix source/KayPhoDu-Regular.ufo
+psfnormalize -p checkfix=fix source/KayPhoDu-Bold.ufo
+
+# Following sync will copy psnames and glyphorder updates to all fonts
+psfsyncmasters source/KayPhoDu.designspace

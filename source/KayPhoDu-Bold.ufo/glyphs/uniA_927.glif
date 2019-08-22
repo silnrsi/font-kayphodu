@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA927" format="2">
-	<advance width="0"/>
-	<unicode hex="A927"/>
-	<note>
+  <unicode hex="A927"/>
+  <note>
 		uniA927
   </note>
-	<outline>
-		<contour>
-			<point x="-338" y="1049" type="line"/>
-			<point x="-594" y="1229" type="line"/>
-			<point x="-847" y="1229" type="line"/>
-			<point x="-352" y="898" type="line"/>
-			<point x="-123" y="898" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>assembly</key>
-			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-3 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-1 
-MDAP[1]	/* MoveDirectAbsPt */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */</string>
-		</dict>
-	</lib>
+  <outline>
+    <contour>
+      <point x="-338" y="1049" type="line"/>
+      <point x="-594" y="1229" type="line"/>
+      <point x="-847" y="1229" type="line"/>
+      <point x="-352" y="898" type="line"/>
+      <point x="-123" y="898" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA902" format="2">
-	<advance width="906"/>
-	<unicode hex="A902"/>
-	<note>
+  <advance width="906"/>
+  <unicode hex="A902"/>
+  <note>
 		uniA902
   </note>
-	<outline>
-		<contour>
-			<point x="494" y="0" type="line"/>
-			<point x="800" y="819" type="line"/>
-			<point x="636" y="819" type="line"/>
-			<point x="420" y="237" type="line"/>
-			<point x="207" y="819" type="line"/>
-			<point x="46" y="819" type="line"/>
-			<point x="353" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>assembly</key>
-			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-0 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-2 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-5 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 3 values pushed */
-4 0 2 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */</string>
-		</dict>
-	</lib>
+  <outline>
+    <contour>
+      <point x="494" y="0" type="line"/>
+      <point x="800" y="819" type="line"/>
+      <point x="636" y="819" type="line"/>
+      <point x="420" y="237" type="line"/>
+      <point x="207" y="819" type="line"/>
+      <point x="46" y="819" type="line"/>
+      <point x="353" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="period" format="2">
-	<advance width="389"/>
-	<unicode hex="002E"/>
-	<note>
+  <advance width="389"/>
+  <unicode hex="002E"/>
+  <note>
 		period
   </note>
-	<outline>
-		<contour>
-			<point x="270" y="4" type="line"/>
-			<point x="270" y="160" type="line"/>
-			<point x="115" y="160" type="line"/>
-			<point x="115" y="4" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>assembly</key>
-			<string>PUSHW[ ]	/* 1 value pushed */
-22 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 3 values pushed */
-0 1 25 
-CALL[ ]	/* CallFunction */
-SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 3 values pushed */
-3 0 25 
-CALL[ ]	/* CallFunction */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */</string>
-		</dict>
-	</lib>
+  <outline>
+    <contour>
+      <point x="270" y="4" type="line"/>
+      <point x="270" y="160" type="line"/>
+      <point x="115" y="160" type="line"/>
+      <point x="115" y="4" type="line"/>
+    </contour>
+  </outline>
 </glyph>

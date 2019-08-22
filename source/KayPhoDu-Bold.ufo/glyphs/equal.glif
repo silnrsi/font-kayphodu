@@ -1,39 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="equal" format="2">
-	<advance width="931"/>
-	<unicode hex="003D"/>
-	<note>
+  <advance width="931"/>
+  <unicode hex="003D"/>
+  <note>
 		equal
   </note>
-	<outline>
-		<contour>
-			<point x="824" y="446" type="line"/>
-			<point x="824" y="585" type="line"/>
-			<point x="110" y="587" type="line"/>
-			<point x="110" y="446" type="line"/>
-		</contour>
-		<contour>
-			<point x="824" y="226" type="line"/>
-			<point x="824" y="364" type="line"/>
-			<point x="110" y="366" type="line"/>
-			<point x="110" y="226" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>assembly</key>
-			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-2 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 4 values pushed */
-7 1 4 4 
-CALL[ ]	/* CallFunction */
-PUSHW[ ]	/* 4 values pushed */
-3 1 0 4 
-CALL[ ]	/* CallFunction */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */</string>
-		</dict>
-	</lib>
+  <outline>
+    <contour>
+      <point x="824" y="446" type="line"/>
+      <point x="824" y="585" type="line"/>
+      <point x="110" y="587" type="line"/>
+      <point x="110" y="446" type="line"/>
+    </contour>
+    <contour>
+      <point x="824" y="226" type="line"/>
+      <point x="824" y="364" type="line"/>
+      <point x="110" y="366" type="line"/>
+      <point x="110" y="226" type="line"/>
+    </contour>
+  </outline>
 </glyph>

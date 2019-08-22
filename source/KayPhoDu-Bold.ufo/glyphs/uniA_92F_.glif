@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA92F" format="2">
-	<advance width="282"/>
-	<unicode hex="A92F"/>
-	<note>
+  <advance width="282"/>
+  <unicode hex="A92F"/>
+  <note>
 		uniA92F
   </note>
-	<outline>
-		<contour>
-			<point x="214" y="0" type="line"/>
-			<point x="214" y="817" type="line"/>
-			<point x="59" y="820" type="line"/>
-			<point x="59" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>assembly</key>
-			<string>PUSHW[ ]	/* 4 values pushed */
-0 2 1 4 
-CALL[ ]	/* CallFunction */
-SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-2 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-0 
-MDAP[1]	/* MoveDirectAbsPt */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */</string>
-		</dict>
-	</lib>
+  <outline>
+    <contour>
+      <point x="214" y="0" type="line"/>
+      <point x="214" y="817" type="line"/>
+      <point x="59" y="820" type="line"/>
+      <point x="59" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

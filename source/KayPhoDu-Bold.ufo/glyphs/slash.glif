@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="2">
-	<advance width="989"/>
-	<unicode hex="002F"/>
-	<note>
+  <advance width="989"/>
+  <unicode hex="002F"/>
+  <note>
 		slash
   </note>
-	<outline>
-		<contour>
-			<point x="265" y="0" type="line"/>
-			<point x="843" y="1058" type="line"/>
-			<point x="673" y="1061" type="line"/>
-			<point x="99" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>assembly</key>
-			<string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
-PUSHW[ ]	/* 1 value pushed */
-0 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 1 value pushed */
-2 
-MDAP[1]	/* MoveDirectAbsPt */
-PUSHW[ ]	/* 3 values pushed */
-3 0 2 
-SRP1[ ]	/* SetRefPoint1 */
-SRP2[ ]	/* SetRefPoint2 */
-IP[ ]	/* InterpolatePts */
-IUP[0]	/* InterpolateUntPts */
-IUP[1]	/* InterpolateUntPts */</string>
-		</dict>
-	</lib>
+  <outline>
+    <contour>
+      <point x="265" y="0" type="line"/>
+      <point x="843" y="1058" type="line"/>
+      <point x="673" y="1061" type="line"/>
+      <point x="99" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>
