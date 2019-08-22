@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Kay Pho Du</string>
   <key>openTypeHeadCreated</key>
-  <string>2019/08/22 23:33:07</string>
+  <string>2019/08/22 23:38:14</string>
   <key>openTypeHheaAscender</key>
   <integer>1417</integer>
   <key>openTypeHheaDescender</key>
@@ -178,6 +178,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>KayPhoDu-Bold</string>
   <key>postscriptFullName</key>
   <string>Kay Pho Du Bold</string>
+  <key>postscriptStemSnapH</key>
+  <array/>
+  <key>postscriptStemSnapV</key>
+  <array/>
   <key>postscriptUnderlinePosition</key>
   <integer>-110</integer>
   <key>postscriptUnderlineThickness</key>

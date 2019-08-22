@@ -3,8 +3,8 @@
   <advance width="675"/>
   <unicode hex="0029"/>
   <note>
-		parenright
-  </note>
+parenright
+</note>
   <outline>
     <contour>
       <point x="592" y="444" type="qcurve" smooth="yes"/>

@@ -2,8 +2,8 @@
 <glyph name=".notdef" format="2">
   <advance width="1510"/>
   <note>
-		.notdef
-  </note>
+.notdef
+</note>
   <outline>
     <contour>
       <point x="224" y="0" type="line"/>
