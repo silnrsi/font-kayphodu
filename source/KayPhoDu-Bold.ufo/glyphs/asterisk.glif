@@ -2,9 +2,6 @@
 <glyph name="asterisk" format="2">
   <advance width="919"/>
   <unicode hex="002A"/>
-  <note>
-asterisk
-</note>
   <outline>
     <contour>
       <point x="161" y="54" type="line"/>

@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA929" format="2">
   <unicode hex="A929"/>
-  <note>
-uniA929
-</note>
   <outline>
     <contour>
       <point x="-733" y="1116" type="qcurve" smooth="yes"/>

@@ -2,9 +2,6 @@
 <glyph name="uniA912" format="2">
   <advance width="906"/>
   <unicode hex="A912"/>
-  <note>
-uniA912
-</note>
   <outline>
     <contour>
       <point x="525" y="180" type="qcurve" smooth="yes"/>

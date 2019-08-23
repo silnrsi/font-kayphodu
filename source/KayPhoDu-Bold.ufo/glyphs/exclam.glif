@@ -2,9 +2,6 @@
 <glyph name="exclam" format="2">
   <advance width="282"/>
   <unicode hex="0021"/>
-  <note>
-exclam
-</note>
   <outline>
     <contour>
       <point x="131" y="1231" type="qcurve" smooth="yes"/>

@@ -2,9 +2,6 @@
 <glyph name="uni00AD" format="2">
   <advance width="922"/>
   <unicode hex="00AD"/>
-  <note>
-uni00AD
-</note>
   <outline>
     <component base="endash"/>
   </outline>

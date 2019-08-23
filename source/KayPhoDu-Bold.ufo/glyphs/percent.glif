@@ -2,9 +2,6 @@
 <glyph name="percent" format="2">
   <advance width="949"/>
   <unicode hex="0025"/>
-  <note>
-percent
-</note>
   <outline>
     <contour>
       <point x="265" y="0" type="line"/>

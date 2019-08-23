@@ -2,9 +2,6 @@
 <glyph name="uniA919" format="2">
   <advance width="906"/>
   <unicode hex="A919"/>
-  <note>
-uniA919
-</note>
   <outline>
     <component base="uniA906"/>
   </outline>

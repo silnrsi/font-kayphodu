@@ -2,9 +2,6 @@
 <glyph name="divide" format="2">
   <advance width="922"/>
   <unicode hex="00F7"/>
-  <note>
-divide
-</note>
   <outline>
     <contour>
       <point x="504" y="615" type="line"/>

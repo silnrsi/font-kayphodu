@@ -2,9 +2,6 @@
 <glyph name="uniA90B" format="2">
   <advance width="906"/>
   <unicode hex="A90B"/>
-  <note>
-uniA90B
-</note>
   <outline>
     <contour>
       <point x="637" y="507" type="line"/>

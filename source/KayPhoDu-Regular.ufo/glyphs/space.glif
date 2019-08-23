@@ -2,8 +2,5 @@
 <glyph name="space" format="2">
   <advance width="615"/>
   <unicode hex="0020"/>
-  <note>
-space
-</note>
   <outline/>
 </glyph>
