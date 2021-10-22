@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA90F" format="2">
-  <advance width="904"/>
+  <advance width="1157"/>
   <unicode hex="A90F"/>
   <outline>
     <component base="circleNW"/>
@@ -10,9 +10,9 @@
     <component base="circleSE"/>
     <component base="sqWS"/>
     <component base="serifW"/>
-    <component base="circleNW" yOffset="-305"/>
-    <component base="midN" yOffset="-305"/>
-    <component base="circleNE" yOffset="-305"/>
+    <component base="circleNW" yOffset="-390"/>
+    <component base="midN" yOffset="-390"/>
+    <component base="circleNE" yOffset="-390"/>
   </outline>
   <lib>
     <dict>

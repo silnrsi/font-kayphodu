@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="midN" format="2">
-  <advance width="904"/>
+  <advance width="1157"/>
   <outline>
     <contour>
-      <point x="332" y="660" type="line"/>
-      <point x="572" y="660" type="line"/>
-      <point x="572" y="820" type="line"/>
-      <point x="332" y="820" type="line"/>
+      <point x="425" y="845" type="line"/>
+      <point x="732" y="845" type="line"/>
+      <point x="732" y="1050" type="line"/>
+      <point x="425" y="1050" type="line"/>
     </contour>
   </outline>
 </glyph>

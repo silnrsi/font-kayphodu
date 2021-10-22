@@ -2,13 +2,13 @@
 <glyph name="sqES" format="2">
   <outline>
     <contour>
-      <point x="826" y="1229" type="move"/>
-      <point x="720" y="1229" type="line"/>
-      <point x="621" y="1161" type="line"/>
-      <point x="621" y="1045" type="line"/>
-      <point x="720" y="1118" type="line"/>
-      <point x="720" y="819" type="line"/>
-      <point x="621" y="819" type="line"/>
+      <point x="1057" y="1573" type="move"/>
+      <point x="922" y="1573" type="line"/>
+      <point x="795" y="1486" type="line"/>
+      <point x="795" y="1338" type="line"/>
+      <point x="922" y="1431" type="line"/>
+      <point x="922" y="1048" type="line"/>
+      <point x="795" y="1048" type="line"/>
     </contour>
   </outline>
 </glyph>

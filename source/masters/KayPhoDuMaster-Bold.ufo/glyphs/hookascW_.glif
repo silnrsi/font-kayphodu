@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookascW" format="2">
-  <advance width="904"/>
+  <advance width="1157"/>
   <outline>
     <contour>
-      <point x="92" y="740" type="line"/>
-      <point x="256" y="740" type="line"/>
-      <point x="256" y="1140" type="line"/>
-      <point x="92" y="1140" type="line"/>
+      <point x="118" y="947" type="line"/>
+      <point x="328" y="947" type="line"/>
+      <point x="328" y="1459" type="line"/>
+      <point x="118" y="1459" type="line"/>
     </contour>
     <contour>
-      <point x="356" y="966" type="line"/>
-      <point x="356" y="1146" type="line"/>
-      <point x="236" y="1230" type="line"/>
-      <point x="92" y="1230" type="line"/>
-      <point x="92" y="1050" type="line"/>
-      <point x="236" y="1050" type="line"/>
+      <point x="456" y="1236" type="line"/>
+      <point x="456" y="1467" type="line"/>
+      <point x="302" y="1574" type="line"/>
+      <point x="118" y="1574" type="line"/>
+      <point x="118" y="1344" type="line"/>
+      <point x="302" y="1344" type="line"/>
     </contour>
   </outline>
 </glyph>

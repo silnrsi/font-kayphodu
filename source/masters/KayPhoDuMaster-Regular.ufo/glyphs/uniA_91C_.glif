@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA91C" format="2">
-  <advance width="1164"/>
+  <advance width="1490"/>
   <unicode hex="A91C"/>
   <outline>
     <component base="circleSW"/>
     <component base="midW"/>
     <component base="circleNW"/>
-    <component base="circleNE" xOffset="-192"/>
-    <component base="midE" xOffset="-192"/>
-    <component base="circleSW" xOffset="428"/>
-    <component base="circleSE" xOffset="244"/>
-    <component base="midE" xOffset="244"/>
-    <component base="circleNE" xOffset="244"/>
-    <component base="descSE" xOffset="244"/>
-    <component base="midS" xOffset="220" yOffset="-410"/>
+    <component base="circleNE" xOffset="-246"/>
+    <component base="midE" xOffset="-246"/>
+    <component base="circleSW" xOffset="548"/>
+    <component base="circleSE" xOffset="312"/>
+    <component base="midE" xOffset="312"/>
+    <component base="circleNE" xOffset="312"/>
+    <component base="descSE" xOffset="312"/>
+    <component base="midS" xOffset="282" yOffset="-525"/>
     <component base="descserifSW"/>
   </outline>
   <lib>

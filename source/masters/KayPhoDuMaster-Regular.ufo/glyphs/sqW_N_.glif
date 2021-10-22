@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sqWN" format="2">
-  <advance width="920"/>
+  <advance width="1178"/>
   <outline>
     <contour>
-      <point x="100" y="556" type="line"/>
-      <point x="200" y="556" type="line"/>
-      <point x="200" y="820" type="line"/>
-      <point x="100" y="820" type="line"/>
+      <point x="128" y="712" type="line"/>
+      <point x="256" y="712" type="line"/>
+      <point x="256" y="1050" type="line"/>
+      <point x="128" y="1050" type="line"/>
     </contour>
   </outline>
 </glyph>

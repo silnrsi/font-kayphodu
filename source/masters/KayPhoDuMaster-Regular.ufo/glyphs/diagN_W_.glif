@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="diagNW" format="2">
-  <advance width="920"/>
+  <advance width="1178"/>
   <outline>
     <contour>
-      <point x="364" y="820" type="line"/>
-      <point x="330" y="820" type="line"/>
-      <point x="128" y="616" type="line"/>
-      <point x="128" y="484" type="line"/>
-      <point x="364" y="724" type="line"/>
+      <point x="466" y="1050" type="line"/>
+      <point x="422" y="1050" type="line"/>
+      <point x="164" y="788" type="line"/>
+      <point x="164" y="620" type="line"/>
+      <point x="466" y="927" type="line"/>
     </contour>
   </outline>
 </glyph>

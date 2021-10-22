@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA920" format="2">
-  <advance width="904"/>
+  <advance width="1157"/>
   <unicode hex="A920"/>
   <outline>
     <component base="sqWN"/>
@@ -11,18 +11,18 @@
     <component base="circleSW"/>
     <component base="serifWS"/>
     <contour>
-      <point x="256" y="820" type="line"/>
-      <point x="210" y="820" type="line"/>
-      <point x="210" y="673" type="line"/>
-      <point x="452" y="484" type="line"/>
-      <point x="452" y="666" type="line"/>
+      <point x="328" y="1050" type="line"/>
+      <point x="269" y="1050" type="line"/>
+      <point x="269" y="861" type="line"/>
+      <point x="579" y="620" type="line"/>
+      <point x="579" y="852" type="line"/>
     </contour>
     <contour>
-      <point x="694" y="820" type="line"/>
-      <point x="648" y="820" type="line"/>
-      <point x="452" y="666" type="line"/>
-      <point x="452" y="484" type="line"/>
-      <point x="694" y="673" type="line"/>
+      <point x="888" y="1050" type="line"/>
+      <point x="829" y="1050" type="line"/>
+      <point x="579" y="852" type="line"/>
+      <point x="579" y="620" type="line"/>
+      <point x="888" y="861" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-  <advance width="383"/>
+  <advance width="490"/>
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="267" y="581" type="line"/>
-      <point x="267" y="736" type="line"/>
-      <point x="111" y="736" type="line"/>
-      <point x="111" y="581" type="line"/>
+      <point x="342" y="744" type="line"/>
+      <point x="342" y="942" type="line"/>
+      <point x="142" y="942" type="line"/>
+      <point x="142" y="744" type="line"/>
     </contour>
     <contour>
-      <point x="24" y="-61" type="line"/>
-      <point x="-1" y="-40" type="line"/>
-      <point x="111" y="115" type="line"/>
-      <point x="111" y="237" type="line"/>
-      <point x="268" y="237" type="line"/>
-      <point x="268" y="83" type="line"/>
-      <point x="205" y="83" type="line"/>
+      <point x="31" y="-78" type="line"/>
+      <point x="-1" y="-51" type="line"/>
+      <point x="142" y="147" type="line"/>
+      <point x="142" y="303" type="line"/>
+      <point x="343" y="303" type="line"/>
+      <point x="343" y="106" type="line"/>
+      <point x="262" y="106" type="line"/>
     </contour>
   </outline>
 </glyph>

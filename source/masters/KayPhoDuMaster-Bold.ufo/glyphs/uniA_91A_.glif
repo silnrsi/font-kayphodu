@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA91A" format="2">
-  <advance width="904"/>
+  <advance width="1157"/>
   <unicode hex="A91A"/>
   <outline>
     <component base="sqWS"/>
     <component base="midW"/>
     <component base="sqWN"/>
-    <component base="midN" xOffset="24"/>
+    <component base="midN" xOffset="31"/>
     <component base="circleNE"/>
     <component base="midE"/>
     <component base="descSE"/>

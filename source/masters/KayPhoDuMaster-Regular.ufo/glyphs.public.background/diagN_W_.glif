@@ -2,16 +2,16 @@
 <glyph name="diagNW" format="2">
   <outline>
     <contour>
-      <point x="646" y="819" type="move"/>
-      <point x="331" y="819" type="line"/>
-      <point x="200" y="688" type="line"/>
-      <point x="200" y="819" type="line"/>
+      <point x="827" y="1048" type="move"/>
+      <point x="424" y="1048" type="line"/>
+      <point x="256" y="881" type="line"/>
+      <point x="256" y="1048" type="line"/>
     </contour>
     <contour>
-      <point x="200" y="203" type="move"/>
-      <point x="200" y="557" type="line"/>
-      <point x="364" y="723" type="line"/>
-      <point x="613" y="723" type="line" smooth="yes"/>
+      <point x="256" y="260" type="move"/>
+      <point x="256" y="713" type="line"/>
+      <point x="466" y="925" type="line"/>
+      <point x="785" y="925" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA914" format="2">
-  <advance width="920"/>
+  <advance width="1178"/>
   <unicode hex="A914"/>
   <outline>
     <component base="circleNW"/>
@@ -9,8 +9,8 @@
     <component base="circleSE"/>
     <component base="midS"/>
     <component base="circleSW"/>
-    <component base="serifEN" yOffset="32"/>
-    <component base="serifWS" yOffset="-32"/>
+    <component base="serifEN" yOffset="41"/>
+    <component base="serifWS" yOffset="-41"/>
     <component base="diagNWSE"/>
     <component base="descSW"/>
   </outline>
