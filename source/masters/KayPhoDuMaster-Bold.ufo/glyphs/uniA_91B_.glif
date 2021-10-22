@@ -9,11 +9,11 @@
     <component base="circleSW"/>
     <component base="circleSE" xOffset="-138"/>
     <component base="midE" xOffset="-138"/>
-    <component base="circleNW" xOffset="573"/>
-    <component base="circleNE" xOffset="435"/>
-    <component base="midE" xOffset="435"/>
-    <component base="sqES" xOffset="435"/>
-    <component base="sqSE" xOffset="435"/>
+    <component base="circleNW" xOffset="574"/>
+    <component base="circleNE" xOffset="436"/>
+    <component base="midE" xOffset="436"/>
+    <component base="sqES" xOffset="436"/>
+    <component base="sqSE" xOffset="436"/>
   </outline>
   <lib>
     <dict>

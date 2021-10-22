@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA92F" format="2">
-  <advance width="367"/>
+  <advance width="384"/>
   <unicode hex="A92F"/>
   <outline>
     <contour>
-      <point x="247" y="0" type="line"/>
-      <point x="247" y="1046" type="line"/>
-      <point x="120" y="1048" type="line"/>
-      <point x="120" y="0" type="line"/>
+      <point x="256" y="0" type="line"/>
+      <point x="256" y="1046" type="line"/>
+      <point x="128" y="1048" type="line"/>
+      <point x="128" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

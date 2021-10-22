@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="diagNWSE" format="2">
-  <advance width="1157"/>
+  <advance width="1156"/>
   <outline>
     <contour>
-      <point x="1039" y="403" type="line"/>
+      <point x="1038" y="403" type="line"/>
       <point x="328" y="749" type="line"/>
       <point x="118" y="749" type="line"/>
       <point x="118" y="646" type="line"/>
-      <point x="829" y="301" type="line"/>
-      <point x="829" y="301"/>
-      <point x="1039" y="301"/>
-      <point x="1039" y="301" type="curve"/>
+      <point x="828" y="301" type="line"/>
+      <point x="828" y="301"/>
+      <point x="1038" y="301"/>
+      <point x="1038" y="301" type="curve"/>
     </contour>
   </outline>
 </glyph>

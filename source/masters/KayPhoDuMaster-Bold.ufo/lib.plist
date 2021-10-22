@@ -11,16 +11,7 @@
   <string>3099</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/diagcomp</string>
-    <string>/diagSE</string>
-    <string>/diagNW</string>
-    <string>/latcir</string>
-    <string>/uniA900/uniA901/uniA906/latcir/latn/uniA916/uniA91A/uniA922</string>
-    <string>/latn</string>
-    <string>/uniA922</string>
-    <string>/uniA901</string>
-    <string>/uniA90D</string>
-    <string>/circleNW</string>
+    <string>j</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sqWS" format="2">
-  <advance width="1157"/>
+  <advance width="1156"/>
   <outline>
     <contour>
       <point x="118" y="0" type="line"/>
-      <point x="328" y="0" type="line"/>
-      <point x="328" y="338" type="line"/>
+      <point x="326" y="0" type="line"/>
+      <point x="326" y="338" type="line"/>
       <point x="118" y="338" type="line"/>
     </contour>
   </outline>

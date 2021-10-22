@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hookascW" format="2">
-  <advance width="1157"/>
+  <advance width="1156"/>
   <outline>
     <contour>
       <point x="118" y="947" type="line"/>
-      <point x="328" y="947" type="line"/>
-      <point x="328" y="1459" type="line"/>
+      <point x="326" y="947" type="line"/>
+      <point x="326" y="1459" type="line"/>
       <point x="118" y="1459" type="line"/>
     </contour>
     <contour>

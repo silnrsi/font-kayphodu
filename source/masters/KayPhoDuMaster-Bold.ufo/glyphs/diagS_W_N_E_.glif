@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="diagSWNE" format="2">
-  <advance width="1157"/>
+  <advance width="1156"/>
   <outline>
     <contour>
       <point x="118" y="403" type="line"/>
@@ -8,9 +8,9 @@
       <point x="118" y="301"/>
       <point x="328" y="301"/>
       <point x="328" y="301" type="curve"/>
-      <point x="1039" y="646" type="line"/>
-      <point x="1039" y="749" type="line"/>
-      <point x="829" y="749" type="line"/>
+      <point x="1038" y="646" type="line"/>
+      <point x="1038" y="749" type="line"/>
+      <point x="828" y="749" type="line"/>
     </contour>
   </outline>
 </glyph>
