@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA901" format="2">
+  <advance width="920"/>
+  <unicode hex="A901"/>
+  <outline>
+    <component base="circleNW"/>
+    <component base="midN"/>
+    <component base="circleNE"/>
+    <component base="circleSE"/>
+    <component base="midS"/>
+    <component base="circleSW"/>
+    <component base="loopflat"/>
+    <component base="circleNW" yOffset="-335"/>
+    <component base="midN" yOffset="-335"/>
+    <component base="sqNE" yOffset="-335"/>
+    <component base="midEN"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

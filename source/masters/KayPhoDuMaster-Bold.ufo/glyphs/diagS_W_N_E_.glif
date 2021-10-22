@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diagSWNE" format="2">
+  <advance width="904"/>
+  <outline>
+    <contour>
+      <point x="92" y="315" type="line"/>
+      <point x="92" y="235" type="line"/>
+      <point x="92" y="235"/>
+      <point x="256" y="235"/>
+      <point x="256" y="235" type="curve"/>
+      <point x="812" y="505" type="line"/>
+      <point x="812" y="585" type="line"/>
+      <point x="648" y="585" type="line"/>
+    </contour>
+  </outline>
+</glyph>

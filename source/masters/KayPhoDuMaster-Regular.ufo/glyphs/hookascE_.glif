@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hookascE" format="2">
+  <advance width="920"/>
+  <outline>
+    <contour>
+      <point x="720" y="772" type="line"/>
+      <point x="820" y="772" type="line"/>
+      <point x="820" y="1150" type="line"/>
+      <point x="720" y="1150" type="line"/>
+    </contour>
+    <contour>
+      <point x="604" y="1030" type="line"/>
+      <point x="724" y="1114" type="line"/>
+      <point x="820" y="1114" type="line"/>
+      <point x="820" y="1230" type="line"/>
+      <point x="724" y="1230" type="line"/>
+      <point x="604" y="1146" type="line"/>
+    </contour>
+  </outline>
+</glyph>

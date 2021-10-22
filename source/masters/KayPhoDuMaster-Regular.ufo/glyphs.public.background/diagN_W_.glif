@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diagNW" format="2">
+  <outline>
+    <contour>
+      <point x="646" y="819" type="move"/>
+      <point x="331" y="819" type="line"/>
+      <point x="200" y="688" type="line"/>
+      <point x="200" y="819" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="203" type="move"/>
+      <point x="200" y="557" type="line"/>
+      <point x="364" y="723" type="line"/>
+      <point x="613" y="723" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="diagSE" format="2">
+  <advance width="904"/>
+  <outline>
+    <contour>
+      <point x="358" y="160" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="404" y="0" type="line"/>
+      <point x="762" y="354" type="line"/>
+      <point x="762" y="562" type="line"/>
+    </contour>
+  </outline>
+</glyph>

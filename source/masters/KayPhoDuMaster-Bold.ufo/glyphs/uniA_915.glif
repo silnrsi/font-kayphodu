@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA915" format="2">
+  <advance width="904"/>
+  <unicode hex="A915"/>
+  <outline>
+    <component base="circleNW"/>
+    <component base="midN"/>
+    <component base="circleNE"/>
+    <component base="circleSE"/>
+    <component base="midS"/>
+    <component base="circleSW"/>
+    <component base="midW"/>
+    <component base="serifES" yOffset="-32"/>
+    <component base="diagSWNE" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Fix up glifs in files touched by FontForge and normalize
-psffixffglifs source/KayPhoDu-Regular.ufo -p checkfix=fix
-psffixffglifs source/KayPhoDu-Bold.ufo -p checkfix=fix
+psffixffglifs source/masters/KayPhoDuMaster-Regular.ufo -p checkfix=fix
+psffixffglifs source/masters/KayPhoDuMaster-Bold.ufo -p checkfix=fix
 
 # Following sync will copy psnames and glyphorder updates to all fonts
 psfsyncmasters source/KayPhoDu.designspace

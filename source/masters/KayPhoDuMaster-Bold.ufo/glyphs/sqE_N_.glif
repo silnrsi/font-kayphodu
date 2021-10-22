@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sqEN" format="2">
+  <advance width="904"/>
+  <outline>
+    <contour>
+      <point x="648" y="556" type="line"/>
+      <point x="812" y="556" type="line"/>
+      <point x="812" y="820" type="line"/>
+      <point x="648" y="820" type="line"/>
+    </contour>
+  </outline>
+</glyph>

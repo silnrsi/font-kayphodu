@@ -16,7 +16,7 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Kay Pho Du" filename="KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylename="Regular">
+        <source familyname="Kay Pho Du Master" filename="masters/KayPhoDuMaster-Regular.ufo" name="Kay Pho Du Regular" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -27,7 +27,7 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Kay Pho Du" filename="KayPhoDu-Bold.ufo" name="Kay Pho Du Bold" stylename="Bold">
+        <source familyname="Kay Pho Du Master" filename="masters/KayPhoDuMaster-Bold.ufo" name="Kay Pho Du Bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -36,7 +36,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Kay Pho Du" filename="KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylemapfamilyname="Kay Pho Du" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-Regular.ufo" name="Kay Pho Du Proto A Regular" stylemapfamilyname="Kay Pho Du Proto A" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -45,7 +45,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Kay Pho Du" filename="KayPhoDu-Bold.ufo" name="Kay Pho Du Bold" stylemapfamilyname="Kay Pho Du" stylemapstylename="bold" stylename="Bold">
+        <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-Bold.ufo" name="Kay Pho Du Proto A Bold" stylemapfamilyname="Kay Pho Du Proto A" stylemapstylename="bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
