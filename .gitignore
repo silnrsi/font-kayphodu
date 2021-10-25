@@ -53,6 +53,7 @@ current.fpr
 *.vfbak
 *.~tt
 +.idea/*
+*.glyphs
 
 
 # Shares
@@ -102,4 +103,3 @@ $RECYCLE.BIN/
 *.py[co]
 *$py.class
 __pycache__/
-
