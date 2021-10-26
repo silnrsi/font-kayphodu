@@ -20,6 +20,8 @@
   <string>circlecomp.glif</string>
   <key>circlemidW</key>
   <string>circlemidW_.glif</string>
+  <key>comma</key>
+  <string>comma.glif</string>
   <key>descSE</key>
   <string>descS_E_.glif</string>
   <key>descSW</key>
@@ -40,6 +42,8 @@
   <string>diagS_W_N_E_.glif</string>
   <key>diagcomp</key>
   <string>diagcomp.glif</string>
+  <key>exclam</key>
+  <string>exclam.glif</string>
   <key>headcir</key>
   <string>headcir.glif</string>
   <key>hookascE</key>
@@ -66,6 +70,26 @@
   <string>midW_N_.glif</string>
   <key>midline</key>
   <string>midline.glif</string>
+  <key>multiply</key>
+  <string>multiply.glif</string>
+  <key>parenleft</key>
+  <string>parenleft.glif</string>
+  <key>parenright</key>
+  <string>parenright.glif</string>
+  <key>plus</key>
+  <string>plus.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
+  <key>quotedblleft</key>
+  <string>quotedblleft.glif</string>
+  <key>quotedblright</key>
+  <string>quotedblright.glif</string>
+  <key>quoteleft</key>
+  <string>quoteleft.glif</string>
+  <key>quoteright</key>
+  <string>quoteright.glif</string>
+  <key>semicolon</key>
+  <string>semicolon.glif</string>
   <key>serifE</key>
   <string>serifE_.glif</string>
   <key>serifEN</key>
@@ -158,5 +182,15 @@
   <string>uniA_923.glif</string>
   <key>uniA925</key>
   <string>uniA_925.glif</string>
+  <key>uniA929</key>
+  <string>uniA_929.glif</string>
+  <key>uniA92A</key>
+  <string>uniA_92A_.glif</string>
+  <key>uniA92C</key>
+  <string>uniA_92C_.glif</string>
+  <key>uniA92D</key>
+  <string>uniA_92D_.glif</string>
+  <key>uniA92E</key>
+  <string>uniA_92E_.glif</string>
 </dict>
 </plist>
