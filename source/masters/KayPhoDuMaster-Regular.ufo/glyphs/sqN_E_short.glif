@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sqNEshort" format="2">
+  <advance width="1180"/>
+  <outline>
+    <contour>
+      <point x="763" y="926" type="line"/>
+      <point x="1052" y="926" type="line"/>
+      <point x="1052" y="1050" type="line"/>
+      <point x="763" y="1050" type="line"/>
+    </contour>
+  </outline>
+</glyph>

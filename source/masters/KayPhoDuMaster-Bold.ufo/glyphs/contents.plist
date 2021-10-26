@@ -80,8 +80,12 @@
   <string>circleN_W_.glif</string>
   <key>circleSE</key>
   <string>circleS_E_.glif</string>
+  <key>circleSEshort</key>
+  <string>circleS_E_short.glif</string>
   <key>circleSW</key>
   <string>circleS_W_.glif</string>
+  <key>circleSWshort</key>
+  <string>circleS_W_short.glif</string>
   <key>circlecomp</key>
   <string>circlecomp.glif</string>
   <key>circlemidW</key>
@@ -206,14 +210,22 @@
   <string>serifE_.glif</string>
   <key>serifEN</key>
   <string>serifE_N_.glif</string>
+  <key>serifENshort</key>
+  <string>serifE_N_short.glif</string>
   <key>serifES</key>
   <string>serifE_S_.glif</string>
+  <key>serifESshort</key>
+  <string>serifE_S_short.glif</string>
   <key>serifW</key>
   <string>serifW_.glif</string>
   <key>serifWN</key>
   <string>serifW_N_.glif</string>
+  <key>serifWNshort</key>
+  <string>serifW_N_short.glif</string>
   <key>serifWS</key>
   <string>serifW_S_.glif</string>
+  <key>serifWSshort</key>
+  <string>serifW_S_short.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -224,12 +236,20 @@
   <string>sqE_S_.glif</string>
   <key>sqNE</key>
   <string>sqN_E_.glif</string>
+  <key>sqNEshort</key>
+  <string>sqN_E_short.glif</string>
   <key>sqNW</key>
   <string>sqN_W_.glif</string>
+  <key>sqNWshort</key>
+  <string>sqN_W_short.glif</string>
   <key>sqSE</key>
   <string>sqS_E_.glif</string>
+  <key>sqSEshort</key>
+  <string>sqS_E_short.glif</string>
   <key>sqSW</key>
   <string>sqS_W_.glif</string>
+  <key>sqSWshort</key>
+  <string>sqS_W_short.glif</string>
   <key>sqWN</key>
   <string>sqW_N_.glif</string>
   <key>sqWS</key>

@@ -3,7 +3,7 @@
   <advance width="1180"/>
   <unicode hex="A917"/>
   <outline>
-    <component base="sqNE"/>
+    <component base="sqNEshort"/>
     <component base="sqEN"/>
     <component base="midE"/>
     <component base="circleSE"/>
@@ -11,7 +11,7 @@
     <component base="circleSW"/>
     <component base="midW"/>
     <component base="sqWN"/>
-    <component base="sqNW"/>
+    <component base="sqNWshort"/>
     <contour>
       <point x="868" y="77" type="line"/>
       <point x="927" y="77" type="line"/>

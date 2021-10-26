@@ -9,15 +9,15 @@
     <component base="circleSE"/>
     <component base="midS"/>
     <component base="circleSW"/>
-    <component base="serifEN" yOffset="41"/>
-    <component base="serifWS" yOffset="-41"/>
+    <component base="serifENshort" yOffset="41"/>
+    <component base="serifWSshort" yOffset="-41"/>
     <component base="diagNWSE"/>
     <component base="descSW"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

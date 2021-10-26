@@ -6,7 +6,7 @@
     <component base="sqSW"/>
     <component base="midE" xOffset="100"/>
     <component base="sqES" xOffset="100"/>
-    <component base="sqSE" xOffset="100"/>
+    <component base="sqSEshort" xOffset="100"/>
     <component base="sqES" xOffset="-486"/>
     <component base="midE" xOffset="-486"/>
     <contour>

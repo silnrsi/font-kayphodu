@@ -3,13 +3,12 @@
   <advance width="1156"/>
   <unicode hex="A920"/>
   <outline>
-    <component base="sqWN"/>
     <component base="sqEN"/>
     <component base="midE"/>
     <component base="circleSE"/>
     <component base="midS"/>
     <component base="circleSW"/>
-    <component base="serifWS"/>
+    <component base="serifWSshort"/>
     <contour>
       <point x="328" y="1050" type="line"/>
       <point x="269" y="1050" type="line"/>
@@ -24,11 +23,17 @@
       <point x="579" y="620" type="line"/>
       <point x="888" y="861" type="line"/>
     </contour>
+    <contour>
+      <point x="118" y="625" type="line"/>
+      <point x="326" y="625" type="line"/>
+      <point x="326" y="1050" type="line"/>
+      <point x="118" y="1050" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

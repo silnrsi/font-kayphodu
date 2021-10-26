@@ -3,14 +3,14 @@
   <advance width="1156"/>
   <unicode hex="A90C"/>
   <outline>
-    <component base="sqSW"/>
+    <component base="sqSWshort"/>
     <component base="sqWS"/>
     <component base="midW"/>
     <component base="sqWN"/>
     <component base="midline" yOffset="-38"/>
     <component base="midE"/>
     <component base="sqES"/>
-    <component base="sqSE"/>
+    <component base="sqSEshort"/>
     <contour>
       <point x="830" y="712" type="line"/>
       <point x="1038" y="712" type="line"/>

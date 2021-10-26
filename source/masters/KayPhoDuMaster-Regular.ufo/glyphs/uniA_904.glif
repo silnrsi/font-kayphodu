@@ -3,7 +3,7 @@
   <advance width="1180"/>
   <unicode hex="A904"/>
   <outline>
-    <component base="circleSW"/>
+    <component base="circleSWshort"/>
     <component base="midW"/>
     <component base="sqWN"/>
     <component base="midN"/>

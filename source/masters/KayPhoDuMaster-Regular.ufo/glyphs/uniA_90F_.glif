@@ -7,7 +7,7 @@
     <component base="midN"/>
     <component base="circleNE"/>
     <component base="midE"/>
-    <component base="circleSE"/>
+    <component base="circleSEshort"/>
     <component base="sqWS"/>
     <component base="serifW"/>
     <component base="circleNW" yOffset="-422"/>

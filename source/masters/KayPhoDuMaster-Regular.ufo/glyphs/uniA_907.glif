@@ -4,7 +4,7 @@
   <unicode hex="A907"/>
   <outline>
     <component base="hookascE"/>
-    <component base="sqNE"/>
+    <component base="sqNEshort"/>
     <component base="sqEN"/>
     <component base="midE"/>
     <component base="circleSE"/>
@@ -16,7 +16,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>
