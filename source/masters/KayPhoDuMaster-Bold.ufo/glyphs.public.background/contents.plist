@@ -124,6 +124,8 @@
   <string>uniA_90E_.glif</string>
   <key>uniA90F</key>
   <string>uniA_90F_.glif</string>
+  <key>uniA910</key>
+  <string>uniA_910.glif</string>
   <key>uniA911</key>
   <string>uniA_911.glif</string>
   <key>uniA912</key>
@@ -154,5 +156,7 @@
   <string>uniA_922.glif</string>
   <key>uniA923</key>
   <string>uniA_923.glif</string>
+  <key>uniA925</key>
+  <string>uniA_925.glif</string>
 </dict>
 </plist>

@@ -5,17 +5,45 @@
   <outline>
     <component base="sqSW"/>
     <component base="headcir" xOffset="-256" yOffset="307"/>
-    <component base="circleNW"/>
     <component base="midN"/>
     <component base="circleNE"/>
     <component base="midE"/>
     <component base="sqES"/>
     <component base="sqSE"/>
+    <contour>
+      <point x="118" y="204" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="465" y="360" type="line"/>
+      <point x="465" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="316" y="727" type="curve" smooth="yes"/>
+      <point x="316" y="745" type="line" smooth="yes"/>
+      <point x="316" y="807"/>
+      <point x="351" y="846"/>
+      <point x="402" y="846" type="curve" smooth="yes"/>
+      <point x="517" y="846" type="line"/>
+      <point x="517" y="1050" type="line"/>
+      <point x="371" y="1050" type="line" smooth="yes"/>
+      <point x="218" y="1050"/>
+      <point x="118" y="930"/>
+      <point x="118" y="745" type="curve" smooth="yes"/>
+      <point x="118" y="727" type="line" smooth="yes"/>
+      <point x="118" y="542"/>
+      <point x="218" y="433"/>
+      <point x="371" y="433" type="curve" smooth="yes"/>
+      <point x="449" y="433" type="line"/>
+      <point x="449" y="627" type="line"/>
+      <point x="402" y="627" type="line" smooth="yes"/>
+      <point x="351" y="627"/>
+      <point x="316" y="665"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>

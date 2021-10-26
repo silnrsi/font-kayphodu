@@ -10,11 +10,21 @@
     <component base="sqES"/>
     <component base="midE"/>
     <component base="ascNE"/>
+    <contour>
+      <point x="1052" y="45" type="line"/>
+      <point x="256" y="1050" type="line"/>
+      <point x="128" y="1050" type="line"/>
+      <point x="128" y="1005" type="line"/>
+      <point x="924" y="0" type="line"/>
+      <point x="924" y="0"/>
+      <point x="1052" y="0"/>
+      <point x="1052" y="0" type="curve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

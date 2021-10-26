@@ -5,13 +5,44 @@
   <outline>
     <component base="sqWS"/>
     <component base="midW"/>
-    <component base="sqWN"/>
     <component base="headcir"/>
+    <component base="sqWN"/>
+    <contour>
+      <point x="770" y="0" type="curve"/>
+      <point x="934" y="0"/>
+      <point x="1052" y="152"/>
+      <point x="1052" y="362" type="curve" smooth="yes"/>
+      <point x="1052" y="566"/>
+      <point x="910" y="714"/>
+      <point x="697" y="714" type="curve" smooth="yes"/>
+      <point x="461" y="714"/>
+      <point x="255" y="558"/>
+      <point x="167" y="226" type="curve"/>
+      <point x="252" y="157" type="line"/>
+      <point x="352" y="490"/>
+      <point x="539" y="590"/>
+      <point x="683" y="590" type="curve" smooth="yes"/>
+      <point x="845" y="590"/>
+      <point x="928" y="503"/>
+      <point x="928" y="352" type="curve" smooth="yes"/>
+      <point x="928" y="225"/>
+      <point x="873" y="86"/>
+      <point x="770" y="86" type="curve"/>
+      <point x="770" y="57"/>
+      <point x="770" y="29"/>
+    </contour>
+    <contour>
+      <point x="1052" y="776" type="line"/>
+      <point x="1052" y="902" type="line"/>
+      <point x="256" y="1050" type="line"/>
+      <point x="128" y="1050" type="line"/>
+      <point x="128" y="948" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>0.85,0.26,0.06,1</string>
     </dict>
   </lib>
 </glyph>
