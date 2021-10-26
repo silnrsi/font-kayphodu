@@ -45,6 +45,24 @@
             <info />
             <kerning />
         </instance>
+        <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-Medium.ufo" name="Kay Pho Du Proto A Medium" stylemapfamilyname="Kay Pho Du Proto A Medium" stylemapstylename="regular" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="500.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-SemiBold.ufo" name="Kay Pho Du Proto A SemiBold" stylemapfamilyname="Kay Pho Du Proto A SemiBold" stylemapstylename="regular" stylename="Regular">
+            <location>
+                <dimension name="weight" xvalue="600.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
         <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-Bold.ufo" name="Kay Pho Du Proto A Bold" stylemapfamilyname="Kay Pho Du Proto A" stylemapstylename="bold" stylename="Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
