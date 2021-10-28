@@ -17,11 +17,11 @@
       <point x="830" y="1267" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="118" y="1110" type="line"/>
-      <point x="517" y="1110" type="line"/>
-      <point x="517" y="1294" type="line"/>
-      <point x="222" y="1294" type="line"/>
-      <point x="118" y="1264" type="line"/>
+      <point x="118" y="1112" type="line"/>
+      <point x="517" y="1112" type="line"/>
+      <point x="517" y="1296" type="line"/>
+      <point x="222" y="1296" type="line"/>
+      <point x="118" y="1266" type="line"/>
     </contour>
     <contour>
       <point x="118" y="1203" type="line"/>

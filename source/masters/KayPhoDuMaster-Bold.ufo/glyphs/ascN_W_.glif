@@ -37,11 +37,11 @@
       <point x="118" y="1277" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="639" y="1110" type="line"/>
-      <point x="1038" y="1110" type="line"/>
-      <point x="1038" y="1264" type="line"/>
-      <point x="934" y="1294" type="line"/>
-      <point x="639" y="1294" type="line"/>
+      <point x="639" y="1112" type="line"/>
+      <point x="1038" y="1112" type="line"/>
+      <point x="1038" y="1266" type="line"/>
+      <point x="934" y="1296" type="line"/>
+      <point x="639" y="1296" type="line"/>
     </contour>
     <contour>
       <point x="425" y="1358" type="line"/>
