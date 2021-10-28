@@ -14,7 +14,7 @@ getufoinfo('source/masters/' + FAMILY  + 'Master-Regular.ufo')
 # BUILDLABEL = 'beta1'
 
 # Set up the FTML tests
-# ftmlTest('tools/ftml-smith.xsl')
+ftmlTest('tools/ftml-smith.xsl')
 
 designspace('source/' + FAMILY + '.designspace',
     target = "${DS:FILENAME_BASE}.ttf",

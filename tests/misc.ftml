@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../tools/ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontscale>200</fontscale>
+    <fontsrc>url(../results/KayPhoDuProtoA-Regular.ttf)</fontsrc>
+    <fontsrc>url(../results/KayPhoDuProtoA-Medium.ttf)</fontsrc>
+    <fontsrc>url(../results/KayPhoDuProtoA-SemiBold.ttf)</fontsrc>
+    <fontsrc>url(../results/KayPhoDuProtoA-Bold.ttf)</fontsrc>
+    <title>Misc KL Tests</title>
+  </head>
+  <testgroup label="Overlapping contours">
+    <test label="allchars">
+      <string>\u00A900\u00A901\u00A902\u00A903\u00A904\u00A905\u00A906\u00A907\u00A908\u00A909\u00A90A\u00A90B\u00A90C\u00A90D\u00A90E\u00A90F\u00A910\u00A911\u00A912\u00A913\u00A914\u00A915\u00A916\u00A917\u00A918\u00A919\u00A91A\u00A91B\u00A91C\u00A91D\u00A91E\u00A91F\u00A920\u00A921\u00A922\u00A923\u00A924\u00A925</string>
+    </test>
+  </testgroup>
+</ftml>
