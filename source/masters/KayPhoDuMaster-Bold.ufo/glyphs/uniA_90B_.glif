@@ -10,8 +10,8 @@
     <component base="circleSE"/>
     <component base="midS"/>
     <component base="circleSW"/>
-    <component base="midline" yOffset="38"/>
-    <component base="serifWS" yOffset="-61"/>
+    <component base="midline" yOffset="68"/>
+    <component base="serifWS" yOffset="-41"/>
     <component base="midWN"/>
   </outline>
   <lib>

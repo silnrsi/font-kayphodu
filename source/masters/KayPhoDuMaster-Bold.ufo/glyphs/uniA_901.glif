@@ -10,9 +10,9 @@
     <component base="midS"/>
     <component base="circleSW"/>
     <component base="loopflat"/>
-    <component base="circleNW" yOffset="-390"/>
-    <component base="midN" yOffset="-390"/>
-    <component base="sqNE" yOffset="-390"/>
+    <component base="circleNW" yOffset="-380"/>
+    <component base="midN" yOffset="-380"/>
+    <component base="sqNE" yOffset="-380"/>
     <component base="midEN"/>
   </outline>
   <lib>
