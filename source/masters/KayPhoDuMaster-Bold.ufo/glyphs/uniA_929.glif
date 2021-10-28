@@ -2,27 +2,20 @@
 <glyph name="uniA929" format="2">
   <unicode hex="A929"/>
   <outline>
+    <component base="circleSW" xOffset="-1156" yOffset="1112"/>
+    <component base="midS" xOffset="-1156" yOffset="1112"/>
+    <component base="circleSE" xOffset="-1156" yOffset="1112"/>
     <contour>
-      <point x="-938" y="1428" type="curve" smooth="yes"/>
-      <point x="-938" y="1573" type="line"/>
-      <point x="-1065" y="1573" type="line"/>
-      <point x="-1065" y="1431" type="line" smooth="yes"/>
-      <point x="-1065" y="1268"/>
-      <point x="-969" y="1170"/>
-      <point x="-845" y="1170" type="curve" smooth="yes"/>
-      <point x="-352" y="1170" type="line"/>
-      <point x="-244" y="1164"/>
-      <point x="-147" y="1240"/>
-      <point x="-147" y="1431" type="curve" smooth="yes"/>
-      <point x="-147" y="1573" type="line"/>
-      <point x="-283" y="1573" type="line"/>
-      <point x="-283" y="1418" type="line" smooth="yes"/>
-      <point x="-283" y="1331"/>
-      <point x="-317" y="1288"/>
-      <point x="-388" y="1288" type="curve" smooth="yes"/>
-      <point x="-808" y="1290" type="line" smooth="yes"/>
-      <point x="-895" y="1290"/>
-      <point x="-938" y="1336"/>
+      <point x="-1038" y="1420" type="line"/>
+      <point x="-830" y="1420" type="line"/>
+      <point x="-830" y="1562" type="line"/>
+      <point x="-1038" y="1562" type="line"/>
+    </contour>
+    <contour>
+      <point x="-326" y="1420" type="line"/>
+      <point x="-118" y="1420" type="line"/>
+      <point x="-118" y="1562" type="line"/>
+      <point x="-326" y="1562" type="line"/>
     </contour>
   </outline>
 </glyph>

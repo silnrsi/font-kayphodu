@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniA92D" format="2">
+<glyph name="uniA92C" format="2">
   <outline>
     <contour>
-      <point x="-776" y="8" type="line"/>
-      <point x="-913" y="84" type="line"/>
-      <point x="-1014" y="58"/>
-      <point x="-1065" y="-18"/>
+      <point x="-782" y="3" type="line"/>
+      <point x="-892" y="84" type="line"/>
+      <point x="-998" y="60"/>
+      <point x="-1065" y="-28"/>
       <point x="-1065" y="-142" type="curve" smooth="yes"/>
       <point x="-1065" y="-262" type="line" smooth="yes"/>
       <point x="-1065" y="-425"/>
@@ -25,16 +25,10 @@
       <point x="-895" y="-404"/>
       <point x="-938" y="-358"/>
       <point x="-938" y="-265" type="curve" smooth="yes"/>
-      <point x="-938" y="-212" type="line" smooth="yes"/>
-      <point x="-938" y="-115"/>
+      <point x="-938" y="-182" type="line" smooth="yes"/>
+      <point x="-938" y="-105"/>
       <point x="-931" y="-76"/>
-      <point x="-881" y="-40" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-512" y="-307" type="line"/>
-      <point x="-512" y="-108" type="line"/>
-      <point x="-710" y="-108" type="line"/>
-      <point x="-710" y="-307" type="line"/>
+      <point x="-886" y="-35" type="curve"/>
     </contour>
   </outline>
 </glyph>

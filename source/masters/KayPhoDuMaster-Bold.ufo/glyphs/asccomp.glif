@@ -23,10 +23,10 @@
       <point x="118" y="1229" type="line"/>
     </contour>
     <contour>
-      <point x="118" y="1110" type="line"/>
-      <point x="517" y="1110" type="line"/>
-      <point x="517" y="1294" type="line"/>
-      <point x="118" y="1294" type="line"/>
+      <point x="118" y="1112" type="line"/>
+      <point x="517" y="1112" type="line"/>
+      <point x="517" y="1296" type="line"/>
+      <point x="118" y="1296" type="line"/>
     </contour>
     <contour>
       <point x="118" y="1203" type="line"/>
@@ -49,10 +49,10 @@
       <point x="830" y="1229" type="line"/>
     </contour>
     <contour>
-      <point x="639" y="1110" type="line"/>
-      <point x="1038" y="1110" type="line"/>
-      <point x="1038" y="1294" type="line"/>
-      <point x="639" y="1294" type="line"/>
+      <point x="639" y="1112" type="line"/>
+      <point x="1038" y="1112" type="line"/>
+      <point x="1038" y="1296" type="line"/>
+      <point x="639" y="1296" type="line"/>
     </contour>
     <contour>
       <point x="425" y="1358" type="line"/>

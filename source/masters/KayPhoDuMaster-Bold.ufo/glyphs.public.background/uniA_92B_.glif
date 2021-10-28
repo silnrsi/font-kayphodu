@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniA92B" format="2">
+  <outline>
+    <contour>
+      <point x="-515" y="-412" type="line"/>
+      <point x="-515" y="-212" type="line"/>
+      <point x="-714" y="-212" type="line"/>
+      <point x="-714" y="-412" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -2,11 +2,6 @@
 <glyph name="uniA92B" format="2">
   <unicode hex="A92B"/>
   <outline>
-    <contour>
-      <point x="-512" y="-412" type="line"/>
-      <point x="-512" y="-212" type="line"/>
-      <point x="-712" y="-212" type="line"/>
-      <point x="-712" y="-412" type="line"/>
-    </contour>
+    <component base="uniA926" yOffset="-1650"/>
   </outline>
 </glyph>
