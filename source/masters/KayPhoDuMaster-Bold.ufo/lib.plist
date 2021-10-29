@@ -21,6 +21,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/uniA916/uniA918/uniA929/uniA918/uniA92A/uniA918/uniA926/uniA918/uniA927/uniA918/uniA928/uniA918/uniA92B/uniA918/uniA92C/uniA918/uniA92D/uniA918/uniA918/uniA918/uniA918/space</string>
+    <string>/uniA90B/uniA926/uniA92B !/uniA90B/uniA926/uniA92B ,/uniA90B/uniA926/uniA92B ./uniA90B/uniA926/uniA92B :/uniA90B/uniA926/uniA92B ;/uniA90B/uniA926/uniA92B/quoteleft/uniA90B/uniA926/uniA92B/quoteright/uniA90B/uniA926/uniA92B/quotedblleft/uniA90B/uniA926/uniA92B/quotedblright/uniA90B/uniA926/uniA92B/uniA90B/uniA926/uniA92B</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

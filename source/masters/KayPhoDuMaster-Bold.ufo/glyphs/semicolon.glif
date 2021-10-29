@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="2">
-  <advance width="490"/>
+  <advance width="568"/>
   <unicode hex="003B"/>
   <outline>
-    <contour>
-      <point x="340" y="742" type="line"/>
-      <point x="340" y="942" type="line"/>
-      <point x="142" y="942" type="line"/>
-      <point x="142" y="742" type="line"/>
-    </contour>
-    <contour>
-      <point x="335" y="102" type="line"/>
-      <point x="335" y="302" type="line"/>
-      <point x="136" y="302" type="line"/>
-      <point x="136" y="166" type="line"/>
-      <point x="-17" y="-92" type="line"/>
-      <point x="247" y="102" type="line"/>
-    </contour>
+    <component base="period" xOffset="56" yOffset="722"/>
+    <component base="comma" yOffset="104"/>
   </outline>
 </glyph>
