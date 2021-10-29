@@ -18,6 +18,7 @@ ftmlTest('tools/ftml-smith.xsl')
 
 designspace('source/' + FAMILY + '.designspace',
     target = "${DS:FILENAME_BASE}.ttf",
+    params = "--removeOverlap",
 #    opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/features.feax", to_ufo = 'True'),
 #    woff = woff('web/${DS:FILENAME_BASE}.woff',
 #        metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
