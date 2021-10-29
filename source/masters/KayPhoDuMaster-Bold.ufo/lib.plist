@@ -17,15 +17,10 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3099</string>
+  <string>3100</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uniA916/uniA918/uniA929/uniA918/uniA92A/space/uniA918/uniA926/uniA918/uniA927/uniA918/uniA928/uniA918/uniA92B/uniA918/uniA92C/uniA918/uniA92D/uniA918/uniA918/uniA918/uniA918/space</string>
-    <string>/uniA92A</string>
-    <string>/uniA926</string>
-    <string>/uniA92D</string>
-    <string>/uniA92C</string>
-    <string>/uniA92B</string>
+    <string>/uniA916/uniA918/uniA929/uniA918/uniA92A/uniA918/uniA926/uniA918/uniA927/uniA918/uniA928/uniA918/uniA92B/uniA918/uniA92C/uniA918/uniA92D/uniA918/uniA918/uniA918/uniA918/space</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
