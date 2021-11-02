@@ -4,12 +4,22 @@
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="404" y="1412" type="line"/>
-      <point x="404" y="1612" type="line"/>
-      <point x="205" y="1612" type="line"/>
-      <point x="205" y="1475" type="line"/>
-      <point x="52" y="1217" type="line"/>
-      <point x="315" y="1412" type="line"/>
+      <point x="76" y="1213" type="line"/>
+      <point x="312" y="1430" type="line"/>
+      <point x="226" y="1503" type="line"/>
+      <point x="51" y="1232" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="1410" type="line"/>
+      <point x="410" y="1410" type="line"/>
+      <point x="410" y="1610" type="line"/>
+      <point x="210" y="1610" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

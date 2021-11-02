@@ -70,6 +70,10 @@
   <string>midW_N_.glif</string>
   <key>midline</key>
   <string>midline.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
+  <key>quoteleft</key>
+  <string>quoteleft.glif</string>
   <key>serifE</key>
   <string>serifE_.glif</string>
   <key>serifEN</key>

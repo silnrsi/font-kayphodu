@@ -2,13 +2,16 @@
 <glyph name="quoteleft" format="2">
   <outline>
     <contour>
-      <point x="365" y="1229" type="line"/>
-      <point x="397" y="1256" type="line"/>
-      <point x="253" y="1454" type="line"/>
-      <point x="253" y="1610" type="line"/>
-      <point x="52" y="1610" type="line"/>
-      <point x="52" y="1413" type="line"/>
-      <point x="133" y="1413" type="line"/>
+      <point x="86" y="1193" type="line"/>
+      <point x="322" y="1400" type="line"/>
+      <point x="206" y="1503" type="line"/>
+      <point x="41" y="1232" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="1400" type="line"/>
+      <point x="424" y="1400" type="line"/>
+      <point x="424" y="1624" type="line"/>
+      <point x="200" y="1624" type="line"/>
     </contour>
   </outline>
 </glyph>
