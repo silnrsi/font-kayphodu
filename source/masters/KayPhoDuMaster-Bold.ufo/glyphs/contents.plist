@@ -120,6 +120,8 @@
   <string>divide.glif</string>
   <key>e</key>
   <string>e.glif</string>
+  <key>eight</key>
+  <string>eight.glif</string>
   <key>endash</key>
   <string>endash.glif</string>
   <key>equal</key>
@@ -128,6 +130,10 @@
   <string>exclam.glif</string>
   <key>f</key>
   <string>f.glif</string>
+  <key>five</key>
+  <string>five.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
   <key>g</key>
   <string>g.glif</string>
   <key>h</key>
@@ -174,8 +180,12 @@
   <string>multiply.glif</string>
   <key>n</key>
   <string>n.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
   <key>o</key>
   <string>o.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
   <key>p</key>
   <string>p.glif</string>
   <key>parenleft</key>
@@ -226,6 +236,10 @@
   <string>serifW_S_.glif</string>
   <key>serifWSshort</key>
   <string>serifW_S_short.glif</string>
+  <key>seven</key>
+  <string>seven.glif</string>
+  <key>six</key>
+  <string>six.glif</string>
   <key>slash</key>
   <string>slash.glif</string>
   <key>space</key>
@@ -258,6 +272,10 @@
   <string>squarecomp.glif</string>
   <key>t</key>
   <string>t.glif</string>
+  <key>three</key>
+  <string>three.glif</string>
+  <key>two</key>
+  <string>two.glif</string>
   <key>u</key>
   <string>u.glif</string>
   <key>uni00A0</key>
@@ -372,5 +390,7 @@
   <string>y.glif</string>
   <key>z</key>
   <string>z.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
 </dict>
 </plist>
