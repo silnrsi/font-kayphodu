@@ -8,28 +8,28 @@
     <component base="headcir"/>
     <component base="sqWN"/>
     <contour>
-      <point x="770" y="0" type="curve"/>
-      <point x="934" y="0"/>
-      <point x="1068" y="152"/>
-      <point x="1068" y="362" type="curve" smooth="yes"/>
-      <point x="1068" y="566"/>
-      <point x="910" y="714"/>
-      <point x="697" y="714" type="curve" smooth="yes"/>
-      <point x="461" y="714"/>
-      <point x="255" y="558"/>
-      <point x="167" y="226" type="curve"/>
-      <point x="252" y="157" type="line"/>
-      <point x="352" y="490"/>
-      <point x="539" y="590"/>
-      <point x="683" y="590" type="curve" smooth="yes"/>
-      <point x="845" y="590"/>
-      <point x="944" y="503"/>
-      <point x="944" y="352" type="curve" smooth="yes"/>
-      <point x="944" y="225"/>
-      <point x="873" y="86"/>
-      <point x="770" y="86" type="curve"/>
-      <point x="770" y="57"/>
-      <point x="770" y="29"/>
+      <point x="770" y="-12" type="curve"/>
+      <point x="934" y="-12"/>
+      <point x="1068" y="140"/>
+      <point x="1068" y="350" type="curve" smooth="yes"/>
+      <point x="1068" y="554"/>
+      <point x="910" y="702"/>
+      <point x="697" y="702" type="curve" smooth="yes"/>
+      <point x="461" y="702"/>
+      <point x="255" y="546"/>
+      <point x="167" y="214" type="curve"/>
+      <point x="252" y="145" type="line"/>
+      <point x="352" y="478"/>
+      <point x="539" y="578"/>
+      <point x="683" y="578" type="curve" smooth="yes"/>
+      <point x="845" y="578"/>
+      <point x="944" y="491"/>
+      <point x="944" y="340" type="curve" smooth="yes"/>
+      <point x="944" y="213"/>
+      <point x="873" y="74"/>
+      <point x="770" y="74" type="curve"/>
+      <point x="770" y="45"/>
+      <point x="770" y="17"/>
     </contour>
     <contour>
       <point x="1052" y="776" type="line"/>
