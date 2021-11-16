@@ -59,8 +59,8 @@
   <key>public.glyphOrder</key>
   <array>
     <string>.notdef</string>
-    <string>NULL</string>
-    <string>CR</string>
+    <string>.null</string>
+    <string>nonmarkingreturn</string>
     <string>space</string>
     <string>exclam</string>
     <string>percent</string>
@@ -76,8 +76,8 @@
     <string>semicolon</string>
     <string>equal</string>
     <string>question</string>
-    <string>uni00A0</string>
-    <string>uni00AD</string>
+    <string>nbspace</string>
+    <string>softhyphen</string>
     <string>multiply</string>
     <string>divide</string>
     <string>endash</string>
@@ -133,7 +133,7 @@
     <string>uniA92D</string>
     <string>uniA92E</string>
     <string>uniA92F</string>
-    <string>uni200B</string>
+    <string>zerowidthspace</string>
   </array>
 </dict>
 </plist>
