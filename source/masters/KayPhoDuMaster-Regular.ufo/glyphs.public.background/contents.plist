@@ -46,6 +46,8 @@
   <string>diagcomp.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>five</key>
+  <string>five.glif</string>
   <key>headcir</key>
   <string>headcir.glif</string>
   <key>hookascE</key>
@@ -96,6 +98,8 @@
   <string>serifW_S_.glif</string>
   <key>serifWSshort</key>
   <string>serifW_S_short.glif</string>
+  <key>six</key>
+  <string>six.glif</string>
   <key>sqEN</key>
   <string>sqE_N_.glif</string>
   <key>sqES</key>
@@ -212,5 +216,7 @@
   <string>uniA_92C_.glif</string>
   <key>uniA92D</key>
   <string>uniA_92D_.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
 </dict>
 </plist>
