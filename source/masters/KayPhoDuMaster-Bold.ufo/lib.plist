@@ -20,7 +20,7 @@
   <string>3100</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/uniA906/uniA916/latcir 0123456789/uniA900</string>
+    <string>/space abcdefghijklmnopqrstuv</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

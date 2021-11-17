@@ -54,6 +54,8 @@
   <string>hookascE_.glif</string>
   <key>hookascW</key>
   <string>hookascW_.glif</string>
+  <key>k</key>
+  <string>k.glif</string>
   <key>latcir</key>
   <string>latcir.glif</string>
   <key>latn</key>
@@ -78,6 +80,8 @@
   <string>question.glif</string>
   <key>quoteleft</key>
   <string>quoteleft.glif</string>
+  <key>s</key>
+  <string>s.glif</string>
   <key>serifE</key>
   <string>serifE_.glif</string>
   <key>serifEN</key>

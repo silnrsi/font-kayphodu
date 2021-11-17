@@ -1,6 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="1536"/>
+  <advance width="665"/>
   <unicode hex="006C"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="128" y="542" type="line"/>
+      <point x="256" y="542" type="line"/>
+      <point x="256" y="1050" type="line"/>
+      <point x="128" y="1050" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="988" type="line"/>
+      <point x="256" y="988" type="line"/>
+      <point x="256" y="1574" type="line"/>
+      <point x="128" y="1574" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="493" type="line"/>
+      <point x="256" y="493" type="line"/>
+      <point x="256" y="557" type="line"/>
+      <point x="128" y="557" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="0" type="curve" smooth="yes"/>
+      <point x="537" y="0" type="line"/>
+      <point x="537" y="124" type="line"/>
+      <point x="511" y="124" type="line" smooth="yes"/>
+      <point x="290" y="124"/>
+      <point x="256" y="281"/>
+      <point x="256" y="466" type="curve" smooth="yes"/>
+      <point x="256" y="508" type="line"/>
+      <point x="128" y="508" type="line"/>
+      <point x="128" y="456" type="line" smooth="yes"/>
+      <point x="128" y="212"/>
+      <point x="208" y="0"/>
+    </contour>
+  </outline>
 </glyph>
