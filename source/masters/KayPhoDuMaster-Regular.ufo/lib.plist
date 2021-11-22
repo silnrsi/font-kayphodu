@@ -21,6 +21,9 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/space abcdefghijklmnopqrstuv</string>
+    <string>vwxyz</string>
+    <string>o</string>
+    <string>dOHh</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
