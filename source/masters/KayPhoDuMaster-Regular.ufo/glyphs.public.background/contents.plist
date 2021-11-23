@@ -2,12 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>a</key>
+  <string>a.glif</string>
   <key>ascNE</key>
   <string>ascN_E_.glif</string>
   <key>ascNW</key>
   <string>ascN_W_.glif</string>
   <key>asccomp</key>
   <string>asccomp.glif</string>
+  <key>b</key>
+  <string>b.glif</string>
+  <key>c</key>
+  <string>c.glif</string>
   <key>circleNE</key>
   <string>circleN_E_.glif</string>
   <key>circleNW</key>
@@ -24,6 +30,8 @@
   <string>circlecomp.glif</string>
   <key>circlemidW</key>
   <string>circlemidW_.glif</string>
+  <key>d</key>
+  <string>d.glif</string>
   <key>descSE</key>
   <string>descS_E_.glif</string>
   <key>descSW</key>
@@ -44,10 +52,16 @@
   <string>diagS_W_N_E_.glif</string>
   <key>diagcomp</key>
   <string>diagcomp.glif</string>
+  <key>e</key>
+  <string>e.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>five</key>
   <string>five.glif</string>
+  <key>g</key>
+  <string>g.glif</string>
+  <key>h</key>
+  <string>h.glif</string>
   <key>headcir</key>
   <string>headcir.glif</string>
   <key>hookascE</key>
@@ -62,6 +76,8 @@
   <string>latn.glif</string>
   <key>loopflat</key>
   <string>loopflat.glif</string>
+  <key>m</key>
+  <string>m.glif</string>
   <key>midE</key>
   <string>midE_.glif</string>
   <key>midEN</key>
@@ -76,10 +92,18 @@
   <string>midW_N_.glif</string>
   <key>midline</key>
   <string>midline.glif</string>
+  <key>n</key>
+  <string>n.glif</string>
+  <key>p</key>
+  <string>p.glif</string>
+  <key>q</key>
+  <string>q.glif</string>
   <key>question</key>
   <string>question.glif</string>
   <key>quoteleft</key>
   <string>quoteleft.glif</string>
+  <key>r</key>
+  <string>r.glif</string>
   <key>s</key>
   <string>s.glif</string>
   <key>serifE</key>
@@ -130,8 +154,12 @@
   <string>sqW_S_.glif</string>
   <key>squarecomp</key>
   <string>squarecomp.glif</string>
+  <key>t</key>
+  <string>t.glif</string>
   <key>three</key>
   <string>three.glif</string>
+  <key>u</key>
+  <string>u.glif</string>
   <key>uniA900</key>
   <string>uniA_900.glif</string>
   <key>uniA901</key>
