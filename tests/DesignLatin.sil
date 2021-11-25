@@ -21,7 +21,7 @@
 \pattern[chars="@",reps="group_latincaps",format="list"]{HHOOHHOH@O@B@O@N@O@P@HOH}
 \proof[size="18pt"]{nanbncndnenfngnhninjnknlnmnnnonpnqnrnsntnunvnwnxnynzn}
 \proof[size="18pt"]{oaobocodoeofogohoiojokolomonooopoqorosotouovowoxoyozo}
-\pattern[chars="@",reps="group_latinlc,format="list"]{nnoonnon@o@b@o@n@o@p@non}
+\pattern[chars="@",reps="group_latinlc",format="list"]{nnoonnon@o@b@o@n@o@p@non}
 
 
 \proof[size="14pt"]{Article 26: Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit. Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace. Parents have a prior right to choose the kind of education that shall be given to their children.}
