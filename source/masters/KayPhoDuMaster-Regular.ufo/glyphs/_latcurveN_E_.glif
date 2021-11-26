@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_latcurveNE" format="2">
+  <advance width="988"/>
+  <outline>
+    <contour>
+      <point x="492" y="1050" type="line"/>
+      <point x="492" y="926" type="line"/>
+      <point x="508" y="926" type="line" smooth="yes"/>
+      <point x="700" y="926"/>
+      <point x="744" y="815"/>
+      <point x="744" y="762" type="curve"/>
+      <point x="744" y="755" type="line"/>
+      <point x="872" y="755" type="line"/>
+      <point x="872" y="762" type="line"/>
+      <point x="872" y="878"/>
+      <point x="772" y="1050"/>
+      <point x="519" y="1050" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

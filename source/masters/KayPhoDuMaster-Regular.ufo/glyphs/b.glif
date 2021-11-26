@@ -1,61 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-  <advance width="1040"/>
+  <advance width="1028"/>
   <unicode hex="0062"/>
   <outline>
-    <contour>
-      <point x="784" y="512" type="line"/>
-      <point x="912" y="512" type="line"/>
-      <point x="912" y="644" type="line" smooth="yes"/>
-      <point x="912" y="897"/>
-      <point x="815" y="1050"/>
-      <point x="570" y="1050" type="curve" smooth="yes"/>
-      <point x="369" y="1050"/>
-      <point x="219" y="891"/>
-      <point x="173" y="761" type="curve"/>
-      <point x="255" y="762" type="line"/>
-      <point x="292" y="820"/>
-      <point x="417" y="926"/>
-      <point x="570" y="926" type="curve" smooth="yes"/>
-      <point x="742" y="926"/>
-      <point x="784" y="827"/>
-      <point x="784" y="632" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="128" y="0" type="line"/>
-      <point x="256" y="0" type="line"/>
-      <point x="256" y="538" type="line"/>
-      <point x="128" y="538" type="line"/>
-    </contour>
-    <contour>
-      <point x="570" y="0" type="curve" smooth="yes"/>
-      <point x="815" y="0"/>
-      <point x="912" y="153"/>
-      <point x="912" y="406" type="curve" smooth="yes"/>
-      <point x="912" y="538" type="line"/>
-      <point x="784" y="538" type="line"/>
-      <point x="784" y="418" type="line" smooth="yes"/>
-      <point x="784" y="223"/>
-      <point x="742" y="124"/>
-      <point x="570" y="124" type="curve" smooth="yes"/>
-      <point x="417" y="124"/>
-      <point x="292" y="230"/>
-      <point x="255" y="288" type="curve"/>
-      <point x="173" y="289" type="line"/>
-      <point x="219" y="159"/>
-      <point x="369" y="0"/>
-    </contour>
-    <contour>
-      <point x="128" y="512" type="line"/>
-      <point x="256" y="512" type="line"/>
-      <point x="256" y="1050" type="line"/>
-      <point x="128" y="1050" type="line"/>
-    </contour>
-    <contour>
-      <point x="128" y="988" type="line"/>
-      <point x="256" y="988" type="line"/>
-      <point x="256" y="1574" type="line"/>
-      <point x="128" y="1574" type="line"/>
-    </contour>
+    <component base="_latstemSW"/>
+    <component base="_latstemNW"/>
+    <component base="_latarchE"/>
+    <component base="_latbowlE"/>
+    <component base="_lathalfserifascW"/>
+    <component base="_latstemascW"/>
   </outline>
 </glyph>

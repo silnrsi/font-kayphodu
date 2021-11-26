@@ -3,59 +3,11 @@
   <advance width="1040"/>
   <unicode hex="0071"/>
   <outline>
-    <contour>
-      <point x="256" y="538" type="line"/>
-      <point x="128" y="538" type="line"/>
-      <point x="128" y="406" type="line" smooth="yes"/>
-      <point x="128" y="153"/>
-      <point x="225" y="0"/>
-      <point x="470" y="0" type="curve" smooth="yes"/>
-      <point x="671" y="0"/>
-      <point x="821" y="159"/>
-      <point x="867" y="289" type="curve"/>
-      <point x="785" y="288" type="line"/>
-      <point x="748" y="230"/>
-      <point x="623" y="124"/>
-      <point x="470" y="124" type="curve" smooth="yes"/>
-      <point x="298" y="124"/>
-      <point x="256" y="223"/>
-      <point x="256" y="418" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="912" y="1050" type="line"/>
-      <point x="784" y="1050" type="line"/>
-      <point x="784" y="512" type="line"/>
-      <point x="912" y="512" type="line"/>
-    </contour>
-    <contour>
-      <point x="470" y="1050" type="curve" smooth="yes"/>
-      <point x="225" y="1050"/>
-      <point x="128" y="897"/>
-      <point x="128" y="644" type="curve" smooth="yes"/>
-      <point x="128" y="512" type="line"/>
-      <point x="256" y="512" type="line"/>
-      <point x="256" y="632" type="line" smooth="yes"/>
-      <point x="256" y="827"/>
-      <point x="298" y="926"/>
-      <point x="470" y="926" type="curve" smooth="yes"/>
-      <point x="623" y="926"/>
-      <point x="748" y="820"/>
-      <point x="785" y="762" type="curve"/>
-      <point x="867" y="761" type="line"/>
-      <point x="821" y="891"/>
-      <point x="671" y="1050"/>
-    </contour>
-    <contour>
-      <point x="912" y="538" type="line"/>
-      <point x="784" y="538" type="line"/>
-      <point x="784" y="0" type="line"/>
-      <point x="912" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="912" y="62" type="line"/>
-      <point x="784" y="62" type="line"/>
-      <point x="784" y="-524" type="line"/>
-      <point x="912" y="-524" type="line"/>
-    </contour>
+    <component base="_latstemSE" xOffset="-100"/>
+    <component base="_latstemNE" xOffset="-100"/>
+    <component base="_latarchW"/>
+    <component base="_latbowlW" xOffset="-100"/>
+    <component base="_latstemdescE"/>
+    <component base="_latserifSE" xOffset="-100" yOffset="-524"/>
   </outline>
 </glyph>

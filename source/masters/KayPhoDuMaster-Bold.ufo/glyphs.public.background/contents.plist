@@ -2,6 +2,42 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>_latarchE</key>
+  <string>_latarchE_.glif</string>
+  <key>_latarchW</key>
+  <string>_latarchW_.glif</string>
+  <key>_latbowlE</key>
+  <string>_latbowlE_.glif</string>
+  <key>_latbowlW</key>
+  <string>_latbowlW_.glif</string>
+  <key>_latcrossbar</key>
+  <string>_latcrossbar.glif</string>
+  <key>_latdot</key>
+  <string>_latdot.glif</string>
+  <key>_lathalfserifNW</key>
+  <string>_lathalfserifN_W_.glif</string>
+  <key>_lathalfserifSE</key>
+  <string>_lathalfserifS_E_.glif</string>
+  <key>_lathalfserifascW</key>
+  <string>_lathalfserifascW_.glif</string>
+  <key>_latserifSE</key>
+  <string>_latserifS_E_.glif</string>
+  <key>_latserifSW</key>
+  <string>_latserifS_W_.glif</string>
+  <key>_latstemNE</key>
+  <string>_latstemN_E_.glif</string>
+  <key>_latstemNW</key>
+  <string>_latstemN_W_.glif</string>
+  <key>_latstemSE</key>
+  <string>_latstemS_E_.glif</string>
+  <key>_latstemSW</key>
+  <string>_latstemS_W_.glif</string>
+  <key>_latstemascW</key>
+  <string>_latstemascW_.glif</string>
+  <key>_latstemdescE</key>
+  <string>_latstemdescE_.glif</string>
+  <key>_latstemdescW</key>
+  <string>_latstemdescW_.glif</string>
   <key>ascNE</key>
   <string>ascN_E_.glif</string>
   <key>ascNW</key>

@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="444"/>
+  <advance width="592"/>
   <unicode hex="006C"/>
   <outline>
-    <contour>
-      <point x="158" y="512" type="line"/>
-      <point x="286" y="512" type="line"/>
-      <point x="286" y="1050" type="line"/>
-      <point x="158" y="1050" type="line"/>
-    </contour>
-    <contour>
-      <point x="158" y="988" type="line"/>
-      <point x="286" y="988" type="line"/>
-      <point x="286" y="1574" type="line"/>
-      <point x="158" y="1574" type="line"/>
-    </contour>
-    <contour>
-      <point x="158" y="0" type="line"/>
-      <point x="286" y="0" type="line"/>
-      <point x="286" y="538" type="line"/>
-      <point x="158" y="538" type="line"/>
-    </contour>
+    <component base="_latserifSW" xOffset="40"/>
+    <component base="_latstemSW" xOffset="40"/>
+    <component base="_latstemNW" xOffset="40"/>
+    <component base="_lathalfserifascW" xOffset="40"/>
+    <component base="_latstemascW" xOffset="40"/>
   </outline>
 </glyph>

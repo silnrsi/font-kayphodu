@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_latstemdescW" format="2">
+  <advance width="1128"/>
+  <outline>
+    <contour>
+      <point x="192" y="-524" type="line"/>
+      <point x="320" y="-524" type="line"/>
+      <point x="320" y="62" type="line"/>
+      <point x="192" y="62" type="line"/>
+    </contour>
+  </outline>
+</glyph>
