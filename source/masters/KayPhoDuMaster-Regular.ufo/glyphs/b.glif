@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-  <advance width="1028"/>
+  <advance width="1048"/>
   <unicode hex="0062"/>
   <outline>
     <component base="_latstemSW"/>
     <component base="_latstemNW"/>
-    <component base="_latarchE"/>
-    <component base="_latbowlE"/>
     <component base="_lathalfserifascW"/>
     <component base="_latstemascW"/>
+    <component base="_latroundarchE"/>
+    <component base="_latroundbowlE"/>
   </outline>
 </glyph>

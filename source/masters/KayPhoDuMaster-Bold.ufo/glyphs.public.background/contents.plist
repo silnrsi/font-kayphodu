@@ -20,6 +20,20 @@
   <string>_lathalfserifS_E_.glif</string>
   <key>_lathalfserifascW</key>
   <string>_lathalfserifascW_.glif</string>
+  <key>_latlongserifSW</key>
+  <string>_latlongserifS_W_.glif</string>
+  <key>_latroundarchE</key>
+  <string>_latroundarchE_.glif</string>
+  <key>_latroundarchW</key>
+  <string>_latroundarchW_.glif</string>
+  <key>_latroundbowlE</key>
+  <string>_latroundbowlE_.glif</string>
+  <key>_latroundbowlW</key>
+  <string>_latroundbowlW_.glif</string>
+  <key>_latserifNE</key>
+  <string>_latserifN_E_.glif</string>
+  <key>_latserifNW</key>
+  <string>_latserifN_W_.glif</string>
   <key>_latserifSE</key>
   <string>_latserifS_E_.glif</string>
   <key>_latserifSW</key>

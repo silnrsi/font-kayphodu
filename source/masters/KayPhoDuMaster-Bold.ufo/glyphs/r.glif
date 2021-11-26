@@ -3,7 +3,7 @@
   <advance width="730"/>
   <unicode hex="0072"/>
   <outline>
-    <component base="_latserifSW"/>
+    <component base="_latlongserifSW"/>
     <component base="_lathalfserifNW"/>
     <component base="_latstemSW"/>
     <component base="_latstemNW"/>

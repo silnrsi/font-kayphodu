@@ -3,12 +3,12 @@
   <advance width="1040"/>
   <unicode hex="0070"/>
   <outline>
-    <component base="_latserifSW" yOffset="-524"/>
+    <component base="_latserifSW" yOffset="-512"/>
     <component base="_lathalfserifNW"/>
     <component base="_latstemSW"/>
     <component base="_latstemNW"/>
     <component base="_latstemdescW"/>
-    <component base="_latarchE"/>
-    <component base="_latbowlE"/>
+    <component base="_latroundarchE"/>
+    <component base="_latroundbowlE"/>
   </outline>
 </glyph>

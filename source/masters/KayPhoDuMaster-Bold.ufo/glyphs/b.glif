@@ -5,9 +5,9 @@
   <outline>
     <component base="_latstemSW"/>
     <component base="_latstemNW"/>
-    <component base="_latarchE"/>
-    <component base="_latbowlE"/>
     <component base="_lathalfserifascW"/>
     <component base="_latstemascW"/>
+    <component base="_latroundarchE"/>
+    <component base="_latroundbowlE"/>
   </outline>
 </glyph>

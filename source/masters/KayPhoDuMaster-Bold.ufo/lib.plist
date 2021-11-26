@@ -11,7 +11,8 @@
   <string>3102</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/space abcdefghijklmnopqrstuvwxyz</string>
+    <string>abcdefghijklmnopqrstuvwx</string>
+    <string>/_latarchE/_latarchW/_latbowlE/_latbowlW/_latcirNE/_latcirNW/_latcirSE/_latcirSW/_latcrossbar/_latcurveNE/_latcurveSE/_latdot/_lathalfserifNW/_lathalfserifSE/_lathalfserifascW/_latserifSE/_latserifSW/_latstemNE/_latstemNW/_latstemSE/_latstemSW/_latstemascW/_latstemdescE/_latstemdescW</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

@@ -9,5 +9,6 @@
     <component base="_latbowlW"/>
     <component base="_lathalfserifSE"/>
     <component base="_latstemNE"/>
+    <component base="_lathalfserifNW" xOffset="616"/>
   </outline>
 </glyph>

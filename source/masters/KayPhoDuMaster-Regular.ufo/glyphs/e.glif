@@ -21,11 +21,11 @@
       <point x="744" y="543" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="156" y="463" type="line"/>
-      <point x="872" y="463" type="line"/>
-      <point x="872" y="525" type="line"/>
-      <point x="807" y="587" type="line"/>
-      <point x="156" y="587" type="line"/>
+      <point x="156" y="473" type="line"/>
+      <point x="872" y="473" type="line"/>
+      <point x="872" y="535" type="line"/>
+      <point x="807" y="597" type="line"/>
+      <point x="156" y="597" type="line"/>
     </contour>
   </outline>
 </glyph>

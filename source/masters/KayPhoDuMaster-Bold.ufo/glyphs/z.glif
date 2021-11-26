@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="2">
-  <advance width="1180"/>
+  <advance width="1028"/>
   <unicode hex="007A"/>
   <outline>
+    <component base="_latserifNW" xOffset="-34"/>
+    <component base="_latserifNE" xOffset="-66"/>
     <contour>
-      <point x="662" y="0" type="line"/>
-      <point x="1058" y="1048" type="line"/>
-      <point x="928" y="1048" type="line"/>
-      <point x="590" y="146" type="line"/>
-      <point x="252" y="1048" type="line"/>
-      <point x="122" y="1048" type="line"/>
-      <point x="518" y="0" type="line"/>
+      <point x="589" y="0" type="line"/>
+      <point x="937" y="1038" type="line"/>
+      <point x="804" y="1038" type="line"/>
+      <point x="514" y="151" type="line"/>
+      <point x="223" y="1038" type="line"/>
+      <point x="90" y="1038" type="line"/>
+      <point x="439" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
