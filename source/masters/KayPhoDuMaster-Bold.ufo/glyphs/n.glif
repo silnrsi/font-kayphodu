@@ -4,10 +4,10 @@
   <unicode hex="006E"/>
   <outline>
     <component base="_latserifSW"/>
-    <component base="_latserifSE"/>
-    <component base="_lathalfserifNW"/>
     <component base="_latstemSW"/>
+    <component base="_latserifSE"/>
     <component base="_latstemNW"/>
+    <component base="_lathalfserifNW"/>
     <component base="_latstemSE"/>
     <component base="_latarchE"/>
   </outline>

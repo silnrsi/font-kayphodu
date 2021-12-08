@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="2">
-  <advance width="691"/>
+  <advance width="635"/>
   <unicode hex="0074"/>
   <outline>
-    <component base="_latstemNW" xOffset="28"/>
-    <component base="_latcrossbar" xOffset="-12"/>
-    <component base="circleSW" xOffset="92"/>
-    <component base="midW" xOffset="92"/>
+    <component base="_latstemNW"/>
+    <component base="_latcrossbar" xOffset="-40"/>
+    <component base="circleSW" xOffset="64"/>
+    <component base="midW" xOffset="64"/>
     <contour>
-      <point x="220" y="988" type="line"/>
-      <point x="348" y="988" type="line"/>
-      <point x="348" y="1284" type="line"/>
-      <point x="220" y="1284" type="line"/>
+      <point x="192" y="988" type="line"/>
+      <point x="320" y="988" type="line"/>
+      <point x="320" y="1284" type="line"/>
+      <point x="192" y="1284" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -3,8 +3,8 @@
   <advance width="1028"/>
   <unicode hex="0061"/>
   <outline>
-    <component base="_lathalfserifSE" xOffset="-100"/>
-    <component base="_latstemSE" xOffset="-100"/>
+    <component base="_lathalfserifSE" xOffset="-120"/>
+    <component base="_latstemSE" xOffset="-120"/>
     <contour>
       <point x="708" y="512" type="line"/>
       <point x="836" y="512" type="line"/>

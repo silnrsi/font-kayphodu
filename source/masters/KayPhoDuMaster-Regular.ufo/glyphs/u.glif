@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u" format="2">
-  <advance width="1128"/>
+  <advance width="1148"/>
   <unicode hex="0075"/>
   <outline>
     <component base="_lathalfserifNW"/>
@@ -9,6 +9,6 @@
     <component base="_latbowlW"/>
     <component base="_lathalfserifSE"/>
     <component base="_latstemNE"/>
-    <component base="_lathalfserifNW" xOffset="616"/>
+    <component base="_lathalfserifNW" xOffset="636"/>
   </outline>
 </glyph>
