@@ -4,7 +4,7 @@
   <unicode hex="0074"/>
   <outline>
     <component base="_latstemNW"/>
-    <component base="_latcrossbar" xOffset="-40"/>
+    <component base="_latcrossbar" xOffset="-50"/>
     <component base="circleSW" xOffset="64"/>
     <component base="midW" xOffset="64"/>
     <contour>
