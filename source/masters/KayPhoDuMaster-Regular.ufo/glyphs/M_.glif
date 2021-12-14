@@ -8,19 +8,19 @@
     <component base="_latstemNW"/>
     <component base="_latserifSE" xOffset="370"/>
     <component base="_latstemSE" xOffset="370"/>
-    <component base="_latstemascW"/>
-    <component base="_lathalfserifascW"/>
+    <component base="_latstemascW" yOffset="-128"/>
+    <component base="_lathalfserifascW" yOffset="-128"/>
     <component base="_latstemNE" xOffset="370"/>
-    <component base="_latstemascW" xOffset="1006"/>
-    <component base="_lathalfserifascW" xOffset="1214"/>
+    <component base="_latstemascW" xOffset="1006" yOffset="-128"/>
+    <component base="_lathalfserifascW" xOffset="1214" yOffset="-128"/>
     <contour>
-      <point x="687" y="320" type="line"/>
-      <point x="831" y="320" type="line"/>
-      <point x="1311" y="1574" type="line"/>
-      <point x="1178" y="1574" type="line"/>
-      <point x="759" y="479" type="line"/>
-      <point x="340" y="1574" type="line"/>
-      <point x="207" y="1574" type="line"/>
+      <point x="688" y="320" type="line"/>
+      <point x="830" y="320" type="line"/>
+      <point x="1313" y="1446" type="line"/>
+      <point x="1178" y="1446" type="line"/>
+      <point x="759" y="469" type="line"/>
+      <point x="340" y="1446" type="line"/>
+      <point x="205" y="1446" type="line"/>
     </contour>
   </outline>
 </glyph>

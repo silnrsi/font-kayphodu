@@ -6,25 +6,25 @@
     <component base="_latserifSW" xOffset="380"/>
     <component base="_latstemSW" xOffset="380"/>
     <component base="_latstemNW" xOffset="380"/>
-    <component base="_latstemascW" xOffset="380"/>
-    <component base="_latserifNW" xOffset="380" yOffset="536"/>
+    <component base="_latstemascW" xOffset="380" yOffset="-128"/>
+    <component base="_latserifNW" xOffset="380" yOffset="408"/>
     <contour>
-      <point x="156" y="1450" type="line"/>
-      <point x="1116" y="1450" type="line"/>
-      <point x="1116" y="1574" type="line"/>
-      <point x="156" y="1574" type="line"/>
+      <point x="156" y="1322" type="line"/>
+      <point x="1116" y="1322" type="line"/>
+      <point x="1116" y="1446" type="line"/>
+      <point x="156" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="1052" y="1182" type="line"/>
-      <point x="1180" y="1182" type="line"/>
-      <point x="1180" y="1574" type="line"/>
-      <point x="1052" y="1574" type="line"/>
+      <point x="1052" y="1110" type="line"/>
+      <point x="1180" y="1110" type="line"/>
+      <point x="1180" y="1446" type="line"/>
+      <point x="1052" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="92" y="1182" type="line"/>
-      <point x="220" y="1182" type="line"/>
-      <point x="220" y="1574" type="line"/>
-      <point x="92" y="1574" type="line"/>
+      <point x="92" y="1110" type="line"/>
+      <point x="220" y="1110" type="line"/>
+      <point x="220" y="1446" type="line"/>
+      <point x="92" y="1446" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -8,16 +8,16 @@
     <component base="_latstemNW"/>
     <component base="_latserifSE" xOffset="130"/>
     <component base="_latstemSE" xOffset="130"/>
-    <component base="_latstemascW"/>
-    <component base="_latserifNW" yOffset="536"/>
+    <component base="_latstemascW" yOffset="-128"/>
+    <component base="_latserifNW" yOffset="408"/>
     <component base="_latstemNE" xOffset="130"/>
-    <component base="_latstemascW" xOffset="766"/>
-    <component base="_latserifNE" xOffset="130" yOffset="536"/>
+    <component base="_latstemascW" xOffset="766" yOffset="-128"/>
+    <component base="_latserifNE" xOffset="130" yOffset="408"/>
     <contour>
-      <point x="256" y="744" type="line"/>
-      <point x="1022" y="744" type="line"/>
-      <point x="1022" y="868" type="line"/>
-      <point x="256" y="868" type="line"/>
+      <point x="256" y="680" type="line"/>
+      <point x="1022" y="680" type="line"/>
+      <point x="1022" y="804" type="line"/>
+      <point x="256" y="804" type="line"/>
     </contour>
   </outline>
 </glyph>

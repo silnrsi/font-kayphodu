@@ -3,26 +3,26 @@
   <advance width="1692"/>
   <unicode hex="0057"/>
   <outline>
-    <component base="_latserifNW" xOffset="-34" yOffset="536"/>
-    <component base="_latserifNE" xOffset="-42" yOffset="536"/>
-    <component base="_latserifNE" xOffset="578" yOffset="536"/>
+    <component base="_latserifNW" xOffset="-34" yOffset="408"/>
+    <component base="_latserifNE" xOffset="-42" yOffset="408"/>
+    <component base="_latserifNE" xOffset="578" yOffset="408"/>
     <contour>
       <point x="407" y="0" type="line"/>
       <point x="586" y="0" type="line"/>
-      <point x="937" y="1574" type="line"/>
-      <point x="810" y="1574" type="line"/>
+      <point x="937" y="1446" type="line"/>
+      <point x="810" y="1446" type="line"/>
       <point x="499" y="179" type="line"/>
-      <point x="236" y="1574" type="line"/>
-      <point x="109" y="1574" type="line"/>
+      <point x="236" y="1446" type="line"/>
+      <point x="109" y="1446" type="line"/>
     </contour>
     <contour>
       <point x="1106" y="0" type="line"/>
       <point x="1285" y="0" type="line"/>
-      <point x="1582" y="1574" type="line"/>
-      <point x="1455" y="1574" type="line"/>
+      <point x="1582" y="1446" type="line"/>
+      <point x="1455" y="1446" type="line"/>
       <point x="1193" y="179" type="line"/>
-      <point x="884" y="1574" type="line"/>
-      <point x="757" y="1574" type="line"/>
+      <point x="884" y="1446" type="line"/>
+      <point x="757" y="1446" type="line"/>
     </contour>
   </outline>
 </glyph>

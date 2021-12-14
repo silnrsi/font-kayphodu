@@ -3,10 +3,10 @@
   <advance width="1278"/>
   <unicode hex="0055"/>
   <outline>
-    <component base="_latstemascW"/>
-    <component base="_latserifNW" yOffset="536"/>
-    <component base="_latstemascW" xOffset="766"/>
-    <component base="_latserifNE" xOffset="130" yOffset="536"/>
+    <component base="_latstemascW" yOffset="-122"/>
+    <component base="_latserifNW" yOffset="414"/>
+    <component base="_latstemascW" xOffset="766" yOffset="-122"/>
+    <component base="_latserifNE" xOffset="130" yOffset="414"/>
     <contour>
       <point x="621" y="-12" type="curve" smooth="yes"/>
       <point x="642" y="-12" type="line"/>

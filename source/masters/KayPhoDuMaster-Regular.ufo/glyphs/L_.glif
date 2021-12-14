@@ -6,8 +6,8 @@
     <component base="_latserifSW"/>
     <component base="_latstemSW"/>
     <component base="_latstemNW"/>
-    <component base="_latstemascW"/>
-    <component base="_latserifNW" yOffset="536"/>
+    <component base="_latstemascW" yOffset="-128"/>
+    <component base="_latserifNW" yOffset="408"/>
     <contour>
       <point x="256" y="0" type="line"/>
       <point x="932" y="0" type="line"/>
@@ -17,8 +17,8 @@
     <contour>
       <point x="868" y="0" type="line"/>
       <point x="996" y="0" type="line"/>
-      <point x="996" y="352" type="line"/>
-      <point x="868" y="352" type="line"/>
+      <point x="996" y="304" type="line"/>
+      <point x="868" y="304" type="line"/>
     </contour>
   </outline>
 </glyph>

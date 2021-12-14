@@ -22,6 +22,8 @@
     <string>/uniA900/uniA901/uniA902/uniA903/uniA904/uniA905/uniA906/uniA907/uniA908/uniA909/uniA90A/uniA90B/uniA90C/uniA90D/uniA90E/uniA90F/uniA910/uniA911/uniA912/uniA913/uniA914/uniA915/uniA916/uniA917/uniA918/uniA919/uniA91A/uniA91B/uniA91C/uniA91D/uniA91E/uniA91F/uniA920/uniA921/uniA922/uniA923/uniA924/uniA925/uniA901/uniA926/uniA901/uniA927/uniA901/uniA928/uniA901/uniA929/uniA901/uniA92A/uniA901/uniA92B/uniA901/uniA92C/uniA901/uniA92D/uniA901/uniA92E/uniA901/uniA92F/uniA901/uniA901</string>
     <string>/uniA92D</string>
     <string>/uniA907</string>
+    <string>HOhoq/uniA909/uniA90A/uniA90B</string>
+    <string>/_latarchE/_latarchW/_latbowlE/_latbowlW/_latcirNE/_latcirNW/_latcirSE/_latcirSW/_latcrossbar/_latcurveNE/_latcurveSE/_latdot/_lathalfserifNW/_lathalfserifSE/_lathalfserifascW/_latlongserifSW/_latroundarchE/_latroundarchW/_latroundbowlE/_latroundbowlW/_latserifNE/_latserifNW/_latserifSE/_latserifSW/_latstemNE/_latstemNW/_latstemSE/_latstemSW/_latstemascW/_latstemdescE/_latstemdescW</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
