@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="2">
-  <advance width="1220"/>
+  <advance width="1242"/>
   <unicode hex="0056"/>
   <outline>
-    <component base="H"/>
+    <component base="_latserifNW" xOffset="-34" yOffset="536"/>
+    <component base="_latserifNE" xOffset="128" yOffset="536"/>
+    <contour>
+      <point x="539" y="0" type="line"/>
+      <point x="703" y="0" type="line"/>
+      <point x="1134" y="1574" type="line"/>
+      <point x="1005" y="1574" type="line"/>
+      <point x="621" y="169" type="line"/>
+      <point x="236" y="1574" type="line"/>
+      <point x="107" y="1574" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -3,6 +3,22 @@
   <advance width="1220"/>
   <unicode hex="004E"/>
   <outline>
-    <component base="H"/>
+    <component base="_latserifSW"/>
+    <component base="_latstemSW"/>
+    <component base="_latstemNW"/>
+    <component base="_latstemSE" xOffset="162"/>
+    <component base="_latstemascW"/>
+    <component base="_lathalfserifascW"/>
+    <component base="_latstemNE" xOffset="162"/>
+    <component base="_latstemascW" xOffset="798"/>
+    <component base="_latserifNE" xOffset="162" yOffset="536"/>
+    <contour>
+      <point x="993" y="0" type="line"/>
+      <point x="1054" y="0" type="line"/>
+      <point x="1054" y="156" type="line"/>
+      <point x="320" y="1574" type="line"/>
+      <point x="256" y="1574" type="line"/>
+      <point x="256" y="1425" type="line"/>
+    </contour>
   </outline>
 </glyph>

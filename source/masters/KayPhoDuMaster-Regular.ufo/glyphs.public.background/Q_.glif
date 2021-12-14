@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <outline>
+    <contour>
+      <point x="1000" y="-240" type="line"/>
+      <point x="1076" y="-240" type="line"/>
+      <point x="1076" y="-116" type="line"/>
+      <point x="639" y="469" type="line"/>
+      <point x="529" y="469" type="line"/>
+      <point x="529" y="414" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -4,7 +4,7 @@
   <unicode hex="0076"/>
   <outline>
     <component base="_latserifNW" xOffset="-34"/>
-    <component base="_latserifNE" xOffset="-26"/>
+    <component base="_latserifNE" xOffset="-46"/>
     <contour>
       <point x="609" y="0" type="line"/>
       <point x="957" y="1038" type="line"/>

@@ -3,6 +3,16 @@
   <advance width="1220"/>
   <unicode hex="0056"/>
   <outline>
-    <component base="H"/>
+    <component base="_latserifNW" xOffset="-34" yOffset="536"/>
+    <component base="_latserifNE" xOffset="128" yOffset="536"/>
+    <contour>
+      <point x="539" y="0" type="line"/>
+      <point x="703" y="0" type="line"/>
+      <point x="1144" y="1574" type="line"/>
+      <point x="1015" y="1574" type="line"/>
+      <point x="621" y="166" type="line"/>
+      <point x="226" y="1574" type="line"/>
+      <point x="97" y="1574" type="line"/>
+    </contour>
   </outline>
 </glyph>
