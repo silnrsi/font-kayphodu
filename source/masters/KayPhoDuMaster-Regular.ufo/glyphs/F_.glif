@@ -9,12 +9,10 @@
     <component base="_latstemascW" yOffset="-128"/>
     <component base="_latserifNW" yOffset="408"/>
     <contour>
-      <point x="256" y="1574" type="line"/>
-      <point x="932" y="1574" type="line"/>
-    </contour>
-    <contour>
-      <point x="868" y="1574" type="line"/>
-      <point x="996" y="1574" type="line"/>
+      <point x="256" y="1322" type="line"/>
+      <point x="932" y="1322" type="line"/>
+      <point x="932" y="1446" type="line"/>
+      <point x="256" y="1446" type="line"/>
     </contour>
     <contour>
       <point x="256" y="680" type="line"/>
@@ -23,10 +21,14 @@
       <point x="256" y="804" type="line"/>
     </contour>
     <contour>
-      <point x="256" y="1322" type="line"/>
-      <point x="932" y="1322" type="line"/>
-      <point x="932" y="1446" type="line"/>
-      <point x="256" y="1446" type="line"/>
+      <point x="698" y="546" type="line"/>
+      <point x="818" y="546" type="line"/>
+      <point x="818" y="938" type="line"/>
+      <point x="698" y="938" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="1574" type="line"/>
+      <point x="932" y="1574" type="line"/>
     </contour>
     <contour>
       <point x="868" y="1158" type="line"/>
@@ -35,10 +37,8 @@
       <point x="868" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="698" y="546" type="line"/>
-      <point x="818" y="546" type="line"/>
-      <point x="818" y="938" type="line"/>
-      <point x="698" y="938" type="line"/>
+      <point x="868" y="1574" type="line"/>
+      <point x="996" y="1574" type="line"/>
     </contour>
   </outline>
 </glyph>
