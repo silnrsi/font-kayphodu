@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniA91B" format="2">
-  <advance width="1614"/>
+  <advance width="1554"/>
   <unicode hex="A91B"/>
   <outline>
     <component base="sqNW"/>
     <component base="sqWN"/>
     <component base="midW"/>
     <component base="circleSW"/>
-    <component base="circleSE" xOffset="-180"/>
-    <component base="midE" xOffset="-180"/>
-    <component base="circleNW" xOffset="616"/>
-    <component base="circleNE" xOffset="434"/>
-    <component base="midE" xOffset="434"/>
-    <component base="sqES" xOffset="434"/>
-    <component base="sqSE" xOffset="434"/>
+    <component base="circleSE" xOffset="-210"/>
+    <component base="midE" xOffset="-210"/>
+    <component base="circleNW" xOffset="586"/>
+    <component base="circleNE" xOffset="374"/>
+    <component base="midE" xOffset="374"/>
+    <component base="sqES" xOffset="374"/>
+    <component base="sqSE" xOffset="374"/>
   </outline>
   <lib>
     <dict>

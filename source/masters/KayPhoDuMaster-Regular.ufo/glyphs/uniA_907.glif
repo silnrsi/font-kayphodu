@@ -4,7 +4,6 @@
   <unicode hex="A907"/>
   <outline>
     <component base="hookascE"/>
-    <component base="sqNEshort"/>
     <component base="sqEN"/>
     <component base="midE"/>
     <component base="circleSE"/>
@@ -12,6 +11,7 @@
     <component base="circleSW"/>
     <component base="midW"/>
     <component base="circleNW"/>
+    <component base="sqNEshort"/>
   </outline>
   <lib>
     <dict>

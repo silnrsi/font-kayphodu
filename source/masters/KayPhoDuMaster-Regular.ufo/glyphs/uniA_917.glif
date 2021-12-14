@@ -13,16 +13,16 @@
     <component base="sqWN"/>
     <component base="sqNWshort"/>
     <contour>
-      <point x="868" y="77" type="line"/>
+      <point x="880" y="77" type="line"/>
       <point x="927" y="77" type="line"/>
       <point x="927" y="200" type="line"/>
       <point x="589" y="538" type="line"/>
-      <point x="589" y="357" type="line"/>
+      <point x="589" y="368" type="line"/>
     </contour>
     <contour>
       <point x="251" y="77" type="line"/>
-      <point x="310" y="77" type="line"/>
-      <point x="589" y="357" type="line"/>
+      <point x="298" y="77" type="line"/>
+      <point x="589" y="368" type="line"/>
       <point x="589" y="538" type="line"/>
       <point x="251" y="200" type="line"/>
     </contour>

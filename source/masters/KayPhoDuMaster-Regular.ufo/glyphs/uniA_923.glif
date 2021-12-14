@@ -6,7 +6,7 @@
     <component base="sqNWshort"/>
     <component base="sqWN"/>
     <component base="midW"/>
-    <component base="diagSE" xOffset="-30"/>
+    <component base="diagSE" xOffset="-50"/>
     <component base="sqNEshort"/>
     <component base="sqEN"/>
     <component base="midE"/>

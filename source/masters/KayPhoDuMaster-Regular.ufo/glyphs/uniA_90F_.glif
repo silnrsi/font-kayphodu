@@ -10,9 +10,9 @@
     <component base="circleSEshort"/>
     <component base="sqWS"/>
     <component base="serifW"/>
-    <component base="circleNW" yOffset="-422"/>
-    <component base="midN" yOffset="-422"/>
-    <component base="circleNE" yOffset="-422"/>
+    <component base="circleNW" yOffset="-432"/>
+    <component base="midN" yOffset="-432"/>
+    <component base="circleNE" yOffset="-432"/>
   </outline>
   <lib>
     <dict>

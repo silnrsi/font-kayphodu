@@ -6,12 +6,17 @@
     <component base="sqWS"/>
     <component base="midW"/>
     <component base="sqWN"/>
-    <component base="midN" xOffset="31"/>
     <component base="circleNE"/>
     <component base="midE"/>
     <component base="descSE"/>
     <component base="diagNW"/>
     <component base="sqSW"/>
+    <contour>
+      <point x="465" y="926" type="line"/>
+      <point x="745" y="926" type="line"/>
+      <point x="745" y="1050" type="line"/>
+      <point x="465" y="1050" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
