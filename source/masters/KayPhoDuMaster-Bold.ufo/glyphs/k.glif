@@ -8,34 +8,39 @@
     <component base="_latstemNW"/>
     <component base="_latstemascW"/>
     <component base="_lathalfserifascW"/>
-    <component base="_latserifNE" xOffset="-114"/>
     <contour>
-      <point x="817" y="0" type="line"/>
-      <point x="878" y="0" type="line"/>
-      <point x="878" y="124" type="line"/>
-      <point x="524" y="577" type="line"/>
-      <point x="410" y="577" type="line"/>
-      <point x="410" y="522" type="line"/>
+      <point x="827" y="0" type="line"/>
+      <point x="888" y="0" type="line"/>
+      <point x="888" y="124" type="line"/>
+      <point x="554" y="577" type="line"/>
+      <point x="440" y="577" type="line"/>
+      <point x="440" y="522" type="line"/>
     </contour>
     <contour>
       <point x="259" y="473" type="line"/>
-      <point x="473" y="473" type="line"/>
-      <point x="473" y="597" type="line"/>
+      <point x="533" y="473" type="line"/>
+      <point x="533" y="597" type="line"/>
       <point x="259" y="597" type="line"/>
     </contour>
     <contour>
-      <point x="834" y="0" type="line"/>
-      <point x="1006" y="0" type="line"/>
-      <point x="1006" y="124" type="line"/>
-      <point x="834" y="124" type="line"/>
+      <point x="844" y="0" type="line"/>
+      <point x="997" y="0" type="line"/>
+      <point x="997" y="124" type="line"/>
+      <point x="844" y="124" type="line"/>
     </contour>
     <contour>
-      <point x="399" y="534" type="line"/>
-      <point x="513" y="534" type="line"/>
-      <point x="929" y="966" type="line"/>
-      <point x="929" y="1038" type="line"/>
-      <point x="831" y="1038" type="line"/>
-      <point x="399" y="589" type="line"/>
+      <point x="403" y="534" type="line"/>
+      <point x="517" y="534" type="line"/>
+      <point x="913" y="966" type="line"/>
+      <point x="913" y="1038" type="line"/>
+      <point x="815" y="1038" type="line"/>
+      <point x="403" y="589" type="line"/>
+    </contour>
+    <contour>
+      <point x="576" y="914" type="line"/>
+      <point x="966" y="914" type="line"/>
+      <point x="966" y="1038" type="line"/>
+      <point x="576" y="1038" type="line"/>
     </contour>
   </outline>
 </glyph>

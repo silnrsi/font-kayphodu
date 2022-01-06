@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="2">
-  <advance width="1578"/>
+  <advance width="1550"/>
   <unicode hex="004D"/>
   <outline>
-    <component base="_latserifSW"/>
-    <component base="_latstemSW"/>
-    <component base="_latstemNW"/>
-    <component base="_latserifSE" xOffset="370"/>
-    <component base="_latstemSE" xOffset="370"/>
-    <component base="_latstemascW" yOffset="-128"/>
-    <component base="_lathalfserifascW" yOffset="-128"/>
-    <component base="_latstemNE" xOffset="370"/>
-    <component base="_latstemascW" xOffset="1006" yOffset="-128"/>
-    <component base="_lathalfserifascW" xOffset="1214" yOffset="-128"/>
+    <component base="_latserifSW" xOffset="16"/>
+    <component base="_latstemSW" xOffset="16"/>
+    <component base="_latstemNW" xOffset="16"/>
+    <component base="_latserifSE" xOffset="386"/>
+    <component base="_latstemSE" xOffset="386"/>
+    <component base="_latstemascW" xOffset="16" yOffset="-128"/>
+    <component base="_lathalfserifascW" xOffset="16" yOffset="-128"/>
+    <component base="_latstemNE" xOffset="386"/>
+    <component base="_latstemascW" xOffset="1022" yOffset="-128"/>
+    <component base="_lathalfserifascW" xOffset="1230" yOffset="-128"/>
     <contour>
-      <point x="688" y="320" type="line"/>
-      <point x="830" y="320" type="line"/>
-      <point x="1313" y="1446" type="line"/>
-      <point x="1178" y="1446" type="line"/>
-      <point x="759" y="469" type="line"/>
-      <point x="340" y="1446" type="line"/>
-      <point x="205" y="1446" type="line"/>
+      <point x="704" y="320" type="line"/>
+      <point x="846" y="320" type="line"/>
+      <point x="1272" y="1446" type="line"/>
+      <point x="1142" y="1446" type="line"/>
+      <point x="775" y="479" type="line"/>
+      <point x="408" y="1446" type="line"/>
+      <point x="278" y="1446" type="line"/>
     </contour>
   </outline>
 </glyph>

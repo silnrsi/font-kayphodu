@@ -15,8 +15,11 @@
 %%%%% TESTS
 
 \subsection{BASIC LATIN}
-\proof[size="90pt"]{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
-\proof[size="90pt"]{abcdefghijklmnopqrstuvwxyz}
+\proof[size="86pt"]{ABCDEFGHI}
+\proof[size="86pt"]{JKLMNOPQ}
+\proof[size="86pt"]{RSTUVWXYZ}
+\proof[size="86pt"]{abcdefghijkl}
+\proof[size="86pt"]{mnopqrstuvwxyz}
 \proof[size="28pt"]{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \proof[size="28pt"]{abcdefghijklmnopqrstuvwxyz}
 \proof[size="18pt"]{HAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH}

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="2">
-  <advance width="600"/>
+  <advance width="632"/>
   <unicode hex="006C"/>
   <outline>
-    <component base="_latserifSW" xOffset="44"/>
-    <component base="_latstemSW" xOffset="44"/>
-    <component base="_latstemNW" xOffset="44"/>
-    <component base="_lathalfserifascW" xOffset="44"/>
-    <component base="_latstemascW" xOffset="44"/>
+    <component base="_latserifSW" xOffset="60"/>
+    <component base="_latstemSW" xOffset="60"/>
+    <component base="_latstemNW" xOffset="60"/>
+    <component base="_lathalfserifascW" xOffset="60"/>
+    <component base="_latstemascW" xOffset="60"/>
   </outline>
 </glyph>
