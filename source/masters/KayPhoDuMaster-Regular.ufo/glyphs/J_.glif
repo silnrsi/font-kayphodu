@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-  <advance width="815"/>
+  <advance width="831"/>
   <unicode hex="004A"/>
   <outline>
     <component base="_latstemNW" xOffset="347"/>
