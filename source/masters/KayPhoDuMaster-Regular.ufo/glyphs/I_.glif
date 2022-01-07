@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="880"/>
+  <advance width="864"/>
   <unicode hex="0049"/>
   <outline>
-    <component base="_latstemSW" xOffset="168"/>
-    <component base="_latstemNW" xOffset="168"/>
-    <component base="_latstemascW" xOffset="168" yOffset="-128"/>
+    <component base="_latstemSW" xOffset="160"/>
+    <component base="_latstemNW" xOffset="160"/>
+    <component base="_latstemascW" xOffset="160" yOffset="-128"/>
     <contour>
-      <point x="132" y="0" type="line"/>
+      <point x="116" y="0" type="line"/>
       <point x="748" y="0" type="line"/>
       <point x="748" y="124" type="line"/>
-      <point x="132" y="124" type="line"/>
+      <point x="116" y="124" type="line"/>
     </contour>
     <contour>
-      <point x="132" y="1322" type="line"/>
+      <point x="116" y="1322" type="line"/>
       <point x="748" y="1322" type="line"/>
       <point x="748" y="1446" type="line"/>
-      <point x="132" y="1446" type="line"/>
+      <point x="116" y="1446" type="line"/>
     </contour>
   </outline>
 </glyph>

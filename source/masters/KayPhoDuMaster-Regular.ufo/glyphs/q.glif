@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="2">
-  <advance width="956"/>
+  <advance width="980"/>
   <unicode hex="0071"/>
   <outline>
     <component base="_latstemNE" xOffset="-100"/>

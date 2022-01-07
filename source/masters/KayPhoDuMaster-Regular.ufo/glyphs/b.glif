@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-  <advance width="1080"/>
+  <advance width="1064"/>
   <unicode hex="0062"/>
   <outline>
-    <component base="_latstemSW"/>
-    <component base="_latstemNW"/>
-    <component base="_lathalfserifascW"/>
-    <component base="_latstemascW"/>
-    <component base="_latroundarchE"/>
-    <component base="_latroundbowlE"/>
+    <component base="_latstemSW" xOffset="-16"/>
+    <component base="_latstemNW" xOffset="-16"/>
+    <component base="_lathalfserifascW" xOffset="-16"/>
+    <component base="_latstemascW" xOffset="-16"/>
+    <component base="_latroundarchE" xOffset="-16"/>
+    <component base="_latroundbowlE" xOffset="-16"/>
   </outline>
 </glyph>
