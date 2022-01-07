@@ -9,6 +9,20 @@
     <component base="_latstemascW" xOffset="16" yOffset="-128"/>
     <component base="_latserifNW" xOffset="16" yOffset="408"/>
     <contour>
+      <point x="493" y="725" type="line"/>
+      <point x="603" y="725" type="line"/>
+      <point x="1056" y="1374" type="line"/>
+      <point x="1056" y="1446" type="line"/>
+      <point x="959" y="1446" type="line"/>
+      <point x="493" y="778" type="line"/>
+    </contour>
+    <contour>
+      <point x="1007" y="0" type="line"/>
+      <point x="1167" y="0" type="line"/>
+      <point x="1167" y="124" type="line"/>
+      <point x="1007" y="124" type="line"/>
+    </contour>
+    <contour>
       <point x="959" y="0" type="line"/>
       <point x="1032" y="0" type="line"/>
       <point x="1032" y="124" type="line"/>
@@ -21,20 +35,6 @@
       <point x="585" y="696" type="line"/>
       <point x="585" y="820" type="line"/>
       <point x="321" y="820" type="line"/>
-    </contour>
-    <contour>
-      <point x="1007" y="0" type="line"/>
-      <point x="1167" y="0" type="line"/>
-      <point x="1167" y="124" type="line"/>
-      <point x="1007" y="124" type="line"/>
-    </contour>
-    <contour>
-      <point x="493" y="725" type="line"/>
-      <point x="603" y="725" type="line"/>
-      <point x="1056" y="1374" type="line"/>
-      <point x="1056" y="1446" type="line"/>
-      <point x="959" y="1446" type="line"/>
-      <point x="493" y="778" type="line"/>
     </contour>
     <contour>
       <point x="735" y="1322" type="line"/>
