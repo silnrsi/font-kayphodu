@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-  <advance width="863"/>
+  <advance width="875"/>
   <unicode hex="004A"/>
   <outline>
     <component base="_latstemNW" xOffset="407"/>
     <component base="_latstemascW" xOffset="407" yOffset="-128"/>
     <contour>
-      <point x="108" y="0" type="line"/>
-      <point x="314" y="0" type="line" smooth="yes"/>
-      <point x="597" y="0"/>
-      <point x="727" y="217"/>
-      <point x="727" y="471" type="curve" smooth="yes"/>
-      <point x="727" y="603" type="line"/>
-      <point x="599" y="603" type="line"/>
-      <point x="599" y="481" type="line" smooth="yes"/>
-      <point x="599" y="286"/>
-      <point x="525" y="124"/>
-      <point x="294" y="124" type="curve" smooth="yes"/>
-      <point x="108" y="124" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="330" y="0" type="line" smooth="yes"/>
+      <point x="613" y="0"/>
+      <point x="743" y="217"/>
+      <point x="743" y="471" type="curve" smooth="yes"/>
+      <point x="743" y="603" type="line"/>
+      <point x="615" y="603" type="line"/>
+      <point x="615" y="481" type="line" smooth="yes"/>
+      <point x="615" y="286"/>
+      <point x="541" y="124"/>
+      <point x="310" y="124" type="curve" smooth="yes"/>
+      <point x="124" y="124" type="line"/>
     </contour>
     <contour>
       <point x="155" y="1322" type="line"/>

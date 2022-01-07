@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="2">
-  <advance width="1088"/>
+  <advance width="1104"/>
   <unicode hex="004C"/>
   <outline>
     <component base="_latserifSW" xOffset="16"/>
@@ -9,16 +9,16 @@
     <component base="_latstemascW" xOffset="16" yOffset="-128"/>
     <component base="_latserifNW" xOffset="16" yOffset="408"/>
     <contour>
-      <point x="272" y="0" type="line"/>
-      <point x="948" y="0" type="line"/>
-      <point x="948" y="124" type="line"/>
-      <point x="272" y="124" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="964" y="0" type="line"/>
+      <point x="964" y="124" type="line"/>
+      <point x="288" y="124" type="line"/>
     </contour>
     <contour>
-      <point x="884" y="0" type="line"/>
-      <point x="1012" y="0" type="line"/>
-      <point x="1012" y="304" type="line"/>
-      <point x="884" y="304" type="line"/>
+      <point x="900" y="0" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="1028" y="304" type="line"/>
+      <point x="900" y="304" type="line"/>
     </contour>
   </outline>
 </glyph>

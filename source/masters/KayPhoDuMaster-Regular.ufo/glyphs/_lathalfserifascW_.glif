@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_lathalfserifascW" format="2">
-  <advance width="1128"/>
+  <advance width="1144"/>
   <outline>
     <contour>
-      <point x="40" y="1450" type="line"/>
-      <point x="256" y="1450" type="line"/>
-      <point x="256" y="1574" type="line"/>
-      <point x="40" y="1574" type="line"/>
+      <point x="48" y="1450" type="line"/>
+      <point x="272" y="1450" type="line"/>
+      <point x="272" y="1574" type="line"/>
+      <point x="48" y="1574" type="line"/>
     </contour>
   </outline>
 </glyph>

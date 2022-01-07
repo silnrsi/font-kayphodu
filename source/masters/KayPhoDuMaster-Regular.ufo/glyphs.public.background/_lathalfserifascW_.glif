@@ -2,13 +2,13 @@
 <glyph name="_lathalfserifascW" format="2">
   <outline>
     <contour>
-      <point x="1057" y="1573" type="move"/>
-      <point x="922" y="1573" type="line"/>
-      <point x="795" y="1486" type="line"/>
-      <point x="795" y="1338" type="line"/>
-      <point x="922" y="1431" type="line"/>
-      <point x="922" y="1048" type="line"/>
-      <point x="795" y="1048" type="line"/>
+      <point x="1073" y="1573" type="move"/>
+      <point x="938" y="1573" type="line"/>
+      <point x="811" y="1486" type="line"/>
+      <point x="811" y="1338" type="line"/>
+      <point x="938" y="1431" type="line"/>
+      <point x="938" y="1048" type="line"/>
+      <point x="811" y="1048" type="line"/>
     </contour>
   </outline>
 </glyph>

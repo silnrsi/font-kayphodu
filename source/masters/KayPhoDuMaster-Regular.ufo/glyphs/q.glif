@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="2">
-  <advance width="948"/>
+  <advance width="956"/>
   <unicode hex="0071"/>
   <outline>
     <component base="_latstemNE" xOffset="-100"/>
@@ -9,10 +9,10 @@
     <component base="_latroundarchW"/>
     <component base="_latroundbowlW"/>
     <contour>
-      <point x="728" y="0" type="line"/>
-      <point x="856" y="0" type="line"/>
-      <point x="856" y="538" type="line"/>
-      <point x="728" y="538" type="line"/>
+      <point x="744" y="0" type="line"/>
+      <point x="872" y="0" type="line"/>
+      <point x="872" y="538" type="line"/>
+      <point x="744" y="538" type="line"/>
     </contour>
   </outline>
 </glyph>

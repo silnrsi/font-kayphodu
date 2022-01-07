@@ -8,28 +8,22 @@
     <component base="_latstemNW"/>
     <component base="_lathalfserifNW"/>
     <contour>
-      <point x="238" y="741" type="curve"/>
-      <point x="320" y="742" type="line"/>
-      <point x="357" y="800"/>
-      <point x="487" y="924"/>
-      <point x="640" y="924" type="curve"/>
-      <point x="640" y="954"/>
-      <point x="640" y="999"/>
-      <point x="640" y="1050" type="curve"/>
-      <point x="439" y="1050"/>
-      <point x="284" y="871"/>
+      <point x="254" y="709" type="curve"/>
+      <point x="336" y="710" type="line"/>
+      <point x="373" y="768"/>
+      <point x="545" y="924"/>
+      <point x="688" y="924" type="curve"/>
+      <point x="688" y="954"/>
+      <point x="688" y="999"/>
+      <point x="688" y="1050" type="curve"/>
+      <point x="497" y="1050"/>
+      <point x="300" y="839"/>
     </contour>
     <contour>
-      <point x="640" y="746" type="line"/>
-      <point x="768" y="746" type="line"/>
-      <point x="768" y="986" type="line"/>
-      <point x="640" y="986" type="line"/>
-    </contour>
-    <contour>
-      <point x="640" y="924" type="line"/>
-      <point x="768" y="924" type="line"/>
-      <point x="768" y="1050" type="line"/>
-      <point x="640" y="1050" type="line"/>
+      <point x="688" y="682" type="line"/>
+      <point x="816" y="682" type="line"/>
+      <point x="816" y="1050" type="line"/>
+      <point x="688" y="1050" type="line"/>
     </contour>
   </outline>
 </glyph>
