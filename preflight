@@ -6,7 +6,7 @@ psfnormalize -p checkfix=fix source/masters/KayPhoDuMaster-Bold.ufo &
 wait
 
 # Update glyph order in Regular UFO
-psfsetglyphorder --header sort_final -i source/glyph_data.csv source/masters/KayPhoDuMaster-Regular.ufo
+psfsetglyphorder --header sort_design -i source/glyph_data.csv source/masters/KayPhoDuMaster-Regular.ufo
 
 # Update production names in Regular UFO
 psfsetpsnames -i source/glyph_data.csv source/masters/KayPhoDuMaster-Regular.ufo
