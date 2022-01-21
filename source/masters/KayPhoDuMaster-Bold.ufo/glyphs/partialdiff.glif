@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="2">
+  <advance width="1040"/>
+  <unicode hex="2202"/>
+  <outline>
+    <component base="_lathalfserifSE" xOffset="-80"/>
+    <component base="_latstemSE" xOffset="-80"/>
+    <component base="_latstemNE" xOffset="-80"/>
+    <component base="_latstemascW" xOffset="536"/>
+    <component base="_lathalfserifascW" xOffset="536"/>
+    <component base="_latroundarchW"/>
+    <component base="_latroundbowlW"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
+</glyph>
