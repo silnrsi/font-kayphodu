@@ -8,7 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3110</string>
+  <string>3112</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>abcdefghijklmnopqrstuvwxyz</string>
@@ -634,9 +634,5 @@
     <key>zerowidthspace</key>
     <string>uni200B</string>
   </dict>
-  <key>public.skipExportGlyphs</key>
-  <array>
-    <string>squarecomp</string>
-  </array>
 </dict>
 </plist>
