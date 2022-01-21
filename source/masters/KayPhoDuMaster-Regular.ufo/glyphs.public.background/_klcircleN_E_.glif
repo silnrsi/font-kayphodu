@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_klcircleNE" format="2">
+  <outline>
+    <contour>
+      <point x="348" y="0" type="curve" smooth="yes"/>
+      <point x="846" y="0" type="line" smooth="yes"/>
+      <point x="975" y="0"/>
+      <point x="1050" y="115"/>
+      <point x="1050" y="262" type="curve" smooth="yes"/>
+      <point x="1050" y="787" type="line" smooth="yes"/>
+      <point x="1050" y="956"/>
+      <point x="977" y="1043"/>
+      <point x="829" y="1048" type="curve"/>
+      <point x="338" y="1048" type="line"/>
+      <point x="198" y="1032"/>
+      <point x="128" y="945"/>
+      <point x="128" y="787" type="curve" smooth="yes"/>
+      <point x="128" y="262" type="line" smooth="yes"/>
+      <point x="128" y="100"/>
+      <point x="224" y="0"/>
+    </contour>
+    <contour>
+      <point x="809" y="118" type="curve" smooth="yes"/>
+      <point x="385" y="120" type="line" smooth="yes"/>
+      <point x="298" y="120"/>
+      <point x="256" y="166"/>
+      <point x="256" y="260" type="curve" smooth="yes"/>
+      <point x="256" y="773" type="line" smooth="yes"/>
+      <point x="256" y="873"/>
+      <point x="293" y="925"/>
+      <point x="370" y="925" type="curve" smooth="yes"/>
+      <point x="787" y="925" type="line" smooth="yes"/>
+      <point x="872" y="925"/>
+      <point x="914" y="882"/>
+      <point x="914" y="795" type="curve" smooth="yes"/>
+      <point x="914" y="250" type="line" smooth="yes"/>
+      <point x="914" y="161"/>
+      <point x="879" y="118"/>
+    </contour>
+  </outline>
+</glyph>

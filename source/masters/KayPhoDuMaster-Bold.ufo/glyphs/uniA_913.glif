@@ -3,15 +3,15 @@
   <advance width="1156"/>
   <unicode hex="A913"/>
   <outline>
-    <component base="hookascE"/>
-    <component base="sqNEshort"/>
-    <component base="sqEN"/>
-    <component base="midE"/>
-    <component base="circleSE"/>
-    <component base="midS"/>
-    <component base="circleSW"/>
-    <component base="midW"/>
-    <component base="circleNW"/>
+    <component base="_klhookascE"/>
+    <component base="_klsqNEshort"/>
+    <component base="_klsqEN"/>
+    <component base="_klmidE"/>
+    <component base="_klcircleSE"/>
+    <component base="_klmidS"/>
+    <component base="_klcircleSW"/>
+    <component base="_klmidW"/>
+    <component base="_klcircleNW"/>
   </outline>
   <lib>
     <dict>

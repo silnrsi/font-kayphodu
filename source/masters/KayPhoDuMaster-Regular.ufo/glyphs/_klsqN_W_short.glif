@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_klsqNWshort" format="2">
+  <advance width="1180"/>
+  <outline>
+    <contour>
+      <point x="128" y="926" type="line"/>
+      <point x="417" y="926" type="line"/>
+      <point x="417" y="1050" type="line"/>
+      <point x="128" y="1050" type="line"/>
+    </contour>
+  </outline>
+</glyph>

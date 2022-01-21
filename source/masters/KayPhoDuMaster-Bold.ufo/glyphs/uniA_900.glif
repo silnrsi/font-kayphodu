@@ -3,14 +3,14 @@
   <advance width="1156"/>
   <unicode hex="A900"/>
   <outline>
-    <component base="circleNW"/>
-    <component base="midN"/>
-    <component base="circleNE"/>
-    <component base="midE"/>
-    <component base="circleSE"/>
-    <component base="midS"/>
-    <component base="circleSW"/>
-    <component base="midW"/>
+    <component base="_klcircleNW"/>
+    <component base="_klmidN"/>
+    <component base="_klcircleNE"/>
+    <component base="_klmidE"/>
+    <component base="_klcircleSE"/>
+    <component base="_klmidS"/>
+    <component base="_klcircleSW"/>
+    <component base="_klmidW"/>
   </outline>
   <lib>
     <dict>

@@ -5,7 +5,7 @@
   <outline>
     <component base="_latstemNW"/>
     <component base="_latcrossbar" xOffset="-50"/>
-    <component base="midW" xOffset="64"/>
+    <component base="_klmidW" xOffset="64"/>
     <contour>
       <point x="192" y="988" type="line"/>
       <point x="320" y="988" type="line"/>

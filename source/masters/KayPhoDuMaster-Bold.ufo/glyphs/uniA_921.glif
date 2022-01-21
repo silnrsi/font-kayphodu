@@ -3,13 +3,13 @@
   <advance width="1156"/>
   <unicode hex="A921"/>
   <outline>
-    <component base="sqSW"/>
-    <component base="sqWS"/>
-    <component base="midW"/>
-    <component base="sqWN"/>
-    <component base="sqES"/>
-    <component base="midE"/>
-    <component base="ascNE"/>
+    <component base="_klsqSW"/>
+    <component base="_klsqWS"/>
+    <component base="_klmidW"/>
+    <component base="_klsqWN"/>
+    <component base="_klsqES"/>
+    <component base="_klmidE"/>
+    <component base="_klascNE"/>
     <contour>
       <point x="1038" y="57" type="line"/>
       <point x="328" y="1050" type="line"/>

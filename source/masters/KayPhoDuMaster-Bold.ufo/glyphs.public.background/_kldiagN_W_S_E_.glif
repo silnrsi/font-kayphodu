@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_kldiagNWSE" format="2">
+  <outline>
+    <contour>
+      <point x="842" y="773" type="move"/>
+      <point x="842" y="756" type="line"/>
+      <point x="114" y="403" type="line"/>
+      <point x="114" y="284" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="315" y="270" type="move"/>
+      <point x="315" y="294" type="line"/>
+      <point x="1042" y="646" type="line"/>
+      <point x="1042" y="765" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

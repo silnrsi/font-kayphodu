@@ -2,9 +2,9 @@
 <glyph name="uniA929" format="2">
   <unicode hex="A929"/>
   <outline>
-    <component base="circleSW" xOffset="-1180" yOffset="1169"/>
-    <component base="midS" xOffset="-1180" yOffset="1169"/>
-    <component base="circleSE" xOffset="-1180" yOffset="1169"/>
+    <component base="_klcircleSW" xOffset="-1180" yOffset="1169"/>
+    <component base="_klmidS" xOffset="-1180" yOffset="1169"/>
+    <component base="_klcircleSE" xOffset="-1180" yOffset="1169"/>
     <contour>
       <point x="-1052" y="1480" type="line"/>
       <point x="-924" y="1480" type="line"/>

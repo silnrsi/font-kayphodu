@@ -3,10 +3,10 @@
   <advance width="1156"/>
   <unicode hex="A912"/>
   <outline>
-    <component base="sqWS"/>
-    <component base="midW"/>
-    <component base="headcir"/>
-    <component base="sqWN"/>
+    <component base="_klsqWS"/>
+    <component base="_klmidW"/>
+    <component base="_klheadcir"/>
+    <component base="_klsqWN"/>
     <contour>
       <point x="795" y="-12" type="curve"/>
       <point x="919" y="-12"/>

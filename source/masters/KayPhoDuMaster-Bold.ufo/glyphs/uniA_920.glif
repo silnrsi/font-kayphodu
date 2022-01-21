@@ -3,12 +3,12 @@
   <advance width="1156"/>
   <unicode hex="A920"/>
   <outline>
-    <component base="sqEN"/>
-    <component base="midE"/>
-    <component base="circleSE"/>
-    <component base="midS"/>
-    <component base="circleSW"/>
-    <component base="serifWSshort"/>
+    <component base="_klsqEN"/>
+    <component base="_klmidE"/>
+    <component base="_klcircleSE"/>
+    <component base="_klmidS"/>
+    <component base="_klcircleSW"/>
+    <component base="_klserifWSshort"/>
     <contour>
       <point x="328" y="1050" type="line"/>
       <point x="269" y="1050" type="line"/>

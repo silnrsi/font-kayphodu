@@ -3,12 +3,12 @@
   <advance width="1260"/>
   <unicode hex="A90A"/>
   <outline>
-    <component base="sqSW"/>
-    <component base="midE" xOffset="104"/>
-    <component base="sqES" xOffset="104"/>
-    <component base="sqSEshort" xOffset="104"/>
-    <component base="sqES" xOffset="-408"/>
-    <component base="midE" xOffset="-408"/>
+    <component base="_klsqSW"/>
+    <component base="_klmidE" xOffset="104"/>
+    <component base="_klsqES" xOffset="104"/>
+    <component base="_klsqSEshort" xOffset="104"/>
+    <component base="_klsqES" xOffset="-408"/>
+    <component base="_klmidE" xOffset="-408"/>
     <contour>
       <point x="422" y="712" type="line"/>
       <point x="630" y="712" type="line"/>

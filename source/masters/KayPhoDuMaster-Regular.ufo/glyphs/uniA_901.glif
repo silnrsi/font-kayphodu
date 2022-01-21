@@ -3,17 +3,17 @@
   <advance width="1180"/>
   <unicode hex="A901"/>
   <outline>
-    <component base="circleNW"/>
-    <component base="midN"/>
-    <component base="circleNE"/>
-    <component base="circleSE"/>
-    <component base="midS"/>
-    <component base="circleSW"/>
-    <component base="loopflat"/>
-    <component base="circleNW" yOffset="-429"/>
-    <component base="midN" yOffset="-429"/>
-    <component base="sqNE" yOffset="-429"/>
-    <component base="midEN"/>
+    <component base="_klcircleNW"/>
+    <component base="_klmidN"/>
+    <component base="_klcircleNE"/>
+    <component base="_klcircleSE"/>
+    <component base="_klmidS"/>
+    <component base="_klcircleSW"/>
+    <component base="_klloopflat"/>
+    <component base="_klcircleNW" yOffset="-429"/>
+    <component base="_klmidN" yOffset="-429"/>
+    <component base="_klsqNE" yOffset="-429"/>
+    <component base="_klmidEN"/>
   </outline>
   <lib>
     <dict>

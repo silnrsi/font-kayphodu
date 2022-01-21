@@ -22,6 +22,116 @@
   <string>S_.glif</string>
   <key>X</key>
   <string>X_.glif</string>
+  <key>_klascNE</key>
+  <string>_klascN_E_.glif</string>
+  <key>_klascNW</key>
+  <string>_klascN_W_.glif</string>
+  <key>_klasccomp</key>
+  <string>_klasccomp.glif</string>
+  <key>_klcircleNE</key>
+  <string>_klcircleN_E_.glif</string>
+  <key>_klcircleNW</key>
+  <string>_klcircleN_W_.glif</string>
+  <key>_klcircleSE</key>
+  <string>_klcircleS_E_.glif</string>
+  <key>_klcircleSEshort</key>
+  <string>_klcircleS_E_short.glif</string>
+  <key>_klcircleSW</key>
+  <string>_klcircleS_W_.glif</string>
+  <key>_klcircleSWshort</key>
+  <string>_klcircleS_W_short.glif</string>
+  <key>_klcirclecomp</key>
+  <string>_klcirclecomp.glif</string>
+  <key>_klcirclemidW</key>
+  <string>_klcirclemidW_.glif</string>
+  <key>_kldescSE</key>
+  <string>_kldescS_E_.glif</string>
+  <key>_kldescSW</key>
+  <string>_kldescS_W_.glif</string>
+  <key>_kldesccomp</key>
+  <string>_kldesccomp.glif</string>
+  <key>_kldescserifSE</key>
+  <string>_kldescserifS_E_.glif</string>
+  <key>_kldescserifSW</key>
+  <string>_kldescserifS_W_.glif</string>
+  <key>_kldiagNW</key>
+  <string>_kldiagN_W_.glif</string>
+  <key>_kldiagNWSE</key>
+  <string>_kldiagN_W_S_E_.glif</string>
+  <key>_kldiagSE</key>
+  <string>_kldiagS_E_.glif</string>
+  <key>_kldiagSWNE</key>
+  <string>_kldiagS_W_N_E_.glif</string>
+  <key>_kldiagcomp</key>
+  <string>_kldiagcomp.glif</string>
+  <key>_klheadcir</key>
+  <string>_klheadcir.glif</string>
+  <key>_klhookascE</key>
+  <string>_klhookascE_.glif</string>
+  <key>_klhookascW</key>
+  <string>_klhookascW_.glif</string>
+  <key>_klloopflat</key>
+  <string>_klloopflat.glif</string>
+  <key>_klmidE</key>
+  <string>_klmidE_.glif</string>
+  <key>_klmidEN</key>
+  <string>_klmidE_N_.glif</string>
+  <key>_klmidN</key>
+  <string>_klmidN_.glif</string>
+  <key>_klmidS</key>
+  <string>_klmidS_.glif</string>
+  <key>_klmidW</key>
+  <string>_klmidW_.glif</string>
+  <key>_klmidWN</key>
+  <string>_klmidW_N_.glif</string>
+  <key>_klmidline</key>
+  <string>_klmidline.glif</string>
+  <key>_klserifE</key>
+  <string>_klserifE_.glif</string>
+  <key>_klserifEN</key>
+  <string>_klserifE_N_.glif</string>
+  <key>_klserifENshort</key>
+  <string>_klserifE_N_short.glif</string>
+  <key>_klserifES</key>
+  <string>_klserifE_S_.glif</string>
+  <key>_klserifESshort</key>
+  <string>_klserifE_S_short.glif</string>
+  <key>_klserifW</key>
+  <string>_klserifW_.glif</string>
+  <key>_klserifWN</key>
+  <string>_klserifW_N_.glif</string>
+  <key>_klserifWNshort</key>
+  <string>_klserifW_N_short.glif</string>
+  <key>_klserifWS</key>
+  <string>_klserifW_S_.glif</string>
+  <key>_klserifWSshort</key>
+  <string>_klserifW_S_short.glif</string>
+  <key>_klsqEN</key>
+  <string>_klsqE_N_.glif</string>
+  <key>_klsqES</key>
+  <string>_klsqE_S_.glif</string>
+  <key>_klsqNE</key>
+  <string>_klsqN_E_.glif</string>
+  <key>_klsqNEshort</key>
+  <string>_klsqN_E_short.glif</string>
+  <key>_klsqNW</key>
+  <string>_klsqN_W_.glif</string>
+  <key>_klsqNWshort</key>
+  <string>_klsqN_W_short.glif</string>
+  <key>_klsqSE</key>
+  <string>_klsqS_E_.glif</string>
+  <key>_klsqSEshort</key>
+  <string>_klsqS_E_short.glif</string>
+  <key>_klsqSW</key>
+  <string>_klsqS_W_.glif</string>
+  <key>_klsqSWshort</key>
+  <string>_klsqS_W_short.glif</string>
+  <key>_klsqWN</key>
+  <string>_klsqW_N_.glif</string>
+  <key>_klsqWS</key>
+  <string>_klsqW_S_.glif</string>
+  <key>_klsquarecomp</key>
+  <string>_klsquarecomp.glif</string>
   <key>_latarchE</key>
   <string>_latarchE_.glif</string>
   <key>_latarchW</key>
@@ -74,54 +184,12 @@
   <string>_latstemdescW_.glif</string>
   <key>a</key>
   <string>a.glif</string>
-  <key>ascNE</key>
-  <string>ascN_E_.glif</string>
-  <key>ascNW</key>
-  <string>ascN_W_.glif</string>
-  <key>asccomp</key>
-  <string>asccomp.glif</string>
   <key>b</key>
   <string>b.glif</string>
   <key>c</key>
   <string>c.glif</string>
-  <key>circleNE</key>
-  <string>circleN_E_.glif</string>
-  <key>circleNW</key>
-  <string>circleN_W_.glif</string>
-  <key>circleSE</key>
-  <string>circleS_E_.glif</string>
-  <key>circleSEshort</key>
-  <string>circleS_E_short.glif</string>
-  <key>circleSW</key>
-  <string>circleS_W_.glif</string>
-  <key>circleSWshort</key>
-  <string>circleS_W_short.glif</string>
-  <key>circlecomp</key>
-  <string>circlecomp.glif</string>
-  <key>circlemidW</key>
-  <string>circlemidW_.glif</string>
   <key>d</key>
   <string>d.glif</string>
-  <key>descSE</key>
-  <string>descS_E_.glif</string>
-  <key>descSW</key>
-  <string>descS_W_.glif</string>
-  <key>desccomp</key>
-  <string>desccomp.glif</string>
-  <key>descserifSE</key>
-  <string>descserifS_E_.glif</string>
-  <key>descserifSW</key>
-  <string>descserifS_W_.glif</string>
-  <key>diagNW</key>
-  <string>diagN_W_.glif</string>
-  <key>diagNWSE</key>
-  <string>diagN_W_S_E_.glif</string>
-  <key>diagSE</key>
-  <string>diagS_E_.glif</string>
-  <key>diagSWNE</key>
-  <string>diagS_W_N_E_.glif</string>
-  <key>diagcomp</key>
-  <string>diagcomp.glif</string>
   <key>e</key>
   <string>e.glif</string>
   <key>eight</key>
@@ -134,32 +202,10 @@
   <string>g.glif</string>
   <key>h</key>
   <string>h.glif</string>
-  <key>headcir</key>
-  <string>headcir.glif</string>
-  <key>hookascE</key>
-  <string>hookascE_.glif</string>
-  <key>hookascW</key>
-  <string>hookascW_.glif</string>
   <key>k</key>
   <string>k.glif</string>
-  <key>loopflat</key>
-  <string>loopflat.glif</string>
   <key>m</key>
   <string>m.glif</string>
-  <key>midE</key>
-  <string>midE_.glif</string>
-  <key>midEN</key>
-  <string>midE_N_.glif</string>
-  <key>midN</key>
-  <string>midN_.glif</string>
-  <key>midS</key>
-  <string>midS_.glif</string>
-  <key>midW</key>
-  <string>midW_.glif</string>
-  <key>midWN</key>
-  <string>midW_N_.glif</string>
-  <key>midline</key>
-  <string>midline.glif</string>
   <key>n</key>
   <string>n.glif</string>
   <key>p</key>
@@ -174,54 +220,8 @@
   <string>r.glif</string>
   <key>s</key>
   <string>s.glif</string>
-  <key>serifE</key>
-  <string>serifE_.glif</string>
-  <key>serifEN</key>
-  <string>serifE_N_.glif</string>
-  <key>serifENshort</key>
-  <string>serifE_N_short.glif</string>
-  <key>serifES</key>
-  <string>serifE_S_.glif</string>
-  <key>serifESshort</key>
-  <string>serifE_S_short.glif</string>
-  <key>serifW</key>
-  <string>serifW_.glif</string>
-  <key>serifWN</key>
-  <string>serifW_N_.glif</string>
-  <key>serifWNshort</key>
-  <string>serifW_N_short.glif</string>
-  <key>serifWS</key>
-  <string>serifW_S_.glif</string>
-  <key>serifWSshort</key>
-  <string>serifW_S_short.glif</string>
   <key>six</key>
   <string>six.glif</string>
-  <key>sqEN</key>
-  <string>sqE_N_.glif</string>
-  <key>sqES</key>
-  <string>sqE_S_.glif</string>
-  <key>sqNE</key>
-  <string>sqN_E_.glif</string>
-  <key>sqNEshort</key>
-  <string>sqN_E_short.glif</string>
-  <key>sqNW</key>
-  <string>sqN_W_.glif</string>
-  <key>sqNWshort</key>
-  <string>sqN_W_short.glif</string>
-  <key>sqSE</key>
-  <string>sqS_E_.glif</string>
-  <key>sqSEshort</key>
-  <string>sqS_E_short.glif</string>
-  <key>sqSW</key>
-  <string>sqS_W_.glif</string>
-  <key>sqSWshort</key>
-  <string>sqS_W_short.glif</string>
-  <key>sqWN</key>
-  <string>sqW_N_.glif</string>
-  <key>sqWS</key>
-  <string>sqW_S_.glif</string>
-  <key>squarecomp</key>
-  <string>squarecomp.glif</string>
   <key>t</key>
   <string>t.glif</string>
   <key>three</key>

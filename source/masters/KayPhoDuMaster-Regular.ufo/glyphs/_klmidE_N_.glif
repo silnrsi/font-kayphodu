@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_klmidEN" format="2">
+  <advance width="1180"/>
+  <outline>
+    <contour>
+      <point x="924" y="525" type="line"/>
+      <point x="1052" y="525" type="line"/>
+      <point x="1052" y="717" type="line"/>
+      <point x="924" y="717" type="line"/>
+    </contour>
+  </outline>
+</glyph>

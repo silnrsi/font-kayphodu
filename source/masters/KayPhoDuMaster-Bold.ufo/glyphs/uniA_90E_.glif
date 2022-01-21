@@ -3,13 +3,13 @@
   <advance width="1156"/>
   <unicode hex="A90E"/>
   <outline>
-    <component base="sqSW"/>
-    <component base="headcir" xOffset="-256" yOffset="307"/>
-    <component base="midN"/>
-    <component base="circleNE"/>
-    <component base="midE"/>
-    <component base="sqES"/>
-    <component base="sqSE"/>
+    <component base="_klsqSW"/>
+    <component base="_klheadcir" xOffset="-256" yOffset="307"/>
+    <component base="_klmidN"/>
+    <component base="_klcircleNE"/>
+    <component base="_klmidE"/>
+    <component base="_klsqES"/>
+    <component base="_klsqSE"/>
     <contour>
       <point x="118" y="204" type="line"/>
       <point x="118" y="0" type="line"/>

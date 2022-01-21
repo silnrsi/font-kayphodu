@@ -2,7 +2,7 @@
 <glyph name="uniA92C" format="2">
   <unicode hex="A92C"/>
   <outline>
-    <component base="midS" xOffset="-1156" yOffset="-525"/>
+    <component base="_klmidS" xOffset="-1156" yOffset="-525"/>
     <contour>
       <point x="-517" y="-525" type="line"/>
       <point x="-371" y="-525" type="line" smooth="yes"/>

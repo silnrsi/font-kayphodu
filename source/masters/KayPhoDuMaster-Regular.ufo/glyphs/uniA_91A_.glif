@@ -3,14 +3,14 @@
   <advance width="1180"/>
   <unicode hex="A91A"/>
   <outline>
-    <component base="sqWS"/>
-    <component base="midW"/>
-    <component base="sqWN"/>
-    <component base="circleNE"/>
-    <component base="midE"/>
-    <component base="descSE"/>
-    <component base="diagNW"/>
-    <component base="sqSW"/>
+    <component base="_klsqWS"/>
+    <component base="_klmidW"/>
+    <component base="_klsqWN"/>
+    <component base="_klcircleNE"/>
+    <component base="_klmidE"/>
+    <component base="_kldescSE"/>
+    <component base="_kldiagNW"/>
+    <component base="_klsqSW"/>
     <contour>
       <point x="465" y="926" type="line"/>
       <point x="745" y="926" type="line"/>

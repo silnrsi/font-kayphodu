@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_klserifESshort" format="2">
+  <advance width="1180"/>
+  <outline>
+    <contour>
+      <point x="757" y="334" type="line"/>
+      <point x="988" y="334" type="line"/>
+      <point x="1052" y="334" type="line"/>
+      <point x="1052" y="436" type="line"/>
+      <point x="757" y="436" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -3,14 +3,14 @@
   <advance width="1156"/>
   <unicode hex="A925"/>
   <outline>
-    <component base="circleSW"/>
-    <component base="midS"/>
-    <component base="midW"/>
-    <component base="circleSE"/>
-    <component base="circleNW"/>
-    <component base="midE"/>
-    <component base="midN"/>
-    <component base="circleNE"/>
+    <component base="_klcircleSW"/>
+    <component base="_klmidS"/>
+    <component base="_klmidW"/>
+    <component base="_klcircleSE"/>
+    <component base="_klcircleNW"/>
+    <component base="_klmidE"/>
+    <component base="_klmidN"/>
+    <component base="_klcircleNE"/>
     <contour>
       <point x="578" y="540" type="curve" smooth="yes"/>
       <point x="748" y="540"/>

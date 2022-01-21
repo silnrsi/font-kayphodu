@@ -3,10 +3,10 @@
   <advance width="1180"/>
   <unicode hex="A908"/>
   <outline>
-    <component base="midS"/>
-    <component base="circleSW"/>
-    <component base="midW"/>
-    <component base="sqWN"/>
+    <component base="_klmidS"/>
+    <component base="_klcircleSW"/>
+    <component base="_klmidW"/>
+    <component base="_klsqWN"/>
     <contour>
       <point x="673" y="0" type="line"/>
       <point x="819" y="0" type="line" smooth="yes"/>

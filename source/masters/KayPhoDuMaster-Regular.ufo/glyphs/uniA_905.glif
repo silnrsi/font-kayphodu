@@ -3,12 +3,12 @@
   <advance width="1180"/>
   <unicode hex="A905"/>
   <outline>
-    <component base="circleSW"/>
-    <component base="midW"/>
-    <component base="circleNW"/>
-    <component base="midN"/>
-    <component base="sqNE"/>
-    <component base="sqEN"/>
+    <component base="_klcircleSW"/>
+    <component base="_klmidW"/>
+    <component base="_klcircleNW"/>
+    <component base="_klmidN"/>
+    <component base="_klsqNE"/>
+    <component base="_klsqEN"/>
   </outline>
   <lib>
     <dict>
