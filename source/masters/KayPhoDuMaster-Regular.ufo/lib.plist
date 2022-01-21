@@ -321,7 +321,7 @@
     <string>dieresiscomb</string>
     <string>ringcomb</string>
     <string>cedillacomb</string>
-    <string>blank</string>
+    <string>openbox</string>
     <string>graphemejoinercomb</string>
     <string>VS1</string>
     <string>VS2</string>
@@ -341,11 +341,11 @@
     <string>VS16</string>
     <string>wordjoiner</string>
     <string>zerowidthjoiner</string>
-    <string>zeroWidthNoBreakSpace</string>
+    <string>zerowidthnobreakspace</string>
     <string>zerowidthnonjoiner</string>
     <string>zerowidthspace</string>
     <string>lineseparator</string>
-    <string>objectReplacementCharacter</string>
+    <string>objectrepchar</string>
     <string>paragraphseparator</string>
     <string>emquad</string>
     <string>emspace</string>
@@ -359,7 +359,7 @@
     <string>figurespace</string>
     <string>thinspace</string>
     <string>hairspace</string>
-    <string>replacementCharacter</string>
+    <string>repchar</string>
     <string>FontBslnSideBrngMrkrLft</string>
     <string>FontBslnSideBrngMrkrRt</string>
     <string>uniA900</string>
@@ -412,30 +412,24 @@
     <string>uniA92F</string>
     <string>_klascNE</string>
     <string>_klascNW</string>
-    <string>_klasccomp</string>
     <string>_klcircleNE</string>
     <string>_klcircleNW</string>
     <string>_klcircleSE</string>
     <string>_klcircleSEshort</string>
     <string>_klcircleSW</string>
     <string>_klcircleSWshort</string>
-    <string>_klcirclecomp</string>
     <string>_klcirclemidW</string>
     <string>_kldescSE</string>
     <string>_kldescSW</string>
-    <string>_kldesccomp</string>
     <string>_kldescserifSE</string>
     <string>_kldescserifSW</string>
     <string>_kldiagNW</string>
     <string>_kldiagNWSE</string>
     <string>_kldiagSE</string>
     <string>_kldiagSWNE</string>
-    <string>_kldiagcomp</string>
     <string>_klheadcir</string>
     <string>_klhookascE</string>
     <string>_klhookascW</string>
-    <string>latcir</string>
-    <string>latn</string>
     <string>_klloopflat</string>
     <string>_klmidE</string>
     <string>_klmidEN</string>
@@ -466,7 +460,42 @@
     <string>_klsqSWshort</string>
     <string>_klsqWN</string>
     <string>_klsqWS</string>
+    <string>_klasccomp</string>
+    <string>_klcirclecomp</string>
+    <string>_kldesccomp</string>
+    <string>_kldiagcomp</string>
     <string>_klsquarecomp</string>
+    <string>_latarchE</string>
+    <string>_latarchW</string>
+    <string>_latbowlE</string>
+    <string>_latbowlW</string>
+    <string>_latcirNE</string>
+    <string>_latcirNW</string>
+    <string>_latcirSE</string>
+    <string>_latcirSW</string>
+    <string>_latcrossbar</string>
+    <string>_latcurveNE</string>
+    <string>_latcurveSE</string>
+    <string>_latdot</string>
+    <string>_lathalfserifNW</string>
+    <string>_lathalfserifSE</string>
+    <string>_lathalfserifascW</string>
+    <string>_latlongserifSW</string>
+    <string>_latroundarchE</string>
+    <string>_latroundarchW</string>
+    <string>_latroundbowlE</string>
+    <string>_latroundbowlW</string>
+    <string>_latserifNE</string>
+    <string>_latserifNW</string>
+    <string>_latserifSE</string>
+    <string>_latserifSW</string>
+    <string>_latstemNE</string>
+    <string>_latstemNW</string>
+    <string>_latstemSE</string>
+    <string>_latstemSW</string>
+    <string>_latstemascW</string>
+    <string>_latstemdescE</string>
+    <string>_latstemdescW</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
@@ -532,8 +561,12 @@
     <string>uni2002</string>
     <key>euro</key>
     <string>Euro</string>
+    <key>fi</key>
+    <string>uniFB01</string>
     <key>figurespace</key>
     <string>uni2007</string>
+    <key>fl</key>
+    <string>uniFB02</string>
     <key>fourperemspace</key>
     <string>uni2005</string>
     <key>foursuperior</key>
@@ -564,13 +597,17 @@
     <string>uni00A0</string>
     <key>nonbreakinghyphen</key>
     <string>uni2011</string>
-    <key>objectReplacementCharacter</key>
+    <key>objectrepchar</key>
     <string>uniFFFC</string>
+    <key>onesuperior</key>
+    <string>uni00B9</string>
+    <key>openbox</key>
+    <string>uni2423</string>
     <key>paragraphseparator</key>
     <string>uni2029</string>
     <key>punctuationspace</key>
     <string>uni2008</string>
-    <key>replacementCharacter</key>
+    <key>repchar</key>
     <string>uniFFFD</string>
     <key>ringcomb</key>
     <string>uni030A</string>
@@ -582,12 +619,16 @@
     <string>uni2009</string>
     <key>threeperemspace</key>
     <string>uni2004</string>
+    <key>threesuperior</key>
+    <string>uni00B3</string>
+    <key>twosuperior</key>
+    <string>uni00B2</string>
     <key>wordjoiner</key>
     <string>uni2060</string>
-    <key>zeroWidthNoBreakSpace</key>
-    <string>uniFEFF</string>
     <key>zerowidthjoiner</key>
     <string>uni200D</string>
+    <key>zerowidthnobreakspace</key>
+    <string>uniFEFF</string>
     <key>zerowidthnonjoiner</key>
     <string>uni200C</string>
     <key>zerowidthspace</key>
