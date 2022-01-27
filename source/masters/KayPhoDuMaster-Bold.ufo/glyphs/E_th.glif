@@ -4,11 +4,11 @@
   <unicode hex="00D0"/>
   <outline>
     <component base="D"/>
+    <contour>
+      <point x="64" y="680" type="line"/>
+      <point x="620" y="680" type="line"/>
+      <point x="620" y="804" type="line"/>
+      <point x="64" y="804" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

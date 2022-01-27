@@ -56,3 +56,5 @@ yacute = y + acutecomb@U | 00FD
 Yacute = Y + acutecomb@U | 00DD
 zcaron = z + caroncomb@U | 017E
 Zcaron = Z + caroncomb@U | 017D
+fi = f & i | FB01
+fl = f & l | FB02
