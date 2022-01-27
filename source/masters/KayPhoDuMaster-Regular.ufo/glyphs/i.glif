@@ -2,6 +2,7 @@
 <glyph name="i" format="2">
   <advance width="664"/>
   <unicode hex="0069"/>
+  <anchor x="332" y="1100" name="U"/>
   <outline>
     <component base="_latstemSW" xOffset="60"/>
     <component base="_latstemNW" xOffset="60"/>

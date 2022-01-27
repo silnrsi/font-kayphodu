@@ -2,6 +2,7 @@
 <glyph name="u" format="2">
   <advance width="1040"/>
   <unicode hex="0075"/>
+  <anchor x="580" y="1100" name="U"/>
   <outline>
     <component base="_lathalfserifNW"/>
     <component base="_latstemNW"/>

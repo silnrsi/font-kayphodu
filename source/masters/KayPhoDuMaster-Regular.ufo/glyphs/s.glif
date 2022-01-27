@@ -2,6 +2,7 @@
 <glyph name="s" format="2">
   <advance width="972"/>
   <unicode hex="0073"/>
+  <anchor x="486" y="1100" name="U"/>
   <outline>
     <component base="_latcurveNE" xOffset="-34"/>
     <contour>

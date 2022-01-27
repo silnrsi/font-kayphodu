@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ringcomb" format="2">
   <unicode hex="030A"/>
+  <anchor x="-510" y="1100" name="_U"/>
   <outline>
     <component base="uniA926"/>
   </outline>

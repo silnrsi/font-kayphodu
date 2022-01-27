@@ -2,8 +2,22 @@
 <glyph name="idotless" format="2">
   <advance width="572"/>
   <unicode hex="0131"/>
+  <anchor x="332" y="1100" name="U"/>
   <outline>
-    <component base="i"/>
+    <component base="_latstemSW" xOffset="60"/>
+    <component base="_latstemNW" xOffset="60"/>
+    <contour>
+      <point x="92" y="0" type="line"/>
+      <point x="572" y="0" type="line"/>
+      <point x="572" y="124" type="line"/>
+      <point x="92" y="124" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="914" type="line"/>
+      <point x="332" y="914" type="line"/>
+      <point x="332" y="1038" type="line"/>
+      <point x="92" y="1038" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
