@@ -4,5 +4,4 @@
 psffixffglifs source/masters/KayPhoDuMaster-Regular.ufo -p checkfix=fix
 psffixffglifs source/masters/KayPhoDuMaster-Bold.ufo -p checkfix=fix
 
-# Following sync will copy psnames and glyphorder updates to all fonts
-psfsyncmasters source/KayPhoDu.designspace
+./preflight
