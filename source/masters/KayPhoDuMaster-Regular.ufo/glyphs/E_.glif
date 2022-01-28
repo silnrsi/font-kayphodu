@@ -2,7 +2,7 @@
 <glyph name="E" format="2">
   <advance width="1152"/>
   <unicode hex="0045"/>
-  <anchor x="614" y="1500" name="U"/>
+  <anchor x="614" y="1460" name="U"/>
   <outline>
     <component base="_latserifSW" xOffset="16"/>
     <component base="_latstemSW" xOffset="16"/>
