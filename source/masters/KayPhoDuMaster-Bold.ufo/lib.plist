@@ -638,5 +638,13 @@
     <key>zerowidthspace</key>
     <string>uni200B</string>
   </dict>
+  <key>public.skipExportGlyphs</key>
+  <array>
+    <string>_klasccomp</string>
+    <string>_klcirclecomp</string>
+    <string>_kldesccomp</string>
+    <string>_kldiagcomp</string>
+    <string>_klsquarecomp</string>
+  </array>
 </dict>
 </plist>
