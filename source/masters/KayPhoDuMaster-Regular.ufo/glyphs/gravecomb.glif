@@ -3,7 +3,12 @@
   <unicode hex="0300"/>
   <anchor x="-510" y="1100" name="_U"/>
   <outline>
-    <component base="uniA927"/>
+    <contour>
+      <point x="-510" y="1169" type="line"/>
+      <point x="-341" y="1169" type="line"/>
+      <point x="-706" y="1562" type="line"/>
+      <point x="-875" y="1562" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

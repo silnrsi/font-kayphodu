@@ -3,7 +3,8 @@
   <unicode hex="0308"/>
   <anchor x="-510" y="1100" name="_U"/>
   <outline>
-    <component base="uniA926"/>
+    <component base="_latdot" xOffset="-1006"/>
+    <component base="_latdot" xOffset="-618"/>
   </outline>
   <lib>
     <dict>

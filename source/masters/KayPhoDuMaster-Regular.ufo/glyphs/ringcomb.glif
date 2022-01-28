@@ -3,7 +3,7 @@
   <unicode hex="030A"/>
   <anchor x="-510" y="1100" name="_U"/>
   <outline>
-    <component base="uniA926"/>
+    <component base="_klheadcir" xOffset="-1280" yOffset="1186"/>
   </outline>
   <lib>
     <dict>
