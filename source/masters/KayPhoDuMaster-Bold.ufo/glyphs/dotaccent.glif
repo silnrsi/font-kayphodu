@@ -2,12 +2,6 @@
 <glyph name="dotaccent" format="2">
   <unicode hex="02D9"/>
   <outline>
-    <component base="uniA926"/>
+    <component base="_latdot" xOffset="208"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
-    </dict>
-  </lib>
 </glyph>

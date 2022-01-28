@@ -24,7 +24,6 @@
     <string>/gravecomb ò</string>
     <string>/acutecomb ó</string>
     <string>óòôö/tildecomb õ</string>
-    <string>ñ</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

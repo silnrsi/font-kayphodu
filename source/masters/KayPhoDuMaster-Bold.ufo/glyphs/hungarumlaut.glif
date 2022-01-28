@@ -2,12 +2,17 @@
 <glyph name="hungarumlaut" format="2">
   <unicode hex="02DD"/>
   <outline>
-    <component base="uniA926"/>
+    <contour>
+      <point x="517" y="1169" type="line"/>
+      <point x="686" y="1169" type="line"/>
+      <point x="901" y="1562" type="line"/>
+      <point x="732" y="1562" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="1169" type="line"/>
+      <point x="326" y="1169" type="line"/>
+      <point x="541" y="1562" type="line"/>
+      <point x="372" y="1562" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.98,0.36,0.67,1</string>
-    </dict>
-  </lib>
 </glyph>
