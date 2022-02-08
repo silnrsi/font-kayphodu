@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketright" format="2">
-  <advance width="787"/>
+  <advance width="626"/>
   <unicode hex="005D"/>
   <outline>
-    <component base="parenright"/>
+    <component base="_latstemSW" xOffset="162"/>
+    <component base="_latstemNW" xOffset="162"/>
+    <component base="_lathalfserifascW" xOffset="16"/>
+    <component base="_latstemascW" xOffset="162"/>
+    <component base="_latstemdescW" xOffset="162"/>
+    <component base="_lathalfserifascW" xOffset="162"/>
+    <component base="_lathalfserifascW" xOffset="16" yOffset="-1962"/>
+    <component base="_lathalfserifascW" xOffset="162" yOffset="-1962"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="2">
-  <advance width="787"/>
+  <advance width="737"/>
   <unicode hex="2039"/>
   <outline>
-    <component base="parenleft"/>
+    <contour>
+      <point x="673" y="0" type="line"/>
+      <point x="505" y="185"/>
+      <point x="364" y="345"/>
+      <point x="210" y="525" type="curve"/>
+      <point x="364" y="705"/>
+      <point x="505" y="865"/>
+      <point x="673" y="1050" type="curve"/>
+      <point x="503" y="1050" type="line"/>
+      <point x="365" y="895"/>
+      <point x="228" y="735"/>
+      <point x="48" y="525" type="curve"/>
+      <point x="228" y="315"/>
+      <point x="365" y="155"/>
+      <point x="503" y="0" type="curve"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
-    </dict>
-  </lib>
 </glyph>
