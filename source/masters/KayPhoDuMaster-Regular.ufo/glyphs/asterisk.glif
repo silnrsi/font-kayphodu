@@ -1,37 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="2">
-  <advance width="1180"/>
+  <advance width="1020"/>
   <unicode hex="002A"/>
   <outline>
-    <contour>
-      <point x="189" y="79" type="line"/>
-      <point x="1048" y="936" type="line"/>
-      <point x="950" y="1038" type="line"/>
-      <point x="90" y="179" type="line"/>
-    </contour>
-    <contour>
-      <point x="991" y="90" type="line"/>
-      <point x="1091" y="189" type="line"/>
-      <point x="242" y="1038" type="line"/>
-      <point x="142" y="938" type="line"/>
-    </contour>
-    <contour>
-      <point x="498" y="1048" type="line"/>
-      <point x="498" y="0" type="line"/>
-      <point x="655" y="0" type="line"/>
-      <point x="655" y="1048" type="line"/>
-    </contour>
-    <contour>
-      <point x="1133" y="493" type="line"/>
-      <point x="1133" y="645" type="line"/>
-      <point x="37" y="645" type="line"/>
-      <point x="37" y="493" type="line"/>
-    </contour>
+    <component base="_punctasterline" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="-674" yOffset="1694"/>
+    <component base="_punctasterline"/>
+    <component base="_punctasterline" xScale="0.70711" xyScale="-0.70711" yxScale="0.70711" yScale="0.70711" xOffset="-689" yOffset="709"/>
+    <component base="_punctasterline" xScale="0.70711" xyScale="0.70711" yxScale="-0.70711" yScale="0.70711" xOffset="986" yOffset="-14"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

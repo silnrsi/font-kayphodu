@@ -25,6 +25,7 @@
     <string>/uniA916/uniA91E///uniA916/uniA91E/backslash/uniA916/uniA91E |/uniA916/uniA91E ¦/uniA916/uniA91E/space ¿/uniA916/uniA91E ¡/uniA916/uniA91E ./uniA916/uniA91E/ellipsis/uniA916/uniA91E ·/uniA916/uniA91E</string>
     <string>"/uniA916/uniA91E '/uniA916/uniA91E/quotesinglbase/quotedblbase/hyphenationpoint</string>
     <string>/uniA916/uniA917/uniA918/uniA919/uniA921 0102030405060708090Hlf0O</string>
+    <string>/uniA916 ~/uniA916 ^/uniA916/dagger/uniA916/bullet/uniA916/lozenge/uniA916/daggerdbl/uniA916/FontBslnSideBrngMrkrLft/uniA916/FontBslnSideBrngMrkrRt/uniA916</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -196,6 +197,7 @@
     <string>_latstemascW</string>
     <string>_latstemdescE</string>
     <string>_latstemdescW</string>
+    <string>_punctasterline</string>
     <string>space</string>
     <string>exclam</string>
     <string>quotedbl</string>
@@ -645,6 +647,7 @@
     <string>_kldesccomp</string>
     <string>_kldiagcomp</string>
     <string>_klsquarecomp</string>
+    <string>_punctasterline</string>
   </array>
 </dict>
 </plist>

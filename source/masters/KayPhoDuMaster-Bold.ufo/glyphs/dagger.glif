@@ -3,12 +3,14 @@
   <advance width="587"/>
   <unicode hex="2020"/>
   <outline>
-    <component base="t"/>
+    <component base="_klmidW" xOffset="202"/>
+    <component base="_latstemNW" xOffset="122"/>
+    <component base="_latcrossbar" xOffset="12"/>
+    <contour>
+      <point x="330" y="988" type="line"/>
+      <point x="458" y="988" type="line"/>
+      <point x="458" y="1316" type="line"/>
+      <point x="330" y="1316" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

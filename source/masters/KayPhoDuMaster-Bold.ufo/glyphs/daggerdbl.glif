@@ -3,13 +3,7 @@
   <advance width="1174"/>
   <unicode hex="2021"/>
   <outline>
-    <component base="t"/>
-    <component base="t" xOffset="587"/>
+    <component base="dagger"/>
+    <component base="dagger" xOffset="370"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>
