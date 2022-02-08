@@ -192,12 +192,8 @@
   <string>d.glif</string>
   <key>e</key>
   <string>e.glif</string>
-  <key>eight</key>
-  <string>eight.glif</string>
   <key>f</key>
   <string>f.glif</string>
-  <key>five</key>
-  <string>five.glif</string>
   <key>g</key>
   <string>g.glif</string>
   <key>h</key>
@@ -220,12 +216,8 @@
   <string>r.glif</string>
   <key>s</key>
   <string>s.glif</string>
-  <key>six</key>
-  <string>six.glif</string>
   <key>t</key>
   <string>t.glif</string>
-  <key>three</key>
-  <string>three.glif</string>
   <key>u</key>
   <string>u.glif</string>
   <key>uniA900</key>
@@ -320,7 +312,5 @@
   <string>x.glif</string>
   <key>y</key>
   <string>y.glif</string>
-  <key>zero</key>
-  <string>zero.glif</string>
 </dict>
 </plist>
