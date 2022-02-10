@@ -21,7 +21,7 @@ ftmlTest('tools/ftml-smith.xsl')
 designspace('source/' + FAMILY + '.designspace',
     target = "${DS:FILENAME_BASE}.ttf",
     params = "--decomposeComponents --removeOverlap",
-#    opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/features.feax", to_ufo = 'True'),
+    opentype = fea("generated/${DS:FILENAME_BASE}.fea", master="source/KayPhoDu.feax", to_ufo = 'True'),
 #    woff = woff('web/${DS:FILENAME_BASE}.woff',
 #        metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
 #        cmd='psfwoffit -m ${SRC[1]} --woff ${TGT} --woff2 ${TGT}2 ${SRC[0]}'
