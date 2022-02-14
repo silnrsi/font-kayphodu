@@ -1,14 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="2">
-  <advance width="1294"/>
+  <advance width="1106"/>
   <unicode hex="00A5"/>
   <outline>
-    <component base="Y"/>
+    <component base="_latserifSW" xOffset="281"/>
+    <component base="_latstemSW" xOffset="281"/>
+    <component base="_latserifNW" xOffset="-18" yOffset="408"/>
+    <component base="_latserifNE" xOffset="-56" yOffset="408"/>
+    <contour>
+      <point x="497" y="532" type="line"/>
+      <point x="609" y="532" type="line"/>
+      <point x="973" y="1446" type="line"/>
+      <point x="836" y="1446" type="line"/>
+      <point x="553" y="695" type="line"/>
+      <point x="269" y="1446" type="line"/>
+      <point x="132" y="1446" type="line"/>
+    </contour>
+    <contour>
+      <point x="489" y="464" type="line"/>
+      <point x="617" y="464" type="line"/>
+      <point x="617" y="640" type="line"/>
+      <point x="489" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="414" type="line"/>
+      <point x="1011" y="414" type="line"/>
+      <point x="1011" y="537" type="line"/>
+      <point x="91" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="746" type="line"/>
+      <point x="421" y="746" type="line"/>
+      <point x="421" y="870" type="line"/>
+      <point x="91" y="870" type="line"/>
+    </contour>
+    <contour>
+      <point x="681" y="746" type="line"/>
+      <point x="1011" y="746" type="line"/>
+      <point x="1011" y="870" type="line"/>
+      <point x="681" y="870" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -26,6 +26,7 @@
     <string>"/uniA916/uniA91E '/uniA916/uniA91E/quotesinglbase/quotedblbase/hyphenationpoint</string>
     <string>/uniA916/uniA917/uniA918/uniA919/uniA921 0102030405060708090Hlf0O</string>
     <string>/uniA916 ~/uniA916 ^/uniA916/dagger/uniA916/bullet/uniA916/lozenge/uniA916/daggerdbl/uniA916/FontBslnSideBrngMrkrLft/uniA916/FontBslnSideBrngMrkrRt/uniA916</string>
+    <string>0#0/uniA921//H/uniA921 0/fraction 0%0/perthousand 0/approxequal 0=0/notequal 0±0/lessequal 0/greaterequal 0&lt;0&gt;0×0+0/minus 0÷0/infinity 0$£/euro ¥/summation/product/Ohm/Delta ¢µ/partialdiff/pi/florin/integral ¬0/radical 0¤08°0/bulletoperator 00/space</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

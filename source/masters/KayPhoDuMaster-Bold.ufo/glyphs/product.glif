@@ -3,12 +3,21 @@
   <advance width="1192"/>
   <unicode hex="220F"/>
   <outline>
-    <component base="equal"/>
+    <component base="_latserifSW" xOffset="16"/>
+    <component base="_latstemSW" xOffset="16"/>
+    <component base="_latstemNW" xOffset="16"/>
+    <component base="_latserifSE" xOffset="146"/>
+    <component base="_latstemSE" xOffset="146"/>
+    <component base="_latstemascW" xOffset="16" yOffset="-128"/>
+    <component base="_latserifNW" xOffset="16" yOffset="408"/>
+    <component base="_latstemNE" xOffset="146"/>
+    <component base="_latstemascW" xOffset="782" yOffset="-128"/>
+    <component base="_latserifNE" xOffset="146" yOffset="408"/>
+    <contour>
+      <point x="288" y="1322" type="line"/>
+      <point x="1054" y="1322" type="line"/>
+      <point x="1054" y="1446" type="line"/>
+      <point x="288" y="1446" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="2">
-  <advance width="1132"/>
+  <advance width="1106"/>
   <unicode hex="0024"/>
   <outline>
-    <component base="S"/>
+    <component base="S" xOffset="-13"/>
+    <component base="_latstemSW" xOffset="280" yOffset="100"/>
+    <component base="_latstemNW" xOffset="280" yOffset="100"/>
+    <component base="_latstemascW" xOffset="280" yOffset="50"/>
+    <component base="_latstemdescW" xOffset="280" yOffset="334"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>
