@@ -7,18 +7,18 @@
     <component base="_latstemNW" xOffset="25"/>
     <component base="_latdot" xOffset="-5"/>
     <contour>
-      <point x="-108" y="-526" type="line"/>
-      <point x="-2" y="-526" type="line" smooth="yes"/>
-      <point x="281" y="-526"/>
+      <point x="-108" y="-525" type="line"/>
+      <point x="-2" y="-525" type="line" smooth="yes"/>
+      <point x="281" y="-525"/>
       <point x="361" y="-314"/>
       <point x="361" y="-70" type="curve" smooth="yes"/>
       <point x="361" y="62" type="line"/>
       <point x="233" y="62" type="line"/>
       <point x="233" y="-60" type="line" smooth="yes"/>
       <point x="233" y="-245"/>
-      <point x="199" y="-402"/>
-      <point x="-22" y="-402" type="curve" smooth="yes"/>
-      <point x="-108" y="-402" type="line"/>
+      <point x="199" y="-401"/>
+      <point x="-22" y="-401" type="curve" smooth="yes"/>
+      <point x="-108" y="-401" type="line"/>
     </contour>
     <contour>
       <point x="57" y="914" type="line"/>
