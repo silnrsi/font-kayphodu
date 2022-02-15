@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>1814</integer>
+  <integer>1944</integer>
   <key>capHeight</key>
   <integer>1563</integer>
   <key>copyright</key>
   <string>Copyright (c) 2019-2022 SIL International, based on the overall design of Karenni (Copyright (c) 2016-2019, Khu Oo Reh).</string>
   <key>descender</key>
-  <integer>-538</integer>
+  <integer>-525</integer>
   <key>familyName</key>
   <string>Kay Pho Du Master</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/02/15 14:25:50</string>
+  <string>2022/02/15 14:47:02</string>
   <key>openTypeHheaAscender</key>
-  <integer>1814</integer>
+  <integer>1944</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-538</integer>
+  <integer>-525</integer>
   <key>openTypeHheaLineGap</key>
   <integer>0</integer>
   <key>openTypeNameDescription</key>
@@ -133,9 +133,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
-  <integer>1814</integer>
+  <integer>1944</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-538</integer>
+  <integer>-525</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -155,24 +155,29 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
-  <integer>1814</integer>
+  <integer>1944</integer>
   <key>openTypeOS2WinDescent</key>
-  <integer>538</integer>
+  <integer>525</integer>
   <key>postscriptBlueValues</key>
   <array>
-    <integer>-538</integer>
-    <integer>-525</integer>
-    <integer>-32</integer>
+    <integer>-12</integer>
     <integer>0</integer>
-    <integer>1048</integer>
-    <integer>1075</integer>
-    <integer>1563</integer>
-    <integer>1587</integer>
+    <integer>1038</integer>
+    <integer>1050</integer>
+    <integer>1446</integer>
+    <integer>1458</integer>
+    <integer>1562</integer>
+    <integer>1574</integer>
   </array>
   <key>postscriptFontName</key>
   <string>KayPhoDuMaster-Bold</string>
   <key>postscriptFullName</key>
   <string>Kay Pho Du Master Bold</string>
+  <key>postscriptOtherBlues</key>
+  <array>
+    <integer>-525</integer>
+    <integer>-512</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-141</integer>
   <key>postscriptUnderlineThickness</key>
