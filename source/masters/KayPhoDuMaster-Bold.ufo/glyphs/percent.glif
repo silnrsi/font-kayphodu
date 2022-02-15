@@ -3,12 +3,7 @@
   <advance width="1215"/>
   <unicode hex="0025"/>
   <outline>
-    <contour>
-      <point x="138" y="0" type="line"/>
-      <point x="278" y="0" type="line"/>
-      <point x="1226" y="1446" type="line"/>
-      <point x="1086" y="1446" type="line"/>
-    </contour>
+    <component base="fraction" xOffset="107"/>
     <contour>
       <point x="1024" y="-12" type="curve"/>
       <point x="1167" y="-12"/>
