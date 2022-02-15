@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Kay Pho Du Master</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/02/15 14:25:48</string>
+  <string>2022/02/15 15:02:41</string>
   <key>openTypeHheaAscender</key>
   <integer>1944</integer>
   <key>openTypeHheaDescender</key>
@@ -83,7 +83,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Kay Pho Du Master Regular: 2022</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.910</string>
+  <string>Version 1.920</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -195,8 +195,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>910</integer>
+  <integer>920</integer>
   <key>xHeight</key>
-  <integer>1048</integer>
+  <integer>1050</integer>
 </dict>
 </plist>
