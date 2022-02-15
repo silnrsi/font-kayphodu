@@ -3,8 +3,6 @@
     <axes>
         <axis default="400.0" maximum="700.0" minimum="400.0" name="weight" tag="wght">
             <map input="400.0" output="400.0" />
-            <map input="500.0" output="500.0" />
-            <map input="600.0" output="600.0" />
             <map input="700.0" output="700.0" />
             <labelname xml:lang="en">Weight</labelname>
         </axis>
@@ -29,45 +27,11 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
-        <source familyname="Kay Pho Du Master" filename="masters/KayPhoDuMaster-Bold.ufo" name="Kay Pho Du Bold" stylename="Bold">
-            <location>
-                <dimension name="weight" xvalue="700.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
-            </location>
-        </source>
     </sources>
     <instances>
-        <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-Regular.ufo" name="Kay Pho Du Proto A Regular" stylemapfamilyname="Kay Pho Du Proto A" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Kay Pho Du Test B" filename="instances/KayPhoDuTestB-Regular.ufo" name="Kay Pho Du Test B Regular" stylemapfamilyname="Kay Pho Du Test B" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
-            </location>
-            <info />
-            <kerning />
-        </instance>
-        <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-Medium.ufo" name="Kay Pho Du Proto A Medium" stylemapfamilyname="Kay Pho Du Proto A Medium" stylemapstylename="regular" stylename="Regular">
-            <location>
-                <dimension name="weight" xvalue="500.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
-            </location>
-            <info />
-            <kerning />
-        </instance>
-        <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-SemiBold.ufo" name="Kay Pho Du Proto A SemiBold" stylemapfamilyname="Kay Pho Du Proto A SemiBold" stylemapstylename="regular" stylename="Regular">
-            <location>
-                <dimension name="weight" xvalue="600.000000" />
-                <dimension name="width" xvalue="100.000000" />
-                <dimension name="custom" xvalue="0.000000" />
-            </location>
-            <info />
-            <kerning />
-        </instance>
-        <instance familyname="Kay Pho Du Proto A" filename="instances/KayPhoDuProtoA-Bold.ufo" name="Kay Pho Du Proto A Bold" stylemapfamilyname="Kay Pho Du Proto A" stylemapstylename="bold" stylename="Bold">
-            <location>
-                <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>

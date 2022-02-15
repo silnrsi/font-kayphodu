@@ -21,6 +21,9 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
+2022-02-15 Kay Pho Du Test B v1.920
+  - Test version to test regular weight
+
 2019-08-22 Kay Pho Du v0.1
   - Initial files based on Karenni
 
