@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Kay Pho Du Master</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/02/15 15:02:41</string>
+  <string>2022/04/06 13:03:45</string>
   <key>openTypeHheaAscender</key>
   <integer>1944</integer>
   <key>openTypeHheaDescender</key>
@@ -166,7 +166,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>1050</integer>
     <integer>1446</integer>
     <integer>1458</integer>
-    <integer>1562</integer>
+    <integer>1563</integer>
     <integer>1574</integer>
   </array>
   <key>postscriptFontName</key>
