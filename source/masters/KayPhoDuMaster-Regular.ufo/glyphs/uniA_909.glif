@@ -3,17 +3,18 @@
   <advance width="1180"/>
   <unicode hex="A909"/>
   <outline>
-    <component base="_klcircleNE" yOffset="-293"/>
+    <component base="_klcircleNE" yOffset="-343"/>
     <component base="_klcircleSE"/>
     <component base="_klmidS"/>
     <component base="_klcircleSW"/>
     <component base="_klmidW"/>
     <component base="_klhookascW" yOffset="-524"/>
+    <component base="_klsqNWshort" yOffset="-343"/>
     <contour>
       <point x="924" y="333" type="line"/>
       <point x="1052" y="333" type="line"/>
-      <point x="1052" y="424" type="line"/>
-      <point x="924" y="424" type="line"/>
+      <point x="1052" y="374" type="line"/>
+      <point x="924" y="374" type="line"/>
     </contour>
   </outline>
 </glyph>

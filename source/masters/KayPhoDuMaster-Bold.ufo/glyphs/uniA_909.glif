@@ -9,6 +9,7 @@
     <component base="_klcircleSW"/>
     <component base="_klmidW"/>
     <component base="_klhookascW" yOffset="-524"/>
+    <component base="_klsqNWshort" yOffset="-343"/>
     <contour>
       <point x="924" y="333" type="line"/>
       <point x="1052" y="333" type="line"/>
