@@ -27,12 +27,11 @@
     <string>/uniA916/uniA917/uniA918/uniA919/uniA921 0102030405060708090Hlf0O</string>
     <string>/uniA916 ~/uniA916 ^/uniA916/dagger/uniA916/bullet/uniA916/lozenge/uniA916/daggerdbl/uniA916/FontBslnSideBrngMrkrLft/uniA916/FontBslnSideBrngMrkrRt/uniA916</string>
     <string>0#0/uniA921//H/uniA921 0/fraction 0%0/perthousand 0/approxequal 0=0/notequal 0±0/lessequal 0/greaterequal 0&lt;0&gt;0×0+0/minus 0÷0/infinity 0$£/euro ¥/summation/product/Ohm/Delta ¢µ/partialdiff/pi/florin/integral ¬0/radical 0¤08°0/bulletoperator 00/space</string>
-    <string>/perthousand 0</string>
-    <string>²½¼¾</string>
-    <string>/perthousand</string>
     <string>/uniA901/uniA916 &amp;/uniA91E H&amp;HS8gHn§n¶</string>
     <string>/uniA900/uniA901/uniA902/uniA903/uniA904/uniA905/uniA906/uniA907/uniA908/uniA909/uniA913/uniA91D</string>
-    <string>/uniA909</string>
+    <string>/uniA92C/_klloopflat/uniA901/uniA92C/uniA901/uniA92D</string>
+    <string>/uniA92C</string>
+    <string>/uniA92D</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

@@ -8,13 +8,13 @@
     <component base="_klcircleSE"/>
     <component base="_klmidS"/>
     <component base="_klcircleSW"/>
-    <component base="_klcircleNW" yOffset="-293"/>
-    <component base="_klsqNEshort" yOffset="-293"/>
+    <component base="_klcircleNW" yOffset="-368"/>
+    <component base="_klsqNEshort" yOffset="-368"/>
     <contour>
-      <point x="128" y="333" type="line"/>
-      <point x="256" y="333" type="line"/>
-      <point x="256" y="424" type="line"/>
-      <point x="128" y="424" type="line"/>
+      <point x="118" y="333" type="line"/>
+      <point x="326" y="333" type="line"/>
+      <point x="326" y="349" type="line"/>
+      <point x="118" y="349" type="line"/>
     </contour>
   </outline>
 </glyph>

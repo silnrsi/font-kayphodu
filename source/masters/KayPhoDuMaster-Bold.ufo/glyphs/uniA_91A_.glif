@@ -12,8 +12,8 @@
     <component base="_kldiagNW"/>
     <component base="_klsqSW"/>
     <contour>
-      <point x="465" y="926" type="line"/>
-      <point x="745" y="926" type="line"/>
+      <point x="465" y="846" type="line"/>
+      <point x="745" y="846" type="line"/>
       <point x="745" y="1050" type="line"/>
       <point x="465" y="1050" type="line"/>
     </contour>
