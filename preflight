@@ -1,17 +1,20 @@
 #!/bin/sh
 
 echo "-----Normalizing and updating production names in Regular..."
-psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/masters/KayPhoDuMaster-Regular.ufo
+psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/masters/KayPhoDu-Regular.ufo
 
 echo "-----Updating glyph orders in Regular..."
-psfsetglyphorder --header sort_design -i source/glyph_data.csv source/masters/KayPhoDuMaster-Regular.ufo
+psfsetglyphorder --header sort_design -i source/glyph_data.csv source/masters/KayPhoDu-Regular.ufo
 
 echo "-----Normalizing Bold..."
-psfnormalize -p checkfix=fix source/masters/KayPhoDuMaster-Bold.ufo
+psfnormalize -p checkfix=fix source/masters/KayPhoDu-Bold.ufo
 
 echo "-----Rebuilding composites..."
-psfbuildcomp -i source/composites.txt -c -n source/masters/KayPhoDuMaster-Regular.ufo -p backup=False
-psfbuildcomp -i source/composites.txt -c -n source/masters/KayPhoDuMaster-Bold.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/KayPhoDu-Regular.ufo -p backup=False
+psfbuildcomp -i source/composites.txt -c -n source/masters/KayPhoDu-Bold.ufo -p backup=False
 
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters source/KayPhoDu.designspace
+
+echo "-----Updating WOFF metadata..."
+# psfmakewoffmetadata -q -n "kayphodu" -i "org.sil.fonts" source/KayPhoDu-Regular.ufo

@@ -12,7 +12,7 @@ DESC_SHORT = "Font for the Kayah Li script"
 TESTDIR = ["tests", "../font-kayphodu-private/tests"]
 
 # Get version and authorship information from Regular UFO (canonical metadata); must be first function call:
-getufoinfo('source/masters/' + FAMILY  + 'Master-Regular.ufo')
+getufoinfo('source/masters/' + FAMILY  + '-Regular.ufo')
 # BUILDLABEL = 'beta1'
 
 # Set up the FTML tests

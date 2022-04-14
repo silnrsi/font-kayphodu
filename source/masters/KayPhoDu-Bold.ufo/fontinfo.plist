@@ -11,9 +11,9 @@
   <key>descender</key>
   <integer>-525</integer>
   <key>familyName</key>
-  <string>Kay Pho Du Master</string>
+  <string>Kay Pho Du</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/04/13 22:17:01</string>
+  <string>2022/04/13 22:17:02</string>
   <key>openTypeHheaAscender</key>
   <integer>1944</integer>
   <key>openTypeHheaDescender</key>
@@ -77,11 +77,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameManufacturerURL</key>
   <string>http://scripts.sil.org</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Kay Pho Du Master</string>
+  <string>Kay Pho Du</string>
   <key>openTypeNamePreferredSubfamilyName</key>
-  <string>Regular</string>
+  <string>Bold</string>
   <key>openTypeNameUniqueID</key>
-  <string>SIL International: Kay Pho Du Master Regular: 2022</string>
+  <string>SIL International: Kay Pho Du Bold: 2022</string>
   <key>openTypeNameVersion</key>
   <string>Version 1.920</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -97,7 +97,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <array>
     <integer>2</integer>
     <integer>11</integer>
-    <integer>5</integer>
+    <integer>8</integer>
     <integer>4</integer>
     <integer>2</integer>
     <integer>2</integer>
@@ -151,7 +151,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2VendorID</key>
   <string>SIL </string>
   <key>openTypeOS2WeightClass</key>
-  <integer>400</integer>
+  <integer>700</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -170,9 +170,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>1574</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>KayPhoDuMaster-Regular</string>
+  <string>KayPhoDu-Bold</string>
   <key>postscriptFullName</key>
-  <string>Kay Pho Du Master Regular</string>
+  <string>Kay Pho Du Bold</string>
   <key>postscriptOtherBlues</key>
   <array>
     <integer>-525</integer>
@@ -183,11 +183,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptUnderlineThickness</key>
   <integer>102</integer>
   <key>styleMapFamilyName</key>
-  <string>Kay Pho Du Master</string>
+  <string>Kay Pho Du</string>
   <key>styleMapStyleName</key>
-  <string>regular</string>
+  <string>bold</string>
   <key>styleName</key>
-  <string>Regular</string>
+  <string>Bold</string>
   <key>trademark</key>
   <string>Kay Pho Du is a trademark of SIL International.</string>
   <key>unitsPerEm</key>

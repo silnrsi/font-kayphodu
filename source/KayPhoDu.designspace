@@ -16,7 +16,7 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Kay Pho Du Master" filename="masters/KayPhoDuMaster-Regular.ufo" name="Kay Pho Du Regular" stylename="Regular">
+        <source familyname="Kay Pho Du" filename="masters/KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -29,7 +29,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Kay Pho Du Test B" filename="instances/KayPhoDuTestB-Regular.ufo" name="Kay Pho Du Test B Regular" stylemapfamilyname="Kay Pho Du Test B" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Kay Pho Du" filename="instances/KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylemapfamilyname="Kay Pho Du" stylemapstylename="regular" stylename="Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
