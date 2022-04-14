@@ -17,4 +17,4 @@ echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters source/KayPhoDu.designspace
 
 echo "-----Updating WOFF metadata..."
-# psfmakewoffmetadata -q -n "kayphodu" -i "org.sil.fonts" source/KayPhoDu-Regular.ufo
+psfmakewoffmetadata -n "kayphodu" -i "org.sil.fonts" -o source/kayphodu-WOFF-metadata.xml source/masters/KayPhoDu-Regular.ufo

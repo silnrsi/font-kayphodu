@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Kay Pho Du</string>
   <key>openTypeHeadCreated</key>
-  <string>2022/04/14 11:28:50</string>
+  <string>2022/04/14 11:36:59</string>
   <key>openTypeHheaAscender</key>
   <integer>1944</integer>
   <key>openTypeHheaDescender</key>
@@ -191,6 +191,38 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>1</integer>
   <key>versionMinor</key>
   <integer>920</integer>
+  <key>woffMetadataCredits</key>
+  <dict>
+    <key>credits</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>Victor Gaultney</string>
+        <key>role</key>
+        <string>Design and engineering</string>
+        <key>url</key>
+        <string>http://scripts.sil.org</string>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Khu Oo Reh</string>
+        <key>role</key>
+        <string>Original designer of the Karenni fonts</string>
+      </dict>
+    </array>
+  </dict>
+  <key>woffMetadataDescription</key>
+  <dict>
+    <key>text</key>
+    <array>
+      <dict>
+        <key>text</key>
+        <string>Kay Pho Du is a font for the Kayah Li script, based initially on the design of Karenni (https://github.com/silnrsi/font-karenni).</string>
+      </dict>
+    </array>
+    <key>url</key>
+    <string>https://software.sil.org/kayphodu/</string>
+  </dict>
   <key>xHeight</key>
   <integer>1050</integer>
 </dict>
