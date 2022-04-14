@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 # this is a smith configuration file
 
-# override the default folders
-# DOCDIR = ["documentation", "web"]
+# set the default output folders for release docs
+DOCDIR = ["documentation", "web"]
 
 # set the font name and description
 APPNAME = 'KayPhoDu'
