@@ -10,22 +10,18 @@ and any derivative works.
 Basic Font Information
 ----------------------
 
-Kay Pho Du is a font for the Kayah Li script, based initially on the
-design of Karenni (https://github.com/silnrsi/font-karenni). This is
-currently a work-in-progress, so these fonts and related files are
-preliminary and incomplete. They should not be used for creating
-derivatives until a later release. 
+Kay Pho Du is a font for the Kayah Li script, based initially on the design
+of [Karenni](https://github.com/silnrsi/font-karenni), although the glyphs
+have been redrawn and a new Latin set has been added. It supports the full
+Kayah Li range of Unicode characters (U+A900..U+A92F).
 
 
 ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2022-02-15 Kay Pho Du Test B v1.920
-  - Test version to test regular weight
-
-2019-08-22 Kay Pho Du v0.1
-  - Initial files based on Karenni
+22 April 2022 (SIL WSTech Team) Kay Pho Du v2.000
+- Initial release
 
 
 Acknowledgements
@@ -36,7 +32,7 @@ be sure to add your name (N), email (E), web-address (W) and description
 
 N: Victor Gaultney
 E: fonts@sil.org
-W: http://scripts.sil.org
+W: https://scripts.sil.org
 D: Design & engineering
 
 N: Khu Oo Reh

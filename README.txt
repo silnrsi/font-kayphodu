@@ -1,6 +1,6 @@
 # Kay Pho Du
 
-Kay Pho Du is a font for the Kayah Li script, based initially on the design of Karenni (https://github.com/silnrsi/font-karenni). This is currently a work-in-progress, so these fonts and related files are preliminary and incomplete. They should not be used for creating derivatives until a later release. 
+Kay Pho Du is a font for the Kayah Li script, based initially on the design of [Karenni](https://github.com/silnrsi/font-karenni), although the glyphs have been redrawn and a new Latin set has been added. It supports the full Kayah Li range of Unicode characters (U+A900..U+A92F).
 
 For copyright and licensing - including any Reserved Font Names - see OFL.txt.
 
