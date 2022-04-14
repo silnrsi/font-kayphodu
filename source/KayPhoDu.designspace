@@ -29,7 +29,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Kay Pho Du" filename="instances/KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylemapfamilyname="Kay Pho Du" stylemapstylename="regular" stylename="Regular">
+        <instance familyname="Kay Pho Du" filename="instances/KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylemapfamilyname="Kay Pho Du" stylemapstylename="regular" stylename="Regular" postscriptfontname="KayPhoDu-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
