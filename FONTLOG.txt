@@ -20,8 +20,8 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-22 April 2022 (SIL WSTech Team) Kay Pho Du v2.000
-- Initial release
+21 April 2022 (SIL WSTech Team) Kay Pho Du v2.000
+- Initial release of regular weight only
 
 
 Acknowledgements

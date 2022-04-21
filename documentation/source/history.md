@@ -15,7 +15,7 @@ The latest version of the fonts is always available from the [Kay Pho Du site](h
 
 ## Change history
 
-### 22 April 2022 (SIL WSTech Team) Kay Pho Du v2.000
+### 21 April 2022 (SIL WSTech Team) Kay Pho Du v2.000
 
-Initial release
+Initial release of regular weight only
 
