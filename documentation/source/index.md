@@ -12,6 +12,7 @@ This documentation is a set of HTML pages that can be viewed in any modern web b
 - [About](about.md) — Information about this project and SIL International
 - [Resources](resources.md) — Help with installation and use
 - [FAQ](faq.md) — Common questions and answers
+- [Character set support](charset.md) — Details of Unicode characters that are supported
 - [Support](support.md) — How to get additional support
 - [Developer information](developer.md) — How to modify and build the fonts
 - [Version history](history.md) - Complete version history

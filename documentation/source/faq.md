@@ -18,11 +18,11 @@ Many questions can be answered by consulting the following FAQ pages. Here are a
     - *If I use the font on a web page do I have to include an acknowledgement?*
     - The full OFL-FAQ.txt is also included in the font package.
 
-Here are a few of the most frequently asked questions specifically regarding Charis SIL:
+Here are a few of the most frequently asked questions specifically regarding Kay Pho Du:
 
 #### *How is the font different from Karenni?*
 
-Kay Pho Du is a freshly-drawn, new design based on the overall design of Karenni. Although the design is meant to be very similar to Karenni it is not identical and does not include any of the original outlines. Because of that many of the glyphs are slightly different and the metrics are not the same. Many glyphs have also been added. 
+Kay Pho Du is a freshly-drawn, new design based on the overall design of Karenni. Although the design is meant to be very similar to Karenni it is not identical and does not include any of the original outlines. Because of that, many of the glyphs are slightly different and the metrics are not the same. Many glyphs have also been added. 
 
 #### *What is the source of the Latin glyphs?*
 
