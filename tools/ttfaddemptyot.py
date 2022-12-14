@@ -16,7 +16,7 @@ for tag in ('GSUB', 'GPOS') :
     if tag.lower() == args.type or args.type == 'both' :
         table = ttLib.getTableClass(tag)()
         t = getattr(otTables, tag, None)()
-        t.Version = 1.0
+        t.Version = 0x00010000
         t.ScriptList = otTables.ScriptList()
         t.ScriptList.ScriptRecord = []
         t.FeatureList = otTables.FeatureList()
