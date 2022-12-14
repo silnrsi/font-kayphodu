@@ -18,7 +18,9 @@ getufoinfo('source/masters/' + FAMILY  + '-Regular.ufo')
 # Set up the FTML tests
 ftmlTest('tools/ftml-smith.xsl')
 
-cmds = [cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/instances/${DS:FILENAME_BASE}.ufo'])]
+cmds = []
+# cmds.append(cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/instances/${DS:FILENAME_BASE}.ufo']))
+cmds.append(cmd('../tools/ttfaddemptyot.py -t gpos ${DEP} ${TGT}'))
 
 designspace('source/' + FAMILY + '.designspace',
     target = process("${DS:FILENAME_BASE}.ttf", *cmds),
