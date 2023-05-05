@@ -29,7 +29,7 @@
   <key>openTypeNameLicense</key>
   <string>Copyright (c) 2019-2023 SIL International, based on the overall design of Karenni (Copyright (c) 2016-2019, Khu Oo Reh), with Reserved Font Name "Kay Pho Du".
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
@@ -214,7 +214,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
         <key>role</key>
         <string>Design and engineering</string>
         <key>url</key>
-        <string>http://scripts.sil.org</string>
+        <string>https://scripts.sil.org</string>
       </dict>
       <dict>
         <key>name</key>

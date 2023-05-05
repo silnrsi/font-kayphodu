@@ -103,3 +103,7 @@ $RECYCLE.BIN/
 *.py[co]
 *$py.class
 __pycache__/
+
+# temporary doc files
+documentation/source/pdftemp/
+documentation/source/productsite/
