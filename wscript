@@ -19,8 +19,9 @@ getufoinfo('source/masters/' + FAMILY  + '-Regular.ufo')
 ftmlTest('tools/ftml-smith.xsl')
 
 cmds = []
-# cmds.append(cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/instances/${DS:FILENAME_BASE}.ufo']))
+#cmds.append(cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['source/instances/${DS:FILENAME_BASE}.ufo']))
 #cmds.append(cmd('../tools/ttfaddemptyot.py -t gpos ${DEP} ${TGT}'))
+#cmds.append(cmd('${TTFAUTOHINT} -n -W ${DEP} ${TGT}'))
 
 designspace('source/' + FAMILY + '.designspace',
     target = process("${DS:FILENAME_BASE}.ttf", *cmds),
@@ -30,5 +31,9 @@ designspace('source/' + FAMILY + '.designspace',
         metadata=f'../source/{FAMILY}-WOFF-metadata.xml',
         cmd='psfwoffit -m ${SRC[1]} --woff ${TGT} --woff2 ${TGT}2 ${SRC[0]}'
         ),
-    pdf = fret(params='-oi')
+    pdf = fret(params='-oi'),
+    shortcircuit = False
 )
+
+#def configure(ctx):
+#    ctx.find_program('ttfautohint')

@@ -3,6 +3,8 @@
     <axes>
         <axis default="400.0" maximum="700.0" minimum="400.0" name="weight" tag="wght">
             <map input="400.0" output="400.0" />
+            <map input="500.0" output="500.0" />
+            <map input="600.0" output="600.0" />
             <map input="700.0" output="700.0" />
             <labelname xml:lang="en">Weight</labelname>
         </axis>
@@ -16,7 +18,7 @@
         </axis>
     </axes>
     <sources>
-        <source familyname="Kay Pho Du Master" filename="masters/KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylename="Regular">
+        <source familyname="Kay Pho Du" filename="masters/KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylename="Regular">
             <lib copy="1" />
             <groups copy="1" />
             <features copy="1" />
@@ -27,11 +29,45 @@
                 <dimension name="custom" xvalue="0.000000" />
             </location>
         </source>
+        <source familyname="Kay Pho Du" filename="masters/KayPhoDu-Bold.ufo" name="Kay Pho Du Bold" stylename="Bold">
+            <location>
+                <dimension name="weight" xvalue="700.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+        </source>
     </sources>
     <instances>
-        <instance familyname="Kay Pho Du" filename="instances/KayPhoDu-Regular.ufo" name="Kay Pho Du Regular" stylemapfamilyname="Kay Pho Du" stylemapstylename="regular" stylename="Regular" postscriptfontname="KayPhoDu-Regular">
+        <instance familyname="Kay Pho Du TestG" filename="instances/KayPhoDuTestG-Regular.ufo" name="Kay Pho Du TestG Regular" stylemapfamilyname="Kay Pho Du TestG" stylemapstylename="regular" stylename="Regular" postscriptfontname="KayPhoDuTestG-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Kay Pho Du TestG" filename="instances/KayPhoDuTestG-Medium.ufo" name="Kay Pho Du TestG Medium" stylemapfamilyname="Kay Pho Du TestG Medium" stylemapstylename="regular" stylename="Medium" postscriptfontname="KayPhoDuTestG-Medium">
+            <location>
+                <dimension name="weight" xvalue="500.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Kay Pho Du TestG" filename="instances/KayPhoDuTestG-SemiBold.ufo" name="Kay Pho Du TestG SemiBold" stylemapfamilyname="Kay Pho Du TestG SemiBold" stylemapstylename="regular" stylename="SemiBold" postscriptfontname="KayPhoDuTestG-SemiBold">
+            <location>
+                <dimension name="weight" xvalue="600.000000" />
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Kay Pho Du TestG" filename="instances/KayPhoDuTestG-Bold.ufo" name="Kay Pho Du TestG Bold" stylemapfamilyname="Kay Pho Du TestG" stylemapstylename="bold" stylename="Bold" postscriptfontname="KayPhoDuTestG-Bold">
+            <location>
+                <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
                 <dimension name="custom" xvalue="0.000000" />
             </location>
