@@ -14,7 +14,7 @@ psfbuildcomp -i source/composites.txt -c -n source/masters/KayPhoDu-Regular.ufo 
 psfbuildcomp -i source/composites.txt -c -n source/masters/KayPhoDu-Bold.ufo -p backup=False
 
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
-psfsyncmasters source/KayPhoDu.designspace
+psfsyncmasters --complex source/KayPhoDu.designspace
 
 echo "-----Updating WOFF metadata..."
 psfmakewoffmetadata -n "kayphodu" -i "org.sil.fonts" -o source/KayPhoDu-WOFF-metadata.xml source/masters/KayPhoDu-Regular.ufo
