@@ -8,7 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3123</string>
+  <string>3192</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>abcdefghijklmnopqrstuvwxyz</string>
@@ -30,15 +30,13 @@
     <string>/uniA901/uniA916 &amp;/uniA91E H&amp;HS8gHn§n¶</string>
     <string>/uniA900/uniA901/uniA902/uniA903/uniA904/uniA905/uniA906/uniA907/uniA908/uniA909/uniA913/uniA91D</string>
     <string>/uniA92C/_klloopflat/uniA901/uniA92C/uniA901/uniA92D</string>
-    <string>/uniA92C</string>
-    <string>/uniA92D</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
-  <string>SIL International: Kay Pho Du Bold: 2022</string>
+  <string>SIL International: Kay Pho Du Bold: 2023</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
