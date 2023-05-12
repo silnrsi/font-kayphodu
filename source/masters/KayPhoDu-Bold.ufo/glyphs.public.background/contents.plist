@@ -120,8 +120,12 @@
   <string>_latbowlE_.glif</string>
   <key>_latbowlW</key>
   <string>_latbowlW_.glif</string>
+  <key>_latcirNW</key>
+  <string>_latcirN_W_.glif</string>
   <key>_latcrossbar</key>
   <string>_latcrossbar.glif</string>
+  <key>_latcurveNE</key>
+  <string>_latcurveN_E_.glif</string>
   <key>_latdot</key>
   <string>_latdot.glif</string>
   <key>_lathalfserifNW</key>

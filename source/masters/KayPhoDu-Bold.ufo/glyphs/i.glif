@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
-  <advance width="572"/>
+  <advance width="700"/>
   <unicode hex="0069"/>
-  <anchor x="332" y="1100" name="U"/>
+  <anchor x="350" y="1100" name="U"/>
   <outline>
-    <component base="_latstemSW" xOffset="60"/>
-    <component base="_latstemNW" xOffset="60"/>
-    <component base="_latdot" xOffset="30"/>
+    <component base="_latstemSW" xOffset="64"/>
+    <component base="_latstemNW" xOffset="64"/>
+    <component base="_latdot" xOffset="4"/>
     <contour>
-      <point x="100" y="0" type="line"/>
-      <point x="564" y="0" type="line"/>
-      <point x="564" y="124" type="line"/>
-      <point x="100" y="124" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="604" y="204" type="line"/>
+      <point x="96" y="204" type="line"/>
     </contour>
     <contour>
-      <point x="100" y="914" type="line"/>
-      <point x="332" y="914" type="line"/>
-      <point x="332" y="1038" type="line"/>
-      <point x="100" y="1038" type="line"/>
+      <point x="96" y="834" type="line"/>
+      <point x="336" y="834" type="line"/>
+      <point x="336" y="1038" type="line"/>
+      <point x="96" y="1038" type="line"/>
     </contour>
   </outline>
 </glyph>

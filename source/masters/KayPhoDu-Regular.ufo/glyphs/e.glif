@@ -4,9 +4,9 @@
   <unicode hex="0065"/>
   <anchor x="498" y="1100" name="U"/>
   <outline>
-    <component base="_latcirNW"/>
     <component base="_latcirSW"/>
     <component base="_latcurveSE"/>
+    <component base="_latcirNW"/>
     <contour>
       <point x="760" y="522" type="line"/>
       <point x="888" y="522" type="line"/>

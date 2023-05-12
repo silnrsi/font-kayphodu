@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="n" format="2">
-  <advance width="1128"/>
+  <advance width="1148"/>
   <unicode hex="006E"/>
-  <anchor x="582" y="1100" name="U"/>
+  <anchor x="572" y="1100" name="U"/>
   <outline>
     <component base="_latserifSW"/>
     <component base="_latstemSW"/>

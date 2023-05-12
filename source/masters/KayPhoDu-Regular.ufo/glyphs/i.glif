@@ -6,7 +6,7 @@
   <outline>
     <component base="_latstemSW" xOffset="60"/>
     <component base="_latstemNW" xOffset="60"/>
-    <component base="_latdot" xOffset="30"/>
+    <component base="_latdot"/>
     <contour>
       <point x="92" y="0" type="line"/>
       <point x="572" y="0" type="line"/>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi" format="2">
-  <advance width="1162"/>
+  <advance width="1396"/>
   <unicode hex="FB01"/>
-  <anchor x="922" y="1100" name="U"/>
+  <anchor x="1046" y="1100" name="U"/>
   <outline>
     <component base="f"/>
-    <component base="i" xOffset="590"/>
+    <component base="i" xOffset="696"/>
   </outline>
   <lib>
     <dict>
