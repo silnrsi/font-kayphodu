@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="u" format="2">
-  <advance width="1040"/>
+  <advance width="1132"/>
   <unicode hex="0075"/>
   <anchor x="580" y="1100" name="U"/>
   <outline>
-    <component base="_lathalfserifNW"/>
-    <component base="_latstemNW"/>
-    <component base="_latstemSE"/>
-    <component base="_latbowlW"/>
-    <component base="_lathalfserifSE"/>
-    <component base="_latstemNE"/>
-    <component base="_lathalfserifNW" xOffset="616"/>
+    <component base="_lathalfserifNW" xOffset="-16"/>
+    <component base="_latstemNW" xOffset="-16"/>
+    <component base="_latstemSE" xOffset="-16"/>
+    <component base="_latbowlW" xOffset="-16"/>
+    <component base="_lathalfserifSE" xOffset="-16"/>
+    <component base="_latstemNE" xOffset="-16"/>
+    <component base="_lathalfserifNW" xOffset="576"/>
   </outline>
 </glyph>
