@@ -31,8 +31,8 @@ be sure to add your name (N), email (E), web-address (W) and description
 (D). This list is sorted by last name in alphabetical order.)
 
 N: Victor Gaultney
-E: fonts@sil.org
-W: https://scripts.sil.org
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Design & engineering
 
 N: Khu Oo Reh
