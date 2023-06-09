@@ -166,6 +166,8 @@
   <string>_latstemdescE_.glif</string>
   <key>_latstemdescW</key>
   <string>_latstemdescW_.glif</string>
+  <key>a</key>
+  <string>a.glif</string>
   <key>comma</key>
   <string>comma.glif</string>
   <key>exclam</key>
@@ -188,6 +190,10 @@
   <string>quoteleft.glif</string>
   <key>quoteright</key>
   <string>quoteright.glif</string>
+  <key>r</key>
+  <string>r.glif</string>
+  <key>s</key>
+  <string>s.glif</string>
   <key>semicolon</key>
   <string>semicolon.glif</string>
   <key>uniA900</key>

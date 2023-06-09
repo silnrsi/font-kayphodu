@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="2">
-  <advance width="832"/>
+  <advance width="940"/>
   <unicode hex="0072"/>
   <outline>
     <component base="_latlongserifSW"/>
@@ -8,22 +8,22 @@
     <component base="_latstemNW"/>
     <component base="_lathalfserifNW"/>
     <contour>
-      <point x="254" y="709" type="curve"/>
-      <point x="336" y="710" type="line"/>
-      <point x="373" y="768"/>
-      <point x="545" y="924"/>
-      <point x="688" y="924" type="curve"/>
-      <point x="688" y="954"/>
-      <point x="688" y="999"/>
-      <point x="688" y="1050" type="curve"/>
-      <point x="497" y="1050"/>
-      <point x="300" y="839"/>
+      <point x="284" y="662" type="curve"/>
+      <point x="386" y="663" type="line"/>
+      <point x="423" y="751"/>
+      <point x="515" y="844"/>
+      <point x="658" y="844" type="curve"/>
+      <point x="658" y="874"/>
+      <point x="658" y="999"/>
+      <point x="658" y="1050" type="curve"/>
+      <point x="477" y="1050"/>
+      <point x="330" y="852"/>
     </contour>
     <contour>
-      <point x="688" y="682" type="line"/>
-      <point x="816" y="682" type="line"/>
-      <point x="816" y="1050" type="line"/>
-      <point x="688" y="1050" type="line"/>
+      <point x="658" y="652" type="line"/>
+      <point x="866" y="652" type="line"/>
+      <point x="866" y="1050" type="line"/>
+      <point x="658" y="1050" type="line"/>
     </contour>
   </outline>
 </glyph>

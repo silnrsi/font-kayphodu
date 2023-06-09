@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="q" format="2">
-  <advance width="1040"/>
+  <advance width="1004"/>
   <unicode hex="0071"/>
   <outline>
-    <component base="_latstemNE" xOffset="-80"/>
+    <component base="_latstemNE" xOffset="-84"/>
     <component base="_latstemdescE" xOffset="20"/>
-    <component base="_latserifSE" xOffset="-80" yOffset="-512"/>
+    <component base="_latserifSE" xOffset="-84" yOffset="-512"/>
     <component base="_latroundarchW"/>
     <component base="_latroundbowlW"/>
-    <contour>
-      <point x="728" y="0" type="line"/>
-      <point x="856" y="0" type="line"/>
-      <point x="856" y="538" type="line"/>
-      <point x="728" y="538" type="line"/>
-    </contour>
+    <component base="_latstemSE" xOffset="-84"/>
   </outline>
 </glyph>

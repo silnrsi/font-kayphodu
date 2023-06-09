@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="b" format="2">
-  <advance width="1040"/>
+  <advance width="1064"/>
   <unicode hex="0062"/>
   <outline>
     <component base="_latstemSW" xOffset="-16"/>
