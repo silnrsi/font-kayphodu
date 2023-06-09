@@ -7,14 +7,14 @@
     <component base="_klsqWN"/>
     <component base="_klcircleNE"/>
     <component base="_klmidE"/>
-    <component base="_kldiagNW" xOffset="5"/>
+    <component base="_kldiagNW" xOffset="37"/>
     <component base="_klcircleSE"/>
     <component base="_klcircleSWshort" yOffset="264"/>
     <contour>
-      <point x="465" y="846" type="line"/>
-      <point x="745" y="846" type="line"/>
+      <point x="497" y="862" type="line"/>
+      <point x="745" y="862" type="line"/>
       <point x="745" y="1050" type="line"/>
-      <point x="465" y="1050" type="line"/>
+      <point x="497" y="1050" type="line"/>
     </contour>
   </outline>
 </glyph>

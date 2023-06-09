@@ -11,17 +11,17 @@
     <component base="_klserifWSshort"/>
     <contour>
       <point x="328" y="1050" type="line"/>
-      <point x="269" y="1050" type="line"/>
-      <point x="269" y="861" type="line"/>
+      <point x="293" y="1050" type="line"/>
+      <point x="293" y="861" type="line"/>
       <point x="579" y="620" type="line"/>
-      <point x="579" y="852" type="line"/>
+      <point x="579" y="837" type="line"/>
     </contour>
     <contour>
-      <point x="888" y="1050" type="line"/>
+      <point x="864" y="1050" type="line"/>
       <point x="829" y="1050" type="line"/>
-      <point x="579" y="852" type="line"/>
+      <point x="579" y="837" type="line"/>
       <point x="579" y="620" type="line"/>
-      <point x="888" y="861" type="line"/>
+      <point x="864" y="861" type="line"/>
     </contour>
     <contour>
       <point x="118" y="625" type="line"/>

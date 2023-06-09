@@ -11,6 +11,6 @@
     <component base="_klcircleSW"/>
     <component base="_klmidW"/>
     <component base="_klserifESshort" yOffset="-41"/>
-    <component base="_kldiagSWNE" yOffset="51"/>
+    <component base="_kldiagSWNE" yOffset="19"/>
   </outline>
 </glyph>

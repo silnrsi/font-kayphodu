@@ -9,13 +9,13 @@
     <component base="_klcircleNE"/>
     <component base="_klmidE"/>
     <component base="_kldescSE"/>
-    <component base="_kldiagNW"/>
+    <component base="_kldiagNW" xOffset="37"/>
     <component base="_klsqSW"/>
     <contour>
-      <point x="465" y="846" type="line"/>
-      <point x="745" y="846" type="line"/>
+      <point x="502" y="862" type="line"/>
+      <point x="745" y="862" type="line"/>
       <point x="745" y="1050" type="line"/>
-      <point x="465" y="1050" type="line"/>
+      <point x="502" y="1050" type="line"/>
     </contour>
   </outline>
 </glyph>

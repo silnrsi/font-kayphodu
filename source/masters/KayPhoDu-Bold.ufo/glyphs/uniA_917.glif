@@ -13,16 +13,16 @@
     <component base="_klsqWN"/>
     <component base="_klsqNWshort"/>
     <contour>
-      <point x="845" y="102" type="line"/>
-      <point x="904" y="102" type="line"/>
+      <point x="845" y="134" type="line"/>
+      <point x="904" y="134" type="line"/>
       <point x="904" y="307" type="line"/>
       <point x="579" y="630" type="line"/>
-      <point x="579" y="364" type="line"/>
+      <point x="579" y="396" type="line"/>
     </contour>
     <contour>
-      <point x="253" y="102" type="line"/>
-      <point x="312" y="102" type="line"/>
-      <point x="579" y="364" type="line"/>
+      <point x="253" y="134" type="line"/>
+      <point x="312" y="134" type="line"/>
+      <point x="579" y="396" type="line"/>
       <point x="579" y="630" type="line"/>
       <point x="253" y="307" type="line"/>
     </contour>

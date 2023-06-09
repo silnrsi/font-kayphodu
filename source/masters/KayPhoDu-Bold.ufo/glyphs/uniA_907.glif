@@ -8,8 +8,8 @@
     <component base="_klcircleSE"/>
     <component base="_klmidS"/>
     <component base="_klcircleSW"/>
-    <component base="_klcircleNW" yOffset="-368"/>
-    <component base="_klsqNEshort" yOffset="-368"/>
+    <component base="_klcircleNW" yOffset="-376"/>
+    <component base="_klsqNEshort" yOffset="-376"/>
     <contour>
       <point x="118" y="333" type="line"/>
       <point x="326" y="333" type="line"/>

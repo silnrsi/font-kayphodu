@@ -10,8 +10,8 @@
     <component base="_klcircleSEshort"/>
     <component base="_klsqWS"/>
     <component base="_klserifW"/>
-    <component base="_klcircleNW" yOffset="-390"/>
-    <component base="_klmidN" yOffset="-390"/>
-    <component base="_klcircleNE" yOffset="-390"/>
+    <component base="_klcircleNW" yOffset="-388"/>
+    <component base="_klmidN" yOffset="-388"/>
+    <component base="_klcircleNE" yOffset="-388"/>
   </outline>
 </glyph>

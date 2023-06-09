@@ -9,7 +9,7 @@
     <component base="_latstemascW"/>
     <component base="_lathalfserifascW"/>
     <contour>
-      <point x="843" y="0" type="line"/>
+      <point x="834" y="0" type="line"/>
       <point x="904" y="0" type="line"/>
       <point x="904" y="124" type="line"/>
       <point x="578" y="577" type="line"/>
@@ -37,10 +37,10 @@
       <point x="427" y="589" type="line"/>
     </contour>
     <contour>
-      <point x="602" y="914" type="line"/>
-      <point x="982" y="914" type="line"/>
-      <point x="982" y="1038" type="line"/>
-      <point x="602" y="1038" type="line"/>
+      <point x="603" y="914" type="line"/>
+      <point x="983" y="914" type="line"/>
+      <point x="983" y="1038" type="line"/>
+      <point x="603" y="1038" type="line"/>
     </contour>
   </outline>
 </glyph>

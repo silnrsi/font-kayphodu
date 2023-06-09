@@ -2,18 +2,18 @@
 <glyph name="uniA929" format="2">
   <unicode hex="A929"/>
   <outline>
-    <component base="_klcircleSW" xOffset="-1156" yOffset="1112"/>
-    <component base="_klmidS" xOffset="-1156" yOffset="1112"/>
-    <component base="_klcircleSE" xOffset="-1156" yOffset="1112"/>
+    <component base="_klcircleSW" xOffset="-1156" yOffset="1128"/>
+    <component base="_klmidS" xOffset="-1156" yOffset="1128"/>
+    <component base="_klcircleSE" xOffset="-1156" yOffset="1128"/>
     <contour>
-      <point x="-1038" y="1420" type="line"/>
-      <point x="-830" y="1420" type="line"/>
+      <point x="-1038" y="1436" type="line"/>
+      <point x="-830" y="1436" type="line"/>
       <point x="-830" y="1562" type="line"/>
       <point x="-1038" y="1562" type="line"/>
     </contour>
     <contour>
-      <point x="-326" y="1420" type="line"/>
-      <point x="-118" y="1420" type="line"/>
+      <point x="-326" y="1436" type="line"/>
+      <point x="-118" y="1436" type="line"/>
       <point x="-118" y="1562" type="line"/>
       <point x="-326" y="1562" type="line"/>
     </contour>
