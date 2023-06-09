@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
   <uniqueid id="org.sil.fonts.kayphodu.2.800" />
-  <vendor name="SIL International" url="https://scripts.sil.org" />
+  <vendor name="SIL International" url="https://software.sil.org/wstech/" />
   <credits>
     <credit
       name="Victor Gaultney"
-      url="https://scripts.sil.org"
+      url="https://software.sil.org/wstech/"
       role="Design and engineering"
     />
     <credit
