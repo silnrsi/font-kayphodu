@@ -272,5 +272,9 @@
   <string>uniA_92D_.glif</string>
   <key>uniA92E</key>
   <string>uniA_92E_.glif</string>
+  <key>x</key>
+  <string>x.glif</string>
+  <key>y</key>
+  <string>y.glif</string>
 </dict>
 </plist>

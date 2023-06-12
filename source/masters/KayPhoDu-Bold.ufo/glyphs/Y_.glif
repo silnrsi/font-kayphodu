@@ -2,26 +2,26 @@
 <glyph name="Y" format="2">
   <advance width="1220"/>
   <unicode hex="0059"/>
-  <anchor x="647" y="1500" name="U"/>
+  <anchor x="647" y="1460" name="U"/>
   <outline>
-    <component base="_latserifSW" xOffset="365"/>
-    <component base="_latstemSW" xOffset="365"/>
-    <component base="_latserifNW" xOffset="-34" yOffset="536"/>
-    <component base="_latserifNE" xOffset="128" yOffset="536"/>
+    <component base="_latserifSW" xOffset="375"/>
+    <component base="_latstemSW" xOffset="375"/>
+    <component base="_latserifNW" xOffset="-24" yOffset="408"/>
+    <component base="_latserifNE" xOffset="138" yOffset="408"/>
     <contour>
-      <point x="565" y="580" type="line"/>
-      <point x="677" y="580" type="line"/>
-      <point x="1143" y="1574" type="line"/>
-      <point x="1005" y="1574" type="line"/>
-      <point x="621" y="751" type="line"/>
-      <point x="236" y="1574" type="line"/>
-      <point x="98" y="1574" type="line"/>
+      <point x="591" y="532" type="line"/>
+      <point x="703" y="532" type="line"/>
+      <point x="1169" y="1446" type="line"/>
+      <point x="1030" y="1446" type="line"/>
+      <point x="647" y="695" type="line"/>
+      <point x="263" y="1446" type="line"/>
+      <point x="124" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="557" y="512" type="line"/>
-      <point x="685" y="512" type="line"/>
-      <point x="685" y="688" type="line"/>
-      <point x="557" y="688" type="line"/>
+      <point x="583" y="464" type="line"/>
+      <point x="711" y="464" type="line"/>
+      <point x="711" y="640" type="line"/>
+      <point x="583" y="640" type="line"/>
     </contour>
   </outline>
 </glyph>

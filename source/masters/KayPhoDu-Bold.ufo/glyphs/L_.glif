@@ -3,22 +3,22 @@
   <advance width="1220"/>
   <unicode hex="004C"/>
   <outline>
-    <component base="_latserifSW"/>
-    <component base="_latstemSW"/>
-    <component base="_latstemNW"/>
-    <component base="_latstemascW"/>
-    <component base="_latserifNW" yOffset="536"/>
+    <component base="_latserifSW" xOffset="16"/>
+    <component base="_latstemSW" xOffset="16"/>
+    <component base="_latstemNW" xOffset="16"/>
+    <component base="_latstemascW" xOffset="16" yOffset="-128"/>
+    <component base="_latserifNW" xOffset="16" yOffset="408"/>
     <contour>
-      <point x="256" y="0" type="line"/>
-      <point x="932" y="0" type="line"/>
-      <point x="932" y="124" type="line"/>
-      <point x="256" y="124" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="964" y="0" type="line"/>
+      <point x="964" y="124" type="line"/>
+      <point x="288" y="124" type="line"/>
     </contour>
     <contour>
-      <point x="868" y="0" type="line"/>
-      <point x="996" y="0" type="line"/>
-      <point x="996" y="352" type="line"/>
-      <point x="868" y="352" type="line"/>
+      <point x="900" y="0" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="1028" y="304" type="line"/>
+      <point x="900" y="304" type="line"/>
     </contour>
   </outline>
 </glyph>

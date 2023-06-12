@@ -12,7 +12,7 @@
     <component base="_klmidE"/>
     <component base="_kldescSE"/>
     <contour>
-      <point x="614" y="1050" type="line"/>
+      <point x="630" y="1050" type="line"/>
       <point x="452" y="1050" type="line"/>
       <point x="452" y="1050"/>
       <point x="452" y="742"/>
@@ -22,8 +22,8 @@
       <point x="307" y="447" type="curve"/>
       <point x="307" y="293" type="line"/>
       <point x="524" y="359"/>
-      <point x="614" y="528"/>
-      <point x="614" y="768" type="curve" smooth="yes"/>
+      <point x="630" y="528"/>
+      <point x="630" y="768" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
