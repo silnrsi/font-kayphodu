@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="J" format="2">
-  <advance width="831"/>
+  <advance width="830"/>
   <unicode hex="004A"/>
   <outline>
-    <component base="_latstemNW" xOffset="347"/>
-    <component base="_latstemascW" xOffset="347" yOffset="-128"/>
+    <component base="_latstemNW" xOffset="346"/>
+    <component base="_latstemascW" xOffset="346" yOffset="-128"/>
     <contour>
       <point x="64" y="0" type="line"/>
       <point x="270" y="0" type="line" smooth="yes"/>
       <point x="553" y="0"/>
-      <point x="683" y="217"/>
-      <point x="683" y="471" type="curve" smooth="yes"/>
-      <point x="683" y="603" type="line"/>
-      <point x="555" y="603" type="line"/>
-      <point x="555" y="481" type="line" smooth="yes"/>
-      <point x="555" y="286"/>
+      <point x="682" y="217"/>
+      <point x="682" y="471" type="curve" smooth="yes"/>
+      <point x="682" y="603" type="line"/>
+      <point x="554" y="603" type="line"/>
+      <point x="554" y="481" type="line" smooth="yes"/>
+      <point x="554" y="286"/>
       <point x="481" y="124"/>
       <point x="250" y="124" type="curve" smooth="yes"/>
       <point x="64" y="124" type="line"/>

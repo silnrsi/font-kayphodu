@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="2">
-  <advance width="1220"/>
+  <advance width="1320"/>
   <unicode hex="0058"/>
   <outline>
     <component base="_latserifSW"/>
-    <component base="_latserifSE" xOffset="140"/>
+    <component base="_latserifSE" xOffset="156"/>
     <component base="_latserifNW" xOffset="30" yOffset="408"/>
-    <component base="_latserifNE" xOffset="110" yOffset="408"/>
+    <component base="_latserifNE" xOffset="126" yOffset="408"/>
     <contour>
-      <point x="1051" y="0" type="line"/>
-      <point x="1197" y="0" type="line"/>
-      <point x="299" y="1446" type="line"/>
-      <point x="153" y="1446" type="line"/>
+      <point x="1005" y="94" type="line"/>
+      <point x="1222" y="94" type="line"/>
+      <point x="346" y="1352" type="line"/>
+      <point x="129" y="1352" type="line"/>
     </contour>
     <contour>
-      <point x="121" y="0" type="line"/>
-      <point x="266" y="0" type="line"/>
-      <point x="669" y="665" type="line"/>
-      <point x="597" y="783" type="line"/>
+      <point x="129" y="94" type="line"/>
+      <point x="338" y="94" type="line"/>
+      <point x="699" y="665" type="line"/>
+      <point x="563" y="783" type="line"/>
     </contour>
     <contour>
-      <point x="722" y="718" type="line"/>
-      <point x="1166" y="1446" type="line"/>
-      <point x="1021" y="1446" type="line"/>
-      <point x="650" y="836" type="line"/>
+      <point x="772" y="718" type="line"/>
+      <point x="1174" y="1352" type="line"/>
+      <point x="965" y="1352" type="line"/>
+      <point x="636" y="836" type="line"/>
     </contour>
   </outline>
 </glyph>

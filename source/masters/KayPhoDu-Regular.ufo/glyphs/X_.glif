@@ -8,21 +8,21 @@
     <component base="_latserifNW" xOffset="30" yOffset="408"/>
     <component base="_latserifNE" xOffset="110" yOffset="408"/>
     <contour>
-      <point x="1051" y="0" type="line"/>
-      <point x="1197" y="0" type="line"/>
-      <point x="299" y="1446" type="line"/>
-      <point x="153" y="1446" type="line"/>
+      <point x="1019" y="62" type="line"/>
+      <point x="1165" y="62" type="line"/>
+      <point x="331" y="1384" type="line"/>
+      <point x="185" y="1384" type="line"/>
     </contour>
     <contour>
-      <point x="121" y="0" type="line"/>
-      <point x="266" y="0" type="line"/>
+      <point x="153" y="62" type="line"/>
+      <point x="298" y="62" type="line"/>
       <point x="669" y="665" type="line"/>
       <point x="597" y="783" type="line"/>
     </contour>
     <contour>
       <point x="722" y="718" type="line"/>
-      <point x="1166" y="1446" type="line"/>
-      <point x="1021" y="1446" type="line"/>
+      <point x="1134" y="1384" type="line"/>
+      <point x="989" y="1384" type="line"/>
       <point x="650" y="836" type="line"/>
     </contour>
   </outline>

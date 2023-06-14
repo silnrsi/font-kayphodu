@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="2">
-  <advance width="1220"/>
+  <advance width="1310"/>
   <unicode hex="0041"/>
   <anchor x="654" y="1460" name="U"/>
   <outline>
     <component base="_latserifSW" xOffset="-16"/>
-    <component base="_latserifSE" xOffset="146"/>
+    <component base="_latserifSE" xOffset="162"/>
     <contour>
-      <point x="131" y="0" type="line"/>
-      <point x="260" y="0" type="line"/>
-      <point x="654" y="1280" type="line"/>
-      <point x="1049" y="0" type="line"/>
-      <point x="1178" y="0" type="line"/>
-      <point x="736" y="1446" type="line"/>
-      <point x="572" y="1446" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="654" y="1158" type="line"/>
+      <point x="1005" y="0" type="line"/>
+      <point x="1198" y="0" type="line"/>
+      <point x="756" y="1446" type="line"/>
+      <point x="552" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="350" y="478" type="line"/>
-      <point x="956" y="478" type="line"/>
-      <point x="956" y="602" type="line"/>
-      <point x="350" y="602" type="line"/>
+      <point x="350" y="430" type="line"/>
+      <point x="964" y="430" type="line"/>
+      <point x="964" y="618" type="line"/>
+      <point x="350" y="618" type="line"/>
     </contour>
   </outline>
 </glyph>

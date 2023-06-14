@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="2">
-  <advance width="1220"/>
+  <advance width="1390"/>
   <unicode hex="004E"/>
-  <anchor x="707" y="1460" name="U"/>
+  <anchor x="687" y="1460" name="U"/>
   <outline>
     <component base="_latserifSW" xOffset="16"/>
     <component base="_latstemSW" xOffset="16"/>
     <component base="_latstemNW" xOffset="16"/>
-    <component base="_latstemSE" xOffset="178"/>
+    <component base="_latstemSE" xOffset="210"/>
     <component base="_latstemascW" xOffset="16" yOffset="-128"/>
     <component base="_lathalfserifascW" xOffset="16" yOffset="-128"/>
-    <component base="_latstemNE" xOffset="178"/>
-    <component base="_latstemascW" xOffset="814" yOffset="-128"/>
-    <component base="_latserifNE" xOffset="178" yOffset="408"/>
+    <component base="_latstemNE" xOffset="210"/>
+    <component base="_latstemascW" xOffset="802" yOffset="-128"/>
+    <component base="_latserifNE" xOffset="210" yOffset="408"/>
     <contour>
-      <point x="1011" y="0" type="line"/>
-      <point x="1076" y="0" type="line"/>
-      <point x="1076" y="142" type="line"/>
-      <point x="398" y="1446" type="line"/>
-      <point x="333" y="1446" type="line"/>
-      <point x="333" y="1304" type="line"/>
+      <point x="967" y="0" type="line"/>
+      <point x="1092" y="0" type="line"/>
+      <point x="1092" y="166" type="line"/>
+      <point x="448" y="1446" type="line"/>
+      <point x="323" y="1446" type="line"/>
+      <point x="323" y="1280" type="line"/>
     </contour>
   </outline>
 </glyph>

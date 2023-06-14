@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="2">
-  <advance width="1220"/>
+  <advance width="864"/>
   <unicode hex="0049"/>
   <anchor x="432" y="1460" name="U"/>
   <outline>
-    <component base="_latstemSW" xOffset="160"/>
-    <component base="_latstemNW" xOffset="160"/>
-    <component base="_latstemascW" xOffset="160" yOffset="-128"/>
+    <component base="_latstemSW" xOffset="146"/>
+    <component base="_latstemNW" xOffset="146"/>
+    <component base="_latstemascW" xOffset="146" yOffset="-128"/>
     <contour>
       <point x="116" y="0" type="line"/>
       <point x="748" y="0" type="line"/>
-      <point x="748" y="124" type="line"/>
-      <point x="116" y="124" type="line"/>
+      <point x="748" y="188" type="line"/>
+      <point x="116" y="188" type="line"/>
     </contour>
     <contour>
-      <point x="116" y="1322" type="line"/>
-      <point x="748" y="1322" type="line"/>
+      <point x="116" y="1258" type="line"/>
+      <point x="748" y="1258" type="line"/>
       <point x="748" y="1446" type="line"/>
       <point x="116" y="1446" type="line"/>
     </contour>

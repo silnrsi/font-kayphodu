@@ -9,36 +9,36 @@
     <component base="_latstemascW" xOffset="16" yOffset="-128"/>
     <component base="_latserifNW" xOffset="16" yOffset="408"/>
     <contour>
-      <point x="493" y="725" type="line"/>
-      <point x="603" y="725" type="line"/>
-      <point x="1056" y="1374" type="line"/>
-      <point x="1056" y="1446" type="line"/>
-      <point x="959" y="1446" type="line"/>
-      <point x="493" y="778" type="line"/>
+      <point x="461" y="693" type="line"/>
+      <point x="603" y="693" type="line"/>
+      <point x="1131" y="1342" type="line"/>
+      <point x="1131" y="1446" type="line"/>
+      <point x="979" y="1446" type="line"/>
+      <point x="461" y="810" type="line"/>
     </contour>
     <contour>
       <point x="1007" y="0" type="line"/>
       <point x="1167" y="0" type="line"/>
-      <point x="1167" y="124" type="line"/>
-      <point x="1007" y="124" type="line"/>
+      <point x="1167" y="188" type="line"/>
+      <point x="1007" y="188" type="line"/>
     </contour>
     <contour>
       <point x="959" y="0" type="line"/>
-      <point x="1032" y="0" type="line"/>
-      <point x="1032" y="124" type="line"/>
-      <point x="621" y="768" type="line"/>
-      <point x="507" y="768" type="line"/>
-      <point x="507" y="717" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="1051" y="188" type="line"/>
+      <point x="619" y="800" type="line"/>
+      <point x="475" y="800" type="line"/>
+      <point x="475" y="685" type="line"/>
     </contour>
     <contour>
-      <point x="321" y="696" type="line"/>
-      <point x="585" y="696" type="line"/>
-      <point x="585" y="820" type="line"/>
-      <point x="321" y="820" type="line"/>
+      <point x="321" y="664" type="line"/>
+      <point x="585" y="664" type="line"/>
+      <point x="585" y="852" type="line"/>
+      <point x="321" y="852" type="line"/>
     </contour>
     <contour>
-      <point x="735" y="1322" type="line"/>
-      <point x="1151" y="1322" type="line"/>
+      <point x="735" y="1258" type="line"/>
+      <point x="1151" y="1258" type="line"/>
       <point x="1151" y="1446" type="line"/>
       <point x="735" y="1446" type="line"/>
     </contour>

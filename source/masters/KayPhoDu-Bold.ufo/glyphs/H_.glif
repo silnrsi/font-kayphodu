@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="2">
-  <advance width="1220"/>
+  <advance width="1342"/>
   <unicode hex="0048"/>
   <outline>
     <component base="_latserifSW" xOffset="16"/>
     <component base="_latstemSW" xOffset="16"/>
     <component base="_latstemNW" xOffset="16"/>
-    <component base="_latserifSE" xOffset="146"/>
-    <component base="_latstemSE" xOffset="146"/>
+    <component base="_latserifSE" xOffset="162"/>
+    <component base="_latstemSE" xOffset="162"/>
     <component base="_latstemascW" xOffset="16" yOffset="-128"/>
     <component base="_latserifNW" xOffset="16" yOffset="408"/>
-    <component base="_latstemNE" xOffset="146"/>
-    <component base="_latstemascW" xOffset="782" yOffset="-128"/>
-    <component base="_latserifNE" xOffset="146" yOffset="408"/>
+    <component base="_latstemNE" xOffset="162"/>
+    <component base="_latstemascW" xOffset="754" yOffset="-128"/>
+    <component base="_latserifNE" xOffset="162" yOffset="408"/>
     <contour>
-      <point x="288" y="680" type="line"/>
-      <point x="1054" y="680" type="line"/>
-      <point x="1054" y="804" type="line"/>
-      <point x="288" y="804" type="line"/>
+      <point x="288" y="648" type="line"/>
+      <point x="1038" y="648" type="line"/>
+      <point x="1038" y="836" type="line"/>
+      <point x="288" y="836" type="line"/>
     </contour>
   </outline>
 </glyph>

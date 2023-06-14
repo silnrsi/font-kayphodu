@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="2">
-  <advance width="1220"/>
+  <advance width="1232"/>
   <unicode hex="0054"/>
   <outline>
     <component base="_latserifSW" xOffset="344"/>
@@ -9,21 +9,21 @@
     <component base="_latstemascW" xOffset="344" yOffset="-128"/>
     <component base="_latserifNW" xOffset="344" yOffset="408"/>
     <contour>
-      <point x="136" y="1322" type="line"/>
-      <point x="1096" y="1322" type="line"/>
-      <point x="1096" y="1446" type="line"/>
-      <point x="136" y="1446" type="line"/>
+      <point x="166" y="1258" type="line"/>
+      <point x="1066" y="1258" type="line"/>
+      <point x="1066" y="1446" type="line"/>
+      <point x="166" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="1032" y="1110" type="line"/>
-      <point x="1160" y="1110" type="line"/>
+      <point x="972" y="1078" type="line"/>
+      <point x="1160" y="1078" type="line"/>
       <point x="1160" y="1446" type="line"/>
-      <point x="1032" y="1446" type="line"/>
+      <point x="972" y="1446" type="line"/>
     </contour>
     <contour>
-      <point x="72" y="1110" type="line"/>
-      <point x="200" y="1110" type="line"/>
-      <point x="200" y="1446" type="line"/>
+      <point x="72" y="1078" type="line"/>
+      <point x="260" y="1078" type="line"/>
+      <point x="260" y="1446" type="line"/>
       <point x="72" y="1446" type="line"/>
     </contour>
   </outline>

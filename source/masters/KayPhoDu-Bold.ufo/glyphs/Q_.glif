@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q" format="2">
-  <advance width="1220"/>
+  <advance width="1232"/>
   <unicode hex="0051"/>
   <outline>
     <component base="O"/>
     <contour>
-      <point x="1108" y="-176" type="line"/>
-      <point x="1108" y="0" type="line"/>
-      <point x="616" y="478" type="line"/>
-      <point x="616" y="305" type="line"/>
+      <point x="1108" y="-200" type="line"/>
+      <point x="1108" y="57" type="line"/>
+      <point x="616" y="535" type="line"/>
+      <point x="616" y="279" type="line"/>
     </contour>
   </outline>
 </glyph>
