@@ -6,10 +6,4 @@
     <component base="period" yOffset="124"/>
     <component base="period" yOffset="726"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.97,1,0,1</string>
-    </dict>
-  </lib>
 </glyph>

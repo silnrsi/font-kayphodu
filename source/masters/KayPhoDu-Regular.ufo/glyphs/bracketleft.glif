@@ -3,19 +3,21 @@
   <advance width="626"/>
   <unicode hex="005B"/>
   <outline>
+    <component base="_latstemdescW" xOffset="-80"/>
     <component base="_latstemSW" xOffset="-80"/>
     <component base="_latstemNW" xOffset="-80"/>
-    <component base="_lathalfserifascW" xOffset="144"/>
     <component base="_latstemascW" xOffset="-80"/>
-    <component base="_latstemdescW" xOffset="-80"/>
-    <component base="_lathalfserifascW" xOffset="290"/>
-    <component base="_lathalfserifascW" xOffset="144" yOffset="-1962"/>
-    <component base="_lathalfserifascW" xOffset="290" yOffset="-1962"/>
+    <contour>
+      <point x="192" y="1450" type="line"/>
+      <point x="562" y="1450" type="line"/>
+      <point x="562" y="1574" type="line"/>
+      <point x="192" y="1574" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="-512" type="line"/>
+      <point x="562" y="-512" type="line"/>
+      <point x="562" y="-388" type="line"/>
+      <point x="192" y="-388" type="line"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

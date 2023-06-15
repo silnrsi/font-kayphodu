@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="2">
-  <advance width="608"/>
+  <advance width="720"/>
   <unicode hex="007C"/>
   <outline>
-    <component base="_latstemSW" xOffset="48"/>
-    <component base="_latstemNW" xOffset="48"/>
-    <component base="_latstemascW" xOffset="48"/>
-    <component base="_latstemdescW" xOffset="48"/>
+    <component base="_latstemSW" xOffset="74"/>
+    <component base="_latstemNW" xOffset="74"/>
+    <component base="_latstemascW" xOffset="74"/>
+    <component base="_latstemdescW" xOffset="74"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>
