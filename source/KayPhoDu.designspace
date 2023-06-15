@@ -38,7 +38,7 @@
         </source>
     </sources>
     <instances>
-        <instance familyname="Kay Pho Du TestH" filename="instances/KayPhoDuTestH-Regular.ufo" name="Kay Pho Du TestH Regular" stylemapfamilyname="Kay Pho Du TestH" stylemapstylename="regular" stylename="Regular" postscriptfontname="KayPhoDuTestH-Regular">
+        <instance familyname="Kay Pho Du TestJ" filename="instances/KayPhoDuTestJ-Regular.ufo" name="Kay Pho Du TestJ Regular" stylemapfamilyname="Kay Pho Du TestJ" stylemapstylename="regular" stylename="Regular" postscriptfontname="KayPhoDuTestJ-Regular">
             <location>
                 <dimension name="weight" xvalue="400.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -47,7 +47,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Kay Pho Du TestH" filename="instances/KayPhoDuTestH-Medium.ufo" name="Kay Pho Du TestH Medium" stylemapfamilyname="Kay Pho Du TestH Medium" stylemapstylename="regular" stylename="Medium" postscriptfontname="KayPhoDuTestH-Medium">
+        <instance familyname="Kay Pho Du TestJ" filename="instances/KayPhoDuTestJ-Medium.ufo" name="Kay Pho Du TestJ Medium" stylemapfamilyname="Kay Pho Du TestJ Medium" stylemapstylename="regular" stylename="Medium" postscriptfontname="KayPhoDuTestJ-Medium">
             <location>
                 <dimension name="weight" xvalue="500.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -56,7 +56,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Kay Pho Du TestH" filename="instances/KayPhoDuTestH-SemiBold.ufo" name="Kay Pho Du TestH SemiBold" stylemapfamilyname="Kay Pho Du TestH SemiBold" stylemapstylename="regular" stylename="SemiBold" postscriptfontname="KayPhoDuTestH-SemiBold">
+        <instance familyname="Kay Pho Du TestJ" filename="instances/KayPhoDuTestJ-SemiBold.ufo" name="Kay Pho Du TestJ SemiBold" stylemapfamilyname="Kay Pho Du TestJ SemiBold" stylemapstylename="regular" stylename="SemiBold" postscriptfontname="KayPhoDuTestJ-SemiBold">
             <location>
                 <dimension name="weight" xvalue="600.000000" />
                 <dimension name="width" xvalue="100.000000" />
@@ -65,7 +65,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Kay Pho Du TestH" filename="instances/KayPhoDuTestH-Bold.ufo" name="Kay Pho Du TestH Bold" stylemapfamilyname="Kay Pho Du TestH" stylemapstylename="bold" stylename="Bold" postscriptfontname="KayPhoDuTestH-Bold">
+        <instance familyname="Kay Pho Du TestJ" filename="instances/KayPhoDuTestJ-Bold.ufo" name="Kay Pho Du TestJ Bold" stylemapfamilyname="Kay Pho Du TestJ" stylemapstylename="bold" stylename="Bold" postscriptfontname="KayPhoDuTestJ-Bold">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />

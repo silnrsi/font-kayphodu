@@ -3,10 +3,10 @@
 <ftml version="1.0">
   <head>
     <fontscale>200</fontscale>
-    <fontsrc>url(../results/KayPhoDuProtoA-Regular.ttf)</fontsrc>
-    <fontsrc>url(../results/KayPhoDuProtoA-Medium.ttf)</fontsrc>
-    <fontsrc>url(../results/KayPhoDuProtoA-SemiBold.ttf)</fontsrc>
-    <fontsrc>url(../results/KayPhoDuProtoA-Bold.ttf)</fontsrc>
+    <fontsrc>url(../results/KayPhoDuTestJ-Regular.ttf)</fontsrc>
+    <fontsrc>url(../results/KayPhoDuTestJ-Medium.ttf)</fontsrc>
+    <fontsrc>url(../results/KayPhoDuTestJ-SemiBold.ttf)</fontsrc>
+    <fontsrc>url(../results/KayPhoDuTestJ-Bold.ttf)</fontsrc>
     <title>Misc KL Tests</title>
   </head>
   <testgroup label="Overlapping contours">

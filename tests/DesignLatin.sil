@@ -14,6 +14,9 @@
 
 %%%%% TESTS
 
+\subsection{UDHR}
+\proof[size="14pt"]{Article 26: Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit. Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace. Parents have a prior right to choose the kind of education that shall be given to their children.}
+
 \subsection{BASIC LATIN}
 \proof[size="86pt"]{ABCDEFGHI}
 \proof[size="86pt"]{JKLMNOPQ}
@@ -29,6 +32,9 @@
 \pattern[chars="@",reps="group_latincaps",format="list"]{HHOOHHOHH@HO@OH@O@B@O@N@O@P@HOH}
 \pattern[chars="@",reps="group_latinlc",format="list"]{nnoonnonn@no@oh@o@b@o@n@o@p@non}
 
-\proof[size="14pt"]{Article 26: Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit. Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace. Parents have a prior right to choose the kind of education that shall be given to their children.}
+\subsection{NUMERALS}
+\proof[size="86pt"]{0123456789}
+\pattern[chars="@",reps="group_numerals",format="list"]{0@0@1@2@3@4@5@6@7@8@9@}
+\pi[digits=500]
 
 \end{document}
