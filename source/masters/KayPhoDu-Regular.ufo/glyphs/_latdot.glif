@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_latdot" format="2">
-  <advance width="604"/>
+  <advance width="664"/>
   <outline>
     <contour>
       <point x="238" y="1272" type="line"/>
@@ -9,10 +9,4 @@
       <point x="238" y="1460" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
-    </dict>
-  </lib>
 </glyph>

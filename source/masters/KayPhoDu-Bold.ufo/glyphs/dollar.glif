@@ -9,4 +9,10 @@
     <component base="_latstemascW" xOffset="293" yOffset="50"/>
     <component base="_latstemdescW" xOffset="293" yOffset="334"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
 </glyph>

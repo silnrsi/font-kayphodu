@@ -58,3 +58,6 @@ zcaron = z + caroncomb@U | 017E
 Zcaron = Z + caroncomb@U | 017D
 fi = f & i | FB01
 fl = f & l | FB02
+hyphentwo = hyphen | 2010
+nonbreakinghyphen = hyphen | 2011
+softhyphen = hyphen | 00AD

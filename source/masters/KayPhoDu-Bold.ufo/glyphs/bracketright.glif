@@ -12,4 +12,10 @@
     <component base="_lathalfserifascW" xOffset="16" yOffset="-1962"/>
     <component base="_lathalfserifascW" xOffset="162" yOffset="-1962"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
 </glyph>

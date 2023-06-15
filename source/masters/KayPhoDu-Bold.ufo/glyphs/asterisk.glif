@@ -8,4 +8,10 @@
     <component base="_punctasterline" xScale="0.70711" xyScale="-0.70711" yxScale="0.70711" yScale="0.70711" xOffset="-689" yOffset="709"/>
     <component base="_punctasterline" xScale="0.70711" xyScale="0.70711" yxScale="-0.70711" yScale="0.70711" xOffset="986" yOffset="-14"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.65,0.48,0.2,1</string>
+    </dict>
+  </lib>
 </glyph>

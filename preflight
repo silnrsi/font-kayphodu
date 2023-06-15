@@ -10,8 +10,8 @@ echo "-----Normalizing Bold..."
 psfnormalize -p checkfix=fix source/masters/KayPhoDu-Bold.ufo
 
 echo "-----Rebuilding composites..."
-psfbuildcomp -i source/composites.txt -c -n source/masters/KayPhoDu-Regular.ufo -p backup=False
-psfbuildcomp -i source/composites.txt -c -n source/masters/KayPhoDu-Bold.ufo -p backup=False
+psfbuildcomp -i source/composites.txt --colors="g_blue,g_purple" -n source/masters/KayPhoDu-Regular.ufo -p backup=False
+psfbuildcomp -i source/composites.txt --colors="g_blue,g_purple" -n source/masters/KayPhoDu-Bold.ufo -p backup=False
 
 echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters source/KayPhoDu.designspace
