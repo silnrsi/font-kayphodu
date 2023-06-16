@@ -22,13 +22,13 @@
 % Math
 \patterngroup[name="numerals"]{1234567890}
 \patterngroup[name="supnumsfracs"]{⁄¹²³⁴½¼¾}
-\patterngroup[name="math"]{+−÷×±≤≥=≠≈∞#\%‰°√}
+\patterngroup[name="math"]{+−÷×±<>≤≥=≠≈∞#\%‰°√}
 
 % General
 \patterngroup[name="punctuation"]{.,:;!?¿¡…꤮꤯}
 \patterngroup[name="centers"]{-–—÷‐‑­‒―•·‧∙¬~}
 \patterngroup[name="quotes"]{"'“”‘’‚„`}
-\patterngroup[name="barspairs"]{\\/|¦\{\}[]()<>‹›«»}
+\patterngroup[name="barspairs"]{\\/|¦\{\}[]()‹›«»}
 \patterngroup[name="sym"]{µ∂∑∏π∫Ω∆ƒ$¢£¥¤€¶§&@◊†‡©®*^™ªº_␣}
 \patterngroup[name="spacingdiac"]{ˆ˜¯˘˙˚¸˝˛ˇ}
 \patterngroup[name="spaces"]{            }
@@ -51,6 +51,6 @@
 \proof[size="18pt"]{.,:;!?¿¡…꤮꤯@#$\%&\\/}
 \pattern[chars="@",reps="group_klpunct",format="list"]{ꤚꤢꤪ@ꤚꤢꤪ ꤚꤢꤪ@ ꤚꤢꤪ}
 \pattern[chars="X",reps="group_klsym",format="list"]{ꤚꤢꤪXꤚꤢꤪ ꤚꤢꤪX ꤚꤢꤪ}
-\proof[size="18pt"]{ꤚꤢꤪ"ꤚꤢꤪ'ꤚꤢꤪ“ꤚꤢꤪ”ꤚꤢꤪ‘ꤚꤢꤪ’ꤚꤢꤪ\{ꤚꤢꤪ\}[ꤚꤢꤪ](ꤚꤢꤪ)<ꤚꤢꤪ>‹ꤚꤢꤪ›«ꤚꤢꤪ»}
+\proof[size="18pt"]{ꤚꤢꤪ"ꤚꤢꤪ'ꤚꤢꤪ“ꤚꤢꤪ”ꤚꤢꤪ‘ꤚꤢꤪ’ꤚꤢꤪ\{ꤚꤢꤪ\}[ꤚꤢꤪ](ꤚꤢꤪ)‹ꤚꤢꤪ›«ꤚꤢꤪ»}
 
 \end{document}

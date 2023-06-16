@@ -14,13 +14,13 @@
 % Math
 \patterngroup[name="numerals"]{1234567890}
 \patterngroup[name="supnumsfracs"]{⁄¹²³⁴½¼¾}
-\patterngroup[name="math"]{+−÷×±≤≥=≠≈∞#\%‰°√}
+\patterngroup[name="math"]{+−÷×±<>≤≥=≠≈∞#\%‰°√}
 
 % General
 \patterngroup[name="punctuation"]{.,:;!?¿¡…}
 \patterngroup[name="centers"]{-–—÷‐‑­‒―•·‧∙¬~}
 \patterngroup[name="quotes"]{"'“”‘’‚„`}
-\patterngroup[name="barspairs"]{\\/|¦\{\}[]()<>‹›«»}
+\patterngroup[name="barspairs"]{\\/|¦\{\}[]()‹›«»}
 \patterngroup[name="sym"]{µ∂∑∏π∫Ω∆ƒ$¢£¥¤€¶§&@◊†‡©®*^™ªº_␣}
 \patterngroup[name="spacingdiac"]{ˆ˜¯˘˙˚¸˝˛ˇ}
 \patterngroup[name="spaces"]{            }
@@ -51,7 +51,7 @@
 \pattern[chars="@",reps="group_punctuation",format="list"]{HO@OH@no@on@ space after@ next}
 \proof[size="18pt"]{n-n–n—n‐n‑n­n‒n―n•n·n‧n∙n¬n~n_n␣n}
 \proof[size="18pt"]{n n n n n n n n n n n n nn}
-\proof[size="18pt"]{hg\\hg/hg|hg¦hg\{hg\}o[hg]o(hg)o<hg>o‹hg›o«hg»o}
+\proof[size="18pt"]{hg\\hg/hg|hg¦hg\{hg\}o[hg]o(hg)o‹hg›o«hg»o}
 \proof[size="18pt"]{hg"hg'hg“hg”hg‘hg’hg‚hg„hg`hg}
 \proof[size="18pt"]{πµ∂∑∏Ω∆∫ƒ¢$£¥€¤¶§@&◊^†‡©®*™ªº}
 
@@ -68,6 +68,6 @@
 \pattern[chars="@",reps="group_numerals",format="list"]{0@0@1@2@3@4@5@6@7@8@9@}
 \pi[digits=500]
 \proof[size="18pt"]{0⁄0¹0²0³0⁴0½0¼0¾0}
-\proof[size="18pt"]{8+8−8÷8×8±8≤8≥8=8≠8≈8∞8#8\%8‰8°8√8}
+\proof[size="18pt"]{8+8−8÷8×8±8<8>8≤8≥8=8≠8≈8∞8#8\%8‰8°8√8}
 
 \end{document}
