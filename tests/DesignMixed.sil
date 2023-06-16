@@ -4,18 +4,53 @@
 
 %%%%% GROUPS
 
+% Kayah Li groups
+\patterngroup[name="klnumerals"]{꤀꤁꤂꤃꤄꤅꤆꤇꤈꤉}
+\patterngroup[name="kl"]{ꤊꤋꤌꤍꤎꤏꤐꤑꤒꤓꤔꤕꤖꤗꤘꤙꤚꤛꤜꤝꤞꤟꤠꤡꤢꤣꤤꤥ}
+\patterngroup[name="kldiacs"]{ꤦꤧꤨꤩꤪ꤫꤬꤭}
+\patterngroup[name="klpunct"]{.,:;!?…꤮꤯}
+\patterngroup[name="klsym"]{@#$\%&\\/}
+\patterngroup[name="klpaired"]{"'“”‘’‚„`}
+
 % Latin groups
 \patterngroup[name="latincaps"]{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
 \patterngroup[name="latinlc"]{abcdefghijklmnopqrstuvwxyz}
+\patterngroup[name="latinext"]{ıßÆæŒœØøÐðÞþﬁﬂ}
+\patterngroup[name="latincombcaps"]{ÄÅÀÃÂÁÇÉÊËÈÍÎÏÌÑÖÕÓÔÒŠÜÚÛÙŸÝŽ}
+\patterngroup[name="latincomblc"]{áàâäãåçéèêëíìîïñóòôöõšúùûüÿýž}
+
+% Math
+\patterngroup[name="numerals"]{1234567890}
+\patterngroup[name="supnumsfracs"]{⁄¹²³⁴½¼¾}
+\patterngroup[name="math"]{+−÷×±≤≥=≠≈∞#\%‰°√}
 
 % General
-\patterngroup[name="numerals"]{1234567890}
-\patterngroup[name="punctuation"]{.,:;!-}
+\patterngroup[name="punctuation"]{.,:;!?¿¡…꤮꤯}
+\patterngroup[name="centers"]{-–—÷‐‑­‒―•·‧∙¬~}
+\patterngroup[name="quotes"]{"'“”‘’‚„`}
+\patterngroup[name="barspairs"]{\\/|¦\{\}[]()<>‹›«»}
+\patterngroup[name="sym"]{µ∂∑∏π∫Ω∆ƒ$¢£¥¤€¶§&@◊†‡©®*^™ªº_␣}
+\patterngroup[name="spacingdiac"]{ˆ˜¯˘˙˚¸˝˛ˇ}
+\patterngroup[name="spaces"]{            }
 
 %%%%% TESTS
 
 \subsection{MIXED}
+\proof[size="14pt"]{ꤒꤢ꤬ꤖꤟꤌꤣ ꤔꤛꤣ꤬ ꤘꤤ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤊꤟꤛꤢ꤬꤭ꤊꤢꤨ꤬꤭  ꤜꤟꤛꤢꤥ꤬ꤒꤢ꤬ꤙꤢꤧ꤬ ꤚꤢꤪ ꤢ꤬ꤟꤢꤩꤙꤢꤧ꤬ ꤊꤢ꤬ꤡꤢꤧ ꤑꤢ꤬ꤡꤢꤪ꤯  ꤢ꤬ꤘꤛꤢ꤬ꤜꤟꤛꤢ꤬ friendship ꤢ꤬ꤞꤢꤧꤕꤜꤢꤪ꤬ ꤔꤢ ꤊꤢꤦꤡꤛꤣ ꤥ꤬ꤜꤢꤩ꤬꤭ ꤊꤟꤌꤣ꤬꤭ ꤒꤟꤢꤧ꤬ꤖꤢꤨꤒꤟꤢꤧ꤬ꤜꤟꤛꤢꤩ꤬ ꤢ꤬ꤚꤟꤌꤣ꤬ ꤒꤢ꤬ꤟꤢꤩ꤬  ꤚꤢꤪ ꤏꤢꤨ꤬ꤘꤛꤢ꤬꤭ꤔꤢ, “ꤞꤤ꤬꤭ ꤘꤛꤢꤩꤢꤩ꤬ꤊꤚꤛꤢ ꤞꤤ꤬꤭ꤖꤢꤨ ꤏꤢꤧ꤬ꤢꤩ꤬ ꤒꤤ꤬꤭ꤒꤢꤩ꤬꤭” ꤘꤤ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤊꤟꤛꤢ꤬꤭ꤊꤢꤨ꤭ꤜꤟꤛꤢ ꤛꤢꤩ꤬꤭ ꤏꤢꤨ꤬ꤘꤛꤢ꤬꤭ꤓꤢꤨ꤬ꤗꤟꤌꤣ ꤒꤢ꤬ꤙꤢꤧ꤬ ꤔꤢ, “ꤔꤟꤢꤧ꤬ꤘꤛꤢꤩꤢꤩ꤬  ꤊꤚꤛꤢ ꤔꤟꤢꤧ꤬ꤖꤢꤨ ꤏꤢꤧ꤬ꤢꤩ꤬ ꤒꤤ꤬꤭ꤒꤢꤩ꤬꤭?” Everyone has the right to education. ꤓꤢꤨ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤟꤢꤩꤢꤧ꤬ ꤔꤢ, “ꤠꤢ꤬꤭ ꤘꤛꤢꤩꤢꤩ꤬ ꤠꤢ꤬꤭ꤖꤢꤨ ꤒꤢ꤬ꤟꤢꤩ꤬ ꤏꤢꤧ꤬ꤢꤩ꤬ ꤔꤢ ꤞꤎꤤ” ꤢ꤬ꤟꤢꤩꤜꤢꤨ꤬꤭꤯ ꤘꤤ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤊꤟꤛꤢ꤬꤭ꤊꤢꤨ꤬꤭ꤜꤟꤛꤢ ꤔꤛꤣ꤬ ꤢꤛꤢ꤬꤭ꤜꤢ꤬ꤜꤛꤢ ꤢ꤬ꤊꤟꤛꤢ꤬꤭ꤊꤢꤨ꤬꤭ ꤚꤢꤪ “ꤥ!  ꤗꤟꤢꤟꤟꤢꤧ꤬꤭?” EVERYONE HAS THE RIGHT TO EDUCATION. ꤢ꤬ꤟꤢꤩ ꤓꤛꤣ꤬꤭ ꤘꤤ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤊꤜꤛꤢ꤬꤭ꤜꤟꤛꤢ ꤏꤢꤨ꤬ꤘꤛꤢ꤬꤭ ꤓꤛꤢꤗꤟꤌꤣ ꤔꤢ, “ꤔꤟꤢꤧ꤬ ꤘꤛꤢꤩꤢꤩ꤬ꤊꤚꤛꤢ ꤔꤟꤢꤧ꤬ ꤖꤢꤨꤏꤢꤧ꤬ꤢꤩ꤬ ꤒꤤ꤬꤭ꤒꤢꤩ꤬꤭?” ꤟꤢꤩꤜꤢꤨ꤬꤭ꤚꤢꤪ}
 
-\proof[size="14pt"]{ꤒꤢ꤬ꤖꤟꤌꤣ ꤔꤛꤣ꤬ ꤘꤤ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤊꤟꤛꤢ꤬꤭ꤊꤢꤨ꤬꤭  ꤜꤟꤛꤢꤥ꤬ꤒꤢ꤬ꤙꤢꤧ꤬ ꤚꤢꤪ ꤢ꤬ꤟꤢꤩꤙꤢꤧ꤬ ꤊꤢ꤬ꤡꤢꤧ ꤑꤢ꤬ꤡꤢꤪ꤯  ꤢ꤬ꤘꤛꤢ꤬ꤜꤟꤛꤢ꤬ friendship ꤢ꤬ꤞꤢꤧꤕꤜꤢꤪ꤬ ꤔꤢ ꤊꤢꤦꤡꤛꤣ ꤥ꤬ꤜꤢꤩ꤬꤭ ꤊꤟꤌꤣ꤬꤭ ꤒꤟꤢꤧ꤬ꤖꤢꤨꤒꤟꤢꤧ꤬ꤜꤟꤛꤢꤩ꤬ ꤢ꤬ꤚꤟꤌꤣ꤬ ꤒꤢ꤬ꤟꤢꤩ꤬  ꤚꤢꤪ ꤏꤢꤨ꤬ꤘꤛꤢ꤬꤭ꤔꤢ, “ꤞꤤ꤬꤭ ꤘꤛꤢꤩꤢꤩ꤬ꤊꤚꤛꤢ ꤞꤤ꤬꤭ꤖꤢꤨ ꤏꤢꤧ꤬ꤢꤩ꤬ ꤒꤤ꤬꤭ꤒꤢꤩ꤬꤭” ꤘꤤ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤊꤟꤛꤢ꤬꤭ꤊꤢꤨ꤭ꤜꤟꤛꤢ ꤛꤢꤩ꤬꤭ ꤏꤢꤨ꤬ꤘꤛꤢ꤬꤭ꤓꤢꤨ꤬ꤗꤟꤌꤣ ꤒꤢ꤬ꤙꤢꤧ꤬ ꤔꤢ, “ꤔꤟꤢꤧ꤬ꤘꤛꤢꤩꤢꤩ꤬  ꤊꤚꤛꤢ ꤔꤟꤢꤧ꤬ꤖꤢꤨ ꤏꤢꤧ꤬ꤢꤩ꤬ ꤒꤤ꤬꤭ꤒꤢꤩ꤬꤭?” Everyone has the right to education.ꤓꤢꤨ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤟꤢꤩꤢꤧ꤬ ꤔꤢ, “ꤠꤢ꤬꤭ ꤘꤛꤢꤩꤢꤩ꤬ ꤠꤢ꤬꤭ꤖꤢꤨ ꤒꤢ꤬ꤟꤢꤩ꤬ ꤏꤢꤧ꤬ꤢꤩ꤬ ꤔꤢ ꤞꤎꤤ” ꤢ꤬ꤟꤢꤩꤜꤢꤨ꤬꤭꤯ ꤘꤤ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤊꤟꤛꤢ꤬꤭ꤊꤢꤨ꤬꤭ꤜꤟꤛꤢ ꤔꤛꤣ꤬ ꤢꤛꤢ꤬꤭ꤜꤢ꤬ꤜꤛꤢ ꤢ꤬ꤊꤟꤛꤢ꤬꤭ꤊꤢꤨ꤬꤭ ꤚꤢꤪ “ꤥ!  ꤗꤟꤢꤟꤟꤢꤧ꤬꤭?” EVERYONE HAS THE RIGHT TO EDUCATION. ꤢ꤬ꤟꤢꤩ ꤓꤛꤣ꤬꤭ ꤘꤤ꤬ꤗꤟꤌꤣꤘꤢꤨ꤬ ꤊꤜꤛꤢ꤬꤭ꤜꤟꤛꤢ ꤏꤢꤨ꤬ꤘꤛꤢ꤬꤭ ꤓꤛꤢꤗꤟꤌꤣ ꤔꤢ, “ꤔꤟꤢꤧ꤬ ꤘꤛꤢꤩꤢꤩ꤬ꤊꤚꤛꤢ ꤔꤟꤢꤧ꤬ ꤖꤢꤨꤏꤢꤧ꤬ꤢꤩ꤬ ꤒꤤ꤬꤭ꤒꤢꤩ꤬꤭?” ꤟꤢꤩꤜꤢꤨ꤬꤭ꤚꤢꤪ}
+\subsection{LETTERS}
+\proof[size="18pt"]{ꤊꤋꤌꤍꤎꤏꤐꤑꤒꤓꤔꤕꤖꤗꤘꤙꤚꤛꤜꤝꤞꤟꤠꤡꤢꤣꤤꤥ}
+
+\subsection{DIACRITICS}
+\proof[size="18pt"]{ꤘꤘꤦꤘꤧꤘꤨꤘꤩꤘꤪꤘ꤫ꤘ꤬ꤘ꤭ꤘ}
+
+\subsection{KL NUMERALS}
+\proof[size="18pt"]{꤀꤁꤂꤃꤄꤅꤆꤇꤈꤉}
+
+\subsection{PUNCTUATION}
+\proof[size="18pt"]{.,:;!?¿¡…꤮꤯@#$\%&\\/}
+\pattern[chars="@",reps="group_klpunct",format="list"]{ꤚꤢꤪ@ꤚꤢꤪ ꤚꤢꤪ@ ꤚꤢꤪ}
+\pattern[chars="X",reps="group_klsym",format="list"]{ꤚꤢꤪXꤚꤢꤪ ꤚꤢꤪX ꤚꤢꤪ}
+\proof[size="18pt"]{ꤚꤢꤪ"ꤚꤢꤪ'ꤚꤢꤪ“ꤚꤢꤪ”ꤚꤢꤪ‘ꤚꤢꤪ’ꤚꤢꤪ\{ꤚꤢꤪ\}[ꤚꤢꤪ](ꤚꤢꤪ)<ꤚꤢꤪ>‹ꤚꤢꤪ›«ꤚꤢꤪ»}
 
 \end{document}
