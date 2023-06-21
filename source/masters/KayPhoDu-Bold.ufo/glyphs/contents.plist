@@ -454,6 +454,8 @@
   <string>egrave.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
+  <key>eight.001</key>
+  <string>eight.001.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
   <key>emdash</key>
