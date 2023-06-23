@@ -29,7 +29,8 @@
     <string>/uniA901/uniA916 &amp;/uniA91E H&amp;HS8gHn§n¶</string>
     <string>#/fraction 0%/perthousand +
 &lt;=&gt;/notequal/infinity ±/lessequal 9/greaterequal 
-/integral/radical/approxequal ÷0¤7/minus ×</string>
+/integral/radical/approxequal/_latdot i÷0¤7/minus ×</string>
+    <string>^{D}</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
