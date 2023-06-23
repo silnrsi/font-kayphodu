@@ -31,6 +31,7 @@
 &lt;=&gt;/notequal/infinity ±/lessequal 9/greaterequal 
 /integral/radical/approxequal/_latdot i÷0¤7/minus ×</string>
     <string>^{D}</string>
+    <string>0123456789</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
