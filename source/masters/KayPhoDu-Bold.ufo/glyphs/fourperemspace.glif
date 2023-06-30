@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fourperemspace" format="2">
-  <advance width="770"/>
+  <advance width="512"/>
   <unicode hex="2005"/>
   <outline/>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>
