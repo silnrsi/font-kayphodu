@@ -1,28 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotless" format="2">
-  <advance width="572"/>
+  <advance width="700"/>
   <unicode hex="0131"/>
-  <anchor x="332" y="1100" name="U"/>
+  <anchor x="350" y="1100" name="U"/>
   <outline>
-    <component base="_latstemSW" xOffset="60"/>
-    <component base="_latstemNW" xOffset="60"/>
+    <component base="_latstemSW" xOffset="64"/>
+    <component base="_latstemNW" xOffset="64"/>
     <contour>
-      <point x="92" y="0" type="line"/>
-      <point x="572" y="0" type="line"/>
-      <point x="572" y="124" type="line"/>
-      <point x="92" y="124" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="604" y="0" type="line"/>
+      <point x="604" y="188" type="line"/>
+      <point x="96" y="188" type="line"/>
     </contour>
     <contour>
-      <point x="92" y="914" type="line"/>
-      <point x="332" y="914" type="line"/>
-      <point x="332" y="1038" type="line"/>
-      <point x="92" y="1038" type="line"/>
+      <point x="96" y="850" type="line"/>
+      <point x="336" y="850" type="line"/>
+      <point x="336" y="1038" type="line"/>
+      <point x="96" y="1038" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>
