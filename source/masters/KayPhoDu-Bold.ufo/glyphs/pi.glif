@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi" format="2">
-  <advance width="1128"/>
+  <advance width="1180"/>
   <unicode hex="03C0"/>
   <outline>
-    <component base="_latstemSW" xOffset="60"/>
-    <component base="_latstemNW" xOffset="60"/>
-    <component base="_latstemSE" xOffset="-60"/>
-    <component base="_lathalfserifSE"/>
-    <component base="_latstemNE" xOffset="-60"/>
-    <component base="_lathalfserifSE" xOffset="-860"/>
+    <component base="_latstemSW" xOffset="68"/>
+    <component base="_latstemNW" xOffset="68"/>
+    <component base="_latstemSE" xOffset="-52"/>
+    <component base="_lathalfserifSE" xOffset="26"/>
+    <component base="_latstemNE" xOffset="-52"/>
+    <component base="_lathalfserifSE" xOffset="-834"/>
     <contour>
-      <point x="48" y="914" type="line"/>
-      <point x="1132" y="914" type="line"/>
-      <point x="1132" y="1038" type="line"/>
-      <point x="48" y="1038" type="line"/>
+      <point x="38" y="850" type="line"/>
+      <point x="1142" y="850" type="line"/>
+      <point x="1142" y="1038" type="line"/>
+      <point x="38" y="1038" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

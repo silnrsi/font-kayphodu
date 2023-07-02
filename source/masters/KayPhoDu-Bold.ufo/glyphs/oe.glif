@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe" format="2">
-  <advance width="1642"/>
+  <advance width="1624"/>
   <unicode hex="0153"/>
   <outline>
     <component base="_latcirNE"/>
     <component base="_latcirNW"/>
     <component base="_latcirSE"/>
     <component base="_latcirSW"/>
-    <component base="e" xOffset="678"/>
+    <component base="e" xOffset="627"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="2">
-  <advance width="1001"/>
+  <advance width="1020"/>
   <unicode hex="00F8"/>
   <outline>
     <component base="_latcirNE"/>
@@ -8,16 +8,10 @@
     <component base="_latcirSE"/>
     <component base="_latcirSW"/>
     <contour>
-      <point x="245" y="-110" type="line"/>
-      <point x="909" y="1150" type="line"/>
-      <point x="774" y="1153" type="line"/>
-      <point x="108" y="-110" type="line"/>
+      <point x="277" y="-110" type="line"/>
+      <point x="919" y="1153" type="line"/>
+      <point x="740" y="1153" type="line"/>
+      <point x="98" y="-110" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

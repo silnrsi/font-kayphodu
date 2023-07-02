@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cent" format="2">
-  <advance width="964"/>
+  <advance width="989"/>
   <unicode hex="00A2"/>
   <outline>
     <component base="_latcirNW"/>
     <component base="_latcirSW"/>
     <component base="_latcurveNE"/>
     <component base="_latcurveSE"/>
-    <component base="_latstemSW" xOffset="238"/>
-    <component base="_latstemNW" xOffset="238"/>
-    <component base="_latstemascW" xOffset="238" yOffset="-300"/>
-    <component base="_latstemdescW" xOffset="238" yOffset="300"/>
+    <component base="_latstemSW" xOffset="218"/>
+    <component base="_latstemNW" xOffset="218"/>
+    <component base="_latstemascW" xOffset="218" yOffset="-300"/>
+    <component base="_latstemdescW" xOffset="218" yOffset="300"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

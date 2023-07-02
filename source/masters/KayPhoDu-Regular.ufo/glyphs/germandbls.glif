@@ -2,7 +2,7 @@
 <glyph name="germandbls" format="2">
   <advance width="1118"/>
   <unicode hex="00DF"/>
-  <anchor x="1198" y="1100" name="U"/>
+  <anchor x="583" y="1632" name="U"/>
   <outline>
     <component base="_latstemSW"/>
     <component base="_latstemNW"/>
@@ -83,10 +83,4 @@
       <point x="812" y="1220" type="curve" smooth="yes"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>
