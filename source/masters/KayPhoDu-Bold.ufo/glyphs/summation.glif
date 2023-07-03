@@ -6,10 +6,10 @@
     <component base="_latserifSW" xOffset="16"/>
     <component base="_latserifNW" xOffset="16" yOffset="408"/>
     <contour>
-      <point x="288" y="1258" type="line"/>
+      <point x="308" y="1258" type="line"/>
       <point x="934" y="1258" type="line"/>
       <point x="934" y="1446" type="line"/>
-      <point x="288" y="1446" type="line"/>
+      <point x="308" y="1446" type="line"/>
     </contour>
     <contour>
       <point x="288" y="0" type="line"/>
@@ -24,12 +24,12 @@
       <point x="840" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="666" y="743" type="line"/>
-      <point x="266" y="1258" type="line"/>
+      <point x="686" y="743" type="line"/>
+      <point x="286" y="1258" type="line"/>
       <point x="64" y="1258" type="line"/>
       <point x="464" y="743" type="line"/>
       <point x="64" y="188" type="line"/>
-      <point x="266" y="188" type="line"/>
+      <point x="286" y="188" type="line"/>
     </contour>
     <contour>
       <point x="840" y="1094" type="line"/>

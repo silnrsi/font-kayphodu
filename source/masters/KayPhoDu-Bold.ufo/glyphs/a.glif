@@ -2,7 +2,7 @@
 <glyph name="a" format="2">
   <advance width="1058"/>
   <unicode hex="0061"/>
-  <anchor x="520" y="1100" name="U"/>
+  <anchor x="500" y="1100" name="U"/>
   <outline>
     <component base="_lathalfserifSE" xOffset="-90"/>
     <component base="_latstemSE" xOffset="-90"/>

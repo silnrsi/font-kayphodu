@@ -4,16 +4,10 @@
   <anchor x="-510" y="1100" name="_U"/>
   <outline>
     <contour>
-      <point x="-510" y="1169" type="line"/>
+      <point x="-574" y="1169" type="line"/>
       <point x="-341" y="1169" type="line"/>
-      <point x="-706" y="1562" type="line"/>
-      <point x="-875" y="1562" type="line"/>
+      <point x="-686" y="1562" type="line"/>
+      <point x="-919" y="1562" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

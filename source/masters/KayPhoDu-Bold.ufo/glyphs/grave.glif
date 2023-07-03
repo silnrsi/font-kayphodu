@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="2">
+  <advance width="1020"/>
   <unicode hex="0060"/>
   <outline>
     <component base="gravecomb" xOffset="1020"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

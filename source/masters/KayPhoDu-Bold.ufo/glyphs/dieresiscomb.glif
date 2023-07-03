@@ -3,13 +3,7 @@
   <unicode hex="0308"/>
   <anchor x="-510" y="1100" name="_U"/>
   <outline>
-    <component base="_latdot" xOffset="-1006"/>
-    <component base="_latdot" xOffset="-618"/>
+    <component base="_latdot" xOffset="-1054"/>
+    <component base="_latdot" xOffset="-666"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.65,0.48,0.2,1</string>
-    </dict>
-  </lib>
 </glyph>

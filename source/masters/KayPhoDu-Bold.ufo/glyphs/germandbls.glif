@@ -2,7 +2,6 @@
 <glyph name="germandbls" format="2">
   <advance width="1128"/>
   <unicode hex="00DF"/>
-  <anchor x="581" y="1659" name="U"/>
   <outline>
     <component base="_latstemSW"/>
     <component base="_latstemNW"/>
