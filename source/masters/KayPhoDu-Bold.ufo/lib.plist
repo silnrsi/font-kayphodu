@@ -8,7 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3202</string>
+  <string>3151</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>abcdefghijklmnopqrstuvwxyz</string>
@@ -27,11 +27,10 @@
     <string>/uniA916 ~/uniA916 ^/uniA916/dagger/uniA916/bullet/uniA916/lozenge/uniA916/daggerdbl/uniA916/FontBslnSideBrngMrkrLft/uniA916/FontBslnSideBrngMrkrRt/uniA916</string>
     <string>0#0/uniA921//H/uniA921 0/fraction 0%0/perthousand 0/approxequal 0=0/notequal 0±0/lessequal 0/greaterequal 0&lt;0&gt;0×0+0/minus 0÷0/infinity 0$£/euro ¥/summation/product/Ohm/Delta ¢µ/partialdiff/pi/florin/integral ¬0/radical 0¤08°0/bulletoperator 00/space</string>
     <string>/uniA901/uniA916 &amp;/uniA91E H&amp;HS8gHn§n¶</string>
-    <string>#/fraction 0%/perthousand +
-&lt;=&gt;/notequal/infinity ±/lessequal 9/greaterequal 
-/integral/radical/approxequal/_latdot i÷0¤7/minus ×</string>
-    <string>^{D}</string>
-    <string>0123456789</string>
+    <string>1¹%02²3³4/foursuperior ½¼¾</string>
+    <string>0/Ohm/Delta/lozenge</string>
+    <string>~/space/tildecomb/tilde</string>
+    <string>/openbox</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
