@@ -28,9 +28,10 @@
     <string>0#0/uniA921//H/uniA921 0/fraction 0%0/perthousand 0/approxequal 0=0/notequal 0±0/lessequal 0/greaterequal 0&lt;0&gt;0×0+0/minus 0÷0/infinity 0$£/euro ¥/summation/product/Ohm/Delta ¢µ/partialdiff/pi/florin/integral ¬0/radical 0¤08°0/bulletoperator 00/space</string>
     <string>/uniA901/uniA916 &amp;/uniA91E H&amp;HS8gHn§n¶</string>
     <string>1¹%02²3³4/foursuperior ½¼¾</string>
-    <string>0/Ohm/Delta/lozenge</string>
-    <string>~/space/tildecomb/tilde</string>
-    <string>/openbox</string>
+    <string>0/Ohm/summation/Delta/_latcrossbar/dagger/lozenge</string>
+    <string>
+~/space/tildecomb/tilde/openbox ^«»/guilsinglleft/guilsinglright</string>
+    <string>LO&amp;S§/_klascNW ®©/trademark ªº</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
