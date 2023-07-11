@@ -24,9 +24,8 @@
     <string>/uniA901/uniA916 &amp;/uniA91E H&amp;HS8gHn§n¶</string>
     <string>1¹%02²3³4/foursuperior ½¼¾</string>
     <string>0/Ohm/summation/Delta/_latcrossbar/dagger/lozenge</string>
-    <string>
-~/space/tildecomb/tilde/openbox ^«»/guilsinglleft/guilsinglright</string>
-    <string>&amp;S§R®C©/trademark Maªoº</string>
+    <string>~/space/tildecomb/tilde n/openbox n^«»/guilsinglleft/guilsinglright</string>
+    <string>&amp;S§R®C©@/trademark Maªoº</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
