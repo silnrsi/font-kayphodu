@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata version="1.0">
-  <uniqueid id="org.sil.fonts.kayphodu.2.800" />
+  <uniqueid id="org.sil.fonts.kayphodu.3.000" />
   <vendor name="SIL International" url="https://software.sil.org/wstech/" />
   <credits>
     <credit
+      name="Annie Olsen"
+      url="https://software.sil.org/wstech/"
+      role="Latin bold numerals and symbols"
+    />
+    <credit
       name="Victor Gaultney"
       url="https://software.sil.org/wstech/"
-      role="Design and engineering"
+      role="Design and engineering, additional weights, Latin"
     />
     <credit
       name="Khu Oo Reh"
@@ -18,7 +23,7 @@
       Kay Pho Du is a font for the Kayah Li script, based initially on the design of Karenni (https://github.com/silnrsi/font-karenni).
     </text>
   </description>
-  <license url="http://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
+  <license url="https://scripts.sil.org/OFL" id="org.sil.ofl.1.1">
     <text lang="en">
       Copyright (c) 2019-2023 SIL International, based on the overall design of Karenni (Copyright (c) 2016-2019, Khu Oo Reh), with Reserved Font Name "Kay Pho Du".
       
