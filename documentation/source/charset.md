@@ -1,6 +1,6 @@
 ---
 title: Kay Pho Du - Character Set Support
-fontversion: 2.000
+fontversion: 3.000
 ---
 
 This font supports the Kayah Li script plus a range of useful Latin characters.

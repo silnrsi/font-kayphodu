@@ -107,3 +107,5 @@ __pycache__/
 # temporary doc files
 documentation/source/pdftemp/
 documentation/source/productsite/
+.ninja_log
+build.ninja
