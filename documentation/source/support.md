@@ -19,5 +19,5 @@ If you have a bug to report or a suggestion for how we could improve the fonts p
 
 ## Contact form
 
-If the documentation and community fail to answer your question or need further help using the fonts, please contact us using [the form on the Kay Pho Du web site](https://software.sil.org/kayphodu/).
+If the documentation and community fail to answer your question or need further help using the fonts, please contact us using [the form on the Kay Pho Du web site](https://software.sil.org/kayphodu/about/contact/).
 
